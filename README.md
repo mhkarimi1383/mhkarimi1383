@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhkarimi1383&show_icons=true&theme=dark) 
+
+#### They Are used languages not favourite
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarimi1383&theme=dark)
 <!--
 **mhkarimi1383/mhkarimi1383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
