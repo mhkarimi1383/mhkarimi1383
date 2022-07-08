@@ -29,10 +29,7 @@ src="https://img.shields.io/github/followers/mhkarimi1383?logo=github&style=for-
 
 <a href="https://github.com/mhkarimi1383" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarimi1383&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mhkarimi1383/goAPIBaseProject" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhkarimi1383&repo=goAPIBaseProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mhkarimi1383/forwarder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhkarimi1383&repo=forwarder&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## Listening On (Currently or Recently)
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/mhkarimi1383/sms_serial_verification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhkarimi1383&repo=sms_serial_verification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mhkarimi1383/python-redis-migrator" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhkarimi1383&repo=python-redis-migrator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+[![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&redirect=true)
