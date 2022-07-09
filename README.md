@@ -24,6 +24,8 @@ src="https://img.shields.io/github/followers/mhkarimi1383?logo=github&style=for-
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mhkarimi1383&theme=jolly" width="700">
 
+![mhkarimi1383 snake gif](https://github.com/mhkarimi1383/mhkarimi1383/blob/output/github-contribution-grid-snake.svg)
+
 ## Listening On (Currently or Recently)
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&redirect=true)
