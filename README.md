@@ -5,6 +5,8 @@
 DevOps Engineer & Programmer
 ----------------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkarimi1383" alt="Snipeur060" /> </p>  
+
 # 💫 About Me:
 💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Docker, Kubernetes and CloudNative Lover<br>🐧 Arch Linux & Debian User<br>🔷 OSS Lover<br><br>CheckOut my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)
 
