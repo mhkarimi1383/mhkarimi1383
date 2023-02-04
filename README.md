@@ -35,6 +35,6 @@ DevOps Engineer & Programmer
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-## 🎧 Listening On (Currently or Recently)
+<!-- ## 🎧 Listening On (Currently or Recently)
 
-[![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&redirect=true)
+[![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&redirect=true) -->
