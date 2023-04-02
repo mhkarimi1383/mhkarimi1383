@@ -10,7 +10,7 @@ DevOps Engineer & Programmer
 # 💫 About Me:
 💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Docker, Kubernetes and CloudNative Lover<br>🐧 Arch Linux & Debian User<br>🔷 OSS Lover<br><br>CheckOut my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)
 
-## 🤓 Mainly working on
+## 🤓 Maintainer of
 
 * [basalam/kaastolon](https://github.com/basalam/kaastolon)
 * [pg_pro](https://github.com/mhkarimi1383/pg_pro)
