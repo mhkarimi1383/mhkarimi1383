@@ -9,7 +9,7 @@ DevOps Engineer & Programmer
 <a rel="me" href="https://mastodon.social/@mhkarimi1383">Mastodon</a>
 
 # 💫 About Me
-💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Docker, Kubernetes and CloudNative Lover<br>🐧 Arch Linux & Debian User<br>🔷 OSS Lover<br><br>CheckOut my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)
+💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Docker, Kubernetes and CloudNative Lover<br>🐧 Arch Linux & Debian User<br>🔷 OSS Lover<br><br>Check out my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)<br><br>Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhkarimi1383%20topic%3Adotfiles&type=repositories)
 
 ## 🤓 Maintainer of
 
