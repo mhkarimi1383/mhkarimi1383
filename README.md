@@ -8,7 +8,7 @@ DevOps Engineer | Programmer | Open Source Enthusiast
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkarimi1383" alt="mhkarimi1383" /> </p>
 
 # 💫 About Me
-💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Docker, Kubernetes and CloudNative Lover<br>🐧 NixOS & Debian User<br>🔷 OSS Lover<br><br>Check out my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)<br><br>Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhkarimi1383%20topic%3Adotfiles&type=repositories)
+💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Container, Kubernetes and CloudNative Lover<br>🐧 NixOS & Debian User<br>🔷 OSS Lover<br><br>Check out my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)<br><br>Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhkarimi1383%20topic%3Adotfiles&type=repositories)
 
 ## 🤓 Maintainer of
 
