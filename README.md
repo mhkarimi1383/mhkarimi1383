@@ -6,7 +6,6 @@ DevOps Engineer | Programmer | Open Source Enthusiast
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkarimi1383" alt="mhkarimi1383" /> </p>
-<a rel="me" href="https://mastodon.social/@mhkarimi1383">Mastodon</a>
 
 # 💫 About Me
 💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Docker, Kubernetes and CloudNative Lover<br>🐧 Arch Linux & Debian User<br>🔷 OSS Lover<br><br>Check out my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)<br><br>Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhkarimi1383%20topic%3Adotfiles&type=repositories)
@@ -30,14 +29,15 @@ DevOps Engineer | Programmer | Open Source Enthusiast
 ![mhkarimi1383 snake gif](https://github.com/mhkarimi1383/mhkarimi1383/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mhkarimi1383&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mhkarimi1383&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<!--
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<!-- ## 🎧 Listening On (Currently or Recently)
+## 🎧 Listening On (Currently or Recently)
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=9p2s7pumci2anmu63l8wi3sqg&redirect=true) -->
