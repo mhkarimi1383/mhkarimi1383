@@ -13,6 +13,7 @@ DevOps Engineer | Programmer | Open Source Enthusiast
 ## 🤓 Maintainer of
 
 * [ParminCloud/Containers](https://github.com/ParminCloud/Containers)
+* [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel)
 * [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer)
 * [url-shortener](https://github.com/mhkarimi1383/url-shortener)
 
