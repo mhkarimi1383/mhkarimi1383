@@ -9,44 +9,46 @@ DevOps Engineer | Programmer | Open Source Enthusiast
 # 💫 About Me
 💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Container, Kubernetes and CloudNative Lover<br>🐧 NixOS & Debian User<br>🔷 OSS Lover<br><br>Check out my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)<br><br>Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhkarimi1383%20topic%3Adotfiles&type=repositories)
 
-# 👷 Check out what I'm currently working on
+## ⚡ Recent Activity
+
+### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-# 🌱 My latest projects
+### 🌱 My latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-# 🔭 Latest releases I've contributed to
+### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-# 🔨 My recent Pull Requests
+### 🔨 My recent Pull Requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-# ⭐ Recent Stars
+### ⭐ Recent Stars
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-# 👯 Check out some of my recent followers
+### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mhkarimi1383&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhkarimi1383&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarimi1383&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![mhkarimi1383 snake gif](https://github.com/mhkarimi1383/mhkarimi1383/blob/output/snake.svg)
 
-## 🏆 GitHub Trophies
+#### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mhkarimi1383&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
