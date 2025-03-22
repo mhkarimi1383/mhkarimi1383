@@ -6,8 +6,16 @@ DevOps Engineer | Programmer | Open Source Enthusiast
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkarimi1383" alt="mhkarimi1383" /> </p>
 
-# 💫 About Me
+## 💫 About Me
 💻 DevOps Engineer and Programmer<br>😎 Geek<br>🎮 XBOX Player<br>🙏 Talk is cheep, Show me the code... Linus Torvalds<br>🕵️‍♂️ Command Line Lover<br>🐳 Container, Kubernetes and CloudNative Lover<br>🐧 NixOS & Debian User<br>🔷 OSS Lover<br><br>Check out my blog [here](https://karimi.dev)<br>I am also providing some public services check them out [here](https://apps.karimi.dev)<br><br>Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhkarimi1383%20topic%3Adotfiles&type=repositories)
+
+## 📊 Stats
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mhkarimi1383&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkarimi1383&theme=dracula&hide_border=false" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarimi1383&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="60%" src="https://github.com/mhkarimi1383/mhkarimi1383/blob/output/snake.svg" />
+</p>
 
 ## ⚡ Recent Activity
 
@@ -84,12 +92,6 @@ DevOps Engineer | Programmer | Open Source Enthusiast
 - [Iankulani](https://github.com/Iankulani)
 - [S-sohofi](https://github.com/S-sohofi)
 
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mhkarimi1383&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mhkarimi1383&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarimi1383&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![mhkarimi1383 snake gif](https://github.com/mhkarimi1383/mhkarimi1383/blob/output/snake.svg)
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mhkarimi1383&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
