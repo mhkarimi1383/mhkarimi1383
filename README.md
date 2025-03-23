@@ -47,14 +47,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (today)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (today)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (today)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (today)
-- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (today)
-- [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (today)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (today)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (today)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 day ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 day ago)
+- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (1 day ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 day ago)
+- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (1 day ago)
+- [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (1 day ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 day ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (1 day ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 
@@ -73,8 +73,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-operator-0.43.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-operator-0.43.1), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
-- [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 2 days ago) - New 🌊 wave for @helm
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-operator-0.43.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-operator-0.43.1), 2 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 3 days ago) - New 🌊 wave for @helm
 - [stakater/application](https://github.com/stakater/application) ([v6.0.2](https://github.com/stakater/application/releases/tag/v6.0.2), 2 weeks ago) - Generic helm chart for all kind of applications
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) ([redis-ha-4.33.4](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.33.4), 3 weeks ago) - Various helm charts migrated from [helm/stable] due to deprecation
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 1 month ago) - 
@@ -94,21 +94,21 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:rocket: Helm Chart publish using Github Pages and actions](https://github.com/openebs/rawfile-localpv/pull/68) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:green_heart: Add dependabot](https://github.com/openebs/rawfile-localpv/pull/65) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Moving from requirements.txt to pyproject.toml (poetry)](https://github.com/openebs/rawfile-localpv/pull/63) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
-- [:sparkles: Add stale action to close stale PRs/Issues](https://github.com/openebs/rawfile-localpv/pull/56) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
+- [:sparkles: Add stale action to close stale PRs/Issues](https://github.com/openebs/rawfile-localpv/pull/56) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [Remove deprecated --parallel in docker compose pull](https://github.com/openreplay/openreplay/pull/3066) on [openreplay/openreplay](https://github.com/openreplay/openreplay) (3 weeks ago)
 
 ### ⭐ Recent Stars
 
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (today)
-- [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (2 days ago)
-- [b1ek/hey](https://github.com/b1ek/hey) - A DuckDuckGo AI chat client (3 days ago)
-- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (4 days ago)
-- [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor (4 days ago)
-- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com (5 days ago)
-- [unstppbl/gowap](https://github.com/unstppbl/gowap) - Wappalyzer implementation in Go (5 days ago)
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (5 days ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (5 days ago)
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (6 days ago)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (1 day ago)
+- [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (3 days ago)
+- [b1ek/hey](https://github.com/b1ek/hey) - A DuckDuckGo AI chat client (4 days ago)
+- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (5 days ago)
+- [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor (5 days ago)
+- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com (6 days ago)
+- [unstppbl/gowap](https://github.com/unstppbl/gowap) - Wappalyzer implementation in Go (6 days ago)
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (6 days ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (6 days ago)
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
