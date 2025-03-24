@@ -47,14 +47,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (today)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (1 day ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 day ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (1 day ago)
-- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (1 day ago)
-- [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (1 day ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 day ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 day ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 day ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (2 days ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (2 days ago)
+- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (2 days ago)
+- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (2 days ago)
+- [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (2 days ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (2 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 
@@ -73,8 +73,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-operator-0.43.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-operator-0.43.1), 2 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
-- [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 3 days ago) - New 🌊 wave for @helm
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-operator-0.43.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-operator-0.43.1), 3 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 4 days ago) - New 🌊 wave for @helm
 - [stakater/application](https://github.com/stakater/application) ([v6.0.2](https://github.com/stakater/application/releases/tag/v6.0.2), 2 weeks ago) - Generic helm chart for all kind of applications
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) ([redis-ha-4.33.4](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.33.4), 3 weeks ago) - Various helm charts migrated from [helm/stable] due to deprecation
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 1 month ago) - 
@@ -99,16 +99,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel. (today)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (1 day ago)
-- [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (3 days ago)
-- [b1ek/hey](https://github.com/b1ek/hey) - A DuckDuckGo AI chat client (4 days ago)
-- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (5 days ago)
-- [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor (5 days ago)
-- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com (6 days ago)
-- [unstppbl/gowap](https://github.com/unstppbl/gowap) - Wappalyzer implementation in Go (6 days ago)
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (6 days ago)
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (6 days ago)
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel. (1 day ago)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (2 days ago)
+- [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (4 days ago)
+- [b1ek/hey](https://github.com/b1ek/hey) - A DuckDuckGo AI chat client (5 days ago)
+- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (6 days ago)
+- [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor (6 days ago)
+- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com (1 week ago)
+- [unstppbl/gowap](https://github.com/unstppbl/gowap) - Wappalyzer implementation in Go (1 week ago)
+- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (1 week ago)
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
