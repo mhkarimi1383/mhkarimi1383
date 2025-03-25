@@ -47,16 +47,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 day ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (2 days ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (2 days ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (2 days ago)
-- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (2 days ago)
-- [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (2 days ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (2 days ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (2 days ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (3 days ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 days ago)
+- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (3 days ago)
+- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (3 days ago)
+- [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (3 days ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (3 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -73,12 +73,12 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-k8s-stack-0.39.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-k8s-stack-0.39.2), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
-- [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 4 days ago) - New 🌊 wave for @helm
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-k8s-stack-0.39.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-k8s-stack-0.39.2), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 5 days ago) - New 🌊 wave for @helm
 - [stakater/application](https://github.com/stakater/application) ([v6.0.2](https://github.com/stakater/application/releases/tag/v6.0.2), 2 weeks ago) - Generic helm chart for all kind of applications
-- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) ([redis-ha-4.33.4](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.33.4), 3 weeks ago) - Various helm charts migrated from [helm/stable] due to deprecation
+- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) ([redis-ha-4.33.4](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.33.4), 4 weeks ago) - Various helm charts migrated from [helm/stable] due to deprecation
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 1 month ago) - 
-- [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.2](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.2), 1 month ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
+- [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.2](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.2), 2 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 2 months ago) - MinIO Client SDK for Python
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-0.0.13](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-0.0.13), 3 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [mhkarimi1383/health-checker](https://github.com/mhkarimi1383/health-checker) ([0.0.1](https://github.com/mhkarimi1383/health-checker/releases/tag/0.0.1), 6 months ago) - Health check your dependencies with ease
@@ -95,18 +95,18 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:green_heart: Add dependabot](https://github.com/openebs/rawfile-localpv/pull/65) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Moving from requirements.txt to pyproject.toml (poetry)](https://github.com/openebs/rawfile-localpv/pull/63) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:sparkles: Add stale action to close stale PRs/Issues](https://github.com/openebs/rawfile-localpv/pull/56) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
-- [Remove deprecated --parallel in docker compose pull](https://github.com/openreplay/openreplay/pull/3066) on [openreplay/openreplay](https://github.com/openreplay/openreplay) (3 weeks ago)
+- [Remove deprecated --parallel in docker compose pull](https://github.com/openreplay/openreplay/pull/3066) on [openreplay/openreplay](https://github.com/openreplay/openreplay) (4 weeks ago)
 
 ### ⭐ Recent Stars
 
-- [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (today)
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist &amp; Nextcloud support designed for GNOME (today)
-- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel. (1 day ago)
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (2 days ago)
-- [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (4 days ago)
-- [b1ek/hey](https://github.com/b1ek/hey) - A DuckDuckGo AI chat client (5 days ago)
-- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (6 days ago)
-- [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor (6 days ago)
+- [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (1 day ago)
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist &amp; Nextcloud support designed for GNOME (1 day ago)
+- [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel. (2 days ago)
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (3 days ago)
+- [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (5 days ago)
+- [b1ek/hey](https://github.com/b1ek/hey) - A DuckDuckGo AI chat client (6 days ago)
+- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (1 week ago)
+- [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor (1 week ago)
 - [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com (1 week ago)
 - [unstppbl/gowap](https://github.com/unstppbl/gowap) - Wappalyzer implementation in Go (1 week ago)
 
