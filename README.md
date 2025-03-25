@@ -99,6 +99,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs (today)
+- [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients (today)
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (1 day ago)
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist &amp; Nextcloud support designed for GNOME (1 day ago)
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock LSM. Think firejail, but lightweight, user-friendly, and baked into the kernel. (2 days ago)
@@ -107,8 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [b1ek/hey](https://github.com/b1ek/hey) - A DuckDuckGo AI chat client (6 days ago)
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser  (1 week ago)
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor (1 week ago)
-- [GoogleCloudPlatform/gcping](https://github.com/GoogleCloudPlatform/gcping) - The source for the CLI and web app at gcping.com (1 week ago)
-- [unstppbl/gowap](https://github.com/unstppbl/gowap) - Wappalyzer implementation in Go (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
