@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (today)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (today)
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀 (1 day ago)
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs (1 day ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel. (3 days ago)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (4 days ago)
 - [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (6 days ago)
-- [b1ek/hey](https://github.com/b1ek/hey) - A DuckDuckGo AI chat client (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
