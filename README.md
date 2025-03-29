@@ -47,10 +47,10 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (today)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 days ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 days ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (3 days ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 days ago)
 - [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (3 days ago)
 - [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (3 days ago)
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (3 days ago)
@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff. (today)
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (3 days ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (3 days ago)
 - [FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt) - TUI for Telegram written in Rust 🦀 (4 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist &amp; Nextcloud support designed for GNOME (5 days ago)
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel. (6 days ago)
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 (1 week ago)
-- [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
