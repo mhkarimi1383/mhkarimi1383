@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-operator-crds-0.0.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-operator-crds-0.0.1), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-k8s-stack-0.41.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-k8s-stack-0.41.1), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 2 weeks ago) - New 🌊 wave for @helm
 - [stakater/application](https://github.com/stakater/application) ([v6.0.2](https://github.com/stakater/application/releases/tag/v6.0.2), 4 weeks ago) - Generic helm chart for all kind of applications
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) ([redis-ha-4.33.4](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.33.4), 1 month ago) - Various helm charts migrated from [helm/stable] due to deprecation
