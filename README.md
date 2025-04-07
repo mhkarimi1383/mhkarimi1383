@@ -47,7 +47,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects  (1 day ago)
+- [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects  (2 days ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 week ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (1 week ago)
@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-logs-single-0.9.4](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-logs-single-0.9.4), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-logs-single-0.9.4](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-logs-single-0.9.4), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 2 weeks ago) - New 🌊 wave for @helm
 - [stakater/application](https://github.com/stakater/application) ([v6.0.2](https://github.com/stakater/application/releases/tag/v6.0.2), 1 month ago) - Generic helm chart for all kind of applications
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) ([redis-ha-4.33.4](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.33.4), 1 month ago) - Various helm charts migrated from [helm/stable] due to deprecation
@@ -99,12 +99,12 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language (today)
-- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System (today)
-- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (today)
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code (1 day ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (2 days ago)
-- [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups! (2 days ago)
+- [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language (1 day ago)
+- [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System (1 day ago)
+- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (1 day ago)
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code (2 days ago)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (3 days ago)
+- [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups! (3 days ago)
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor (1 week ago)
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository. (1 week ago)
 - [astral-sh/ruff-lsp](https://github.com/astral-sh/ruff-lsp) - A Language Server Protocol implementation for Ruff. (1 week ago)
