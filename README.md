@@ -73,11 +73,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
+- [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), today) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-single-0.17.0](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-single-0.17.0), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 2 weeks ago) - New 🌊 wave for @helm
 - [stakater/application](https://github.com/stakater/application) ([v6.0.2](https://github.com/stakater/application/releases/tag/v6.0.2), 1 month ago) - Generic helm chart for all kind of applications
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 2 months ago) - 
-- [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.2](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.2), 2 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 2 months ago) - MinIO Client SDK for Python
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-0.0.13](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-0.0.13), 4 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [mhkarimi1383/health-checker](https://github.com/mhkarimi1383/health-checker) ([0.0.1](https://github.com/mhkarimi1383/health-checker/releases/tag/0.0.1), 6 months ago) - Health check your dependencies with ease
