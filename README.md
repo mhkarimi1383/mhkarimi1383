@@ -47,7 +47,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/) (1 day ago)
+- [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/) (today)
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects  (3 days ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 week ago)
