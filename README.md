@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [opensearch-project/security-dashboards-plugin](https://github.com/opensearch-project/security-dashboards-plugin) - 🔐 Manage your internal users, roles, access control, and audit logs from OpenSearch Dashboards (today)
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS &amp; SMIL) (1 day ago)
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (1 day ago)
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language (2 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (4 days ago)
 - [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups! (4 days ago)
 - [Col-E/Recaf](https://github.com/Col-E/Recaf) - The modern Java bytecode editor (1 week ago)
-- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
