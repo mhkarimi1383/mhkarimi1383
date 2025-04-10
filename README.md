@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go. (today)
 - [Densaugeo/uploadserver](https://github.com/Densaugeo/uploadserver) - Python&#39;s http.server extended to include a file upload page (1 day ago)
 - [opensearch-project/security-dashboards-plugin](https://github.com/opensearch-project/security-dashboards-plugin) - 🔐 Manage your internal users, roles, access control, and audit logs from OpenSearch Dashboards (2 days ago)
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS &amp; SMIL) (3 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (4 days ago)
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code (5 days ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (6 days ago)
-- [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups! (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
