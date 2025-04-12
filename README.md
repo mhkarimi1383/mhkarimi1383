@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (today)
 - [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go. (2 days ago)
 - [Densaugeo/uploadserver](https://github.com/Densaugeo/uploadserver) - Python&#39;s http.server extended to include a file upload page (3 days ago)
 - [opensearch-project/security-dashboards-plugin](https://github.com/opensearch-project/security-dashboards-plugin) - 🔐 Manage your internal users, roles, access control, and audit logs from OpenSearch Dashboards (4 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System (6 days ago)
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (6 days ago)
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code (1 week ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
