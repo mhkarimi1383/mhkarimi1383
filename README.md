@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (today)
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (1 day ago)
 - [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go. (3 days ago)
 - [Densaugeo/uploadserver](https://github.com/Densaugeo/uploadserver) - Python&#39;s http.server extended to include a file upload page (4 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Perl/perl5](https://github.com/Perl/perl5) - 🐪 The Perl programming language (1 week ago)
 - [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System (1 week ago)
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (1 week ago)
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
