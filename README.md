@@ -99,6 +99,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area (today)
+- [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (today)
 - [awslabs/flowgger](https://github.com/awslabs/flowgger) - A fast data collector in Rust (today)
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen. (today)
 - [zeek/zeek](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. (1 day ago)
@@ -107,8 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (3 days ago)
 - [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go. (5 days ago)
 - [Densaugeo/uploadserver](https://github.com/Densaugeo/uploadserver) - Python&#39;s http.server extended to include a file upload page (6 days ago)
-- [opensearch-project/security-dashboards-plugin](https://github.com/opensearch-project/security-dashboards-plugin) - 🔐 Manage your internal users, roles, access control, and audit logs from OpenSearch Dashboards (1 week ago)
-- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS &amp; SMIL) (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
