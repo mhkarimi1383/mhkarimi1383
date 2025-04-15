@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [itzg/restify](https://github.com/itzg/restify) - Enables REST-like access to HTML pages by scraping and parsing them into JSON. (today)
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area (today)
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (today)
 - [awslabs/flowgger](https://github.com/awslabs/flowgger) - A fast data collector in Rust (today)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 days ago)
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects (3 days ago)
 - [hypermodeinc/badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go. (5 days ago)
-- [Densaugeo/uploadserver](https://github.com/Densaugeo/uploadserver) - Python&#39;s http.server extended to include a file upload page (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
