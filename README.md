@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:art: Add pre-commit and format the code](https://github.com/openebs/rawfile-localpv/pull/84) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:wrench: Making K8s version configurable](https://github.com/openebs/rawfile-localpv/pull/82) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 days ago)
 - [:green_heart: Image build fix fixtures](https://github.com/openebs/rawfile-localpv/pull/75) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [Develop](https://github.com/mhkarimi1383/rawfile-localpv/pull/2) on [mhkarimi1383/rawfile-localpv](https://github.com/mhkarimi1383/rawfile-localpv) (1 month ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:rocket: Helm Chart publish using Github Pages and actions](https://github.com/openebs/rawfile-localpv/pull/68) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:green_heart: Add dependabot](https://github.com/openebs/rawfile-localpv/pull/65) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [Moving from requirements.txt to pyproject.toml (poetry)](https://github.com/openebs/rawfile-localpv/pull/63) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:sparkles: Add stale action to close stale PRs/Issues](https://github.com/openebs/rawfile-localpv/pull/56) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
