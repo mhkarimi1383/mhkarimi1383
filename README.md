@@ -49,14 +49,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (today)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (today)
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (3 days ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (today)
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/) (1 week ago)
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects  (2 weeks ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 weeks ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (3 weeks ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (3 weeks ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 weeks ago)
 - [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (3 weeks ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (3 weeks ago)
+- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (3 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:sparkles: Add rtl support](https://github.com/colinwilson/lotusdocs/pull/225) on [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) (1 day ago)
 - [:art: Add pre-commit and format the code](https://github.com/openebs/rawfile-localpv/pull/84) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
 - [:wrench: Making K8s version configurable](https://github.com/openebs/rawfile-localpv/pull/82) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:sparkles: Add fsType to storageClass in helm](https://github.com/openebs/rawfile-localpv/pull/74) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:arrow_up: Upgrade python in pyproject and nix shell](https://github.com/openebs/rawfile-localpv/pull/73) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:rocket: Helm Chart publish using Github Pages and actions](https://github.com/openebs/rawfile-localpv/pull/68) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:green_heart: Add dependabot](https://github.com/openebs/rawfile-localpv/pull/65) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
