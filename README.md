@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-distributed-0.13.0](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-distributed-0.13.0), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-distributed-0.13.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-distributed-0.13.2), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [stakater/application](https://github.com/stakater/application) ([v6.0.3](https://github.com/stakater/application/releases/tag/v6.0.3), 4 days ago) - Generic helm chart for all kind of applications
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 2 weeks ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 1 month ago) - New 🌊 wave for @helm
