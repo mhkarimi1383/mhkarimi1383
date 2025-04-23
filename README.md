@@ -74,7 +74,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔭 Latest releases I've contributed to
 
 - [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-distributed-0.13.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-distributed-0.13.2), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
-- [stakater/application](https://github.com/stakater/application) ([v6.0.3](https://github.com/stakater/application/releases/tag/v6.0.3), 5 days ago) - Generic helm chart for all kind of applications
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 2 weeks ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [helmwave/helmwave](https://github.com/helmwave/helmwave) ([v0.41.9](https://github.com/helmwave/helmwave/releases/tag/v0.41.9), 1 month ago) - New 🌊 wave for @helm
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 2 months ago) - 
@@ -83,6 +82,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mhkarimi1383/health-checker](https://github.com/mhkarimi1383/health-checker) ([0.0.1](https://github.com/mhkarimi1383/health-checker/releases/tag/0.0.1), 7 months ago) - Health check your dependencies with ease
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([lvm-localpv-1.6.2](https://github.com/openebs/lvm-localpv/releases/tag/lvm-localpv-1.6.2), 7 months ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [mhkarimi1383/keywind-dracula](https://github.com/mhkarimi1383/keywind-dracula) ([1.3.0](https://github.com/mhkarimi1383/keywind-dracula/releases/tag/1.3.0), 8 months ago) - Dracula theme for keycloak (based on keywind and tailwind)
+- [mhkarimi1383/reflector](https://github.com/mhkarimi1383/reflector) ([chart-0.0.2](https://github.com/mhkarimi1383/reflector/releases/tag/chart-0.0.2), 2 years ago) - A generic K8s reflector that handles every kind, with support for automatically created secrets
 
 ### 🔨 My recent Pull Requests
 
@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM (today)
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients (1 day ago)
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server (2 days ago)
 - [slinso/goTemplateBenchmark](https://github.com/slinso/goTemplateBenchmark) - comparing the performance of different template engines (2 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [itzg/restify](https://github.com/itzg/restify) - Enables REST-like access to HTML pages by scraping and parsing them into JSON. (1 week ago)
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area (1 week ago)
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go (1 week ago)
-- [awslabs/flowgger](https://github.com/awslabs/flowgger) - A fast data collector in Rust (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
