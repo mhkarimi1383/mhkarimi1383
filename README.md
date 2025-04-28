@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (today)
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF (today)
 - [everviolet/nvim](https://github.com/everviolet/nvim) - :rose: a comfy neovim colorscheme for cozy morning coding. (1 day ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (3 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [slinso/goTemplateBenchmark](https://github.com/slinso/goTemplateBenchmark) - comparing the performance of different template engines (1 week ago)
 - [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster) - 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions. (1 week ago)
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust. (1 week ago)
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime] (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
