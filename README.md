@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-logs-single-0.9.8](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-logs-single-0.9.8), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-logs-single-0.9.8](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-logs-single-0.9.8), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 3 weeks ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 3 months ago) - 
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 3 months ago) - MinIO Client SDK for Python
@@ -98,14 +98,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [serjs/socks5-server](https://github.com/serjs/socks5-server) -  (today)
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (today)
-- [vancedapps/rv-manager](https://github.com/vancedapps/rv-manager) - Welcome to RV Manager, your go-to tool for managing RV apps and other modded APKs. RV Manager is inspired by the old popular app named Vanced Manager. We&#39;ve taken the concept and enhanced it to provide you with a seamless experience in managing and updating your favorite apps. (today)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (today)
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (3 days ago)
-- [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF (3 days ago)
-- [everviolet/nvim](https://github.com/everviolet/nvim) - :rose: a comfy neovim colorscheme for cozy morning coding. (4 days ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (6 days ago)
+- [serjs/socks5-server](https://github.com/serjs/socks5-server) -  (1 day ago)
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (1 day ago)
+- [vancedapps/rv-manager](https://github.com/vancedapps/rv-manager) - Welcome to RV Manager, your go-to tool for managing RV apps and other modded APKs. RV Manager is inspired by the old popular app named Vanced Manager. We&#39;ve taken the concept and enhanced it to provide you with a seamless experience in managing and updating your favorite apps. (1 day ago)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 day ago)
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (4 days ago)
+- [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF (4 days ago)
+- [everviolet/nvim](https://github.com/everviolet/nvim) - :rose: a comfy neovim colorscheme for cozy morning coding. (5 days ago)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 week ago)
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM (1 week ago)
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients (1 week ago)
 
