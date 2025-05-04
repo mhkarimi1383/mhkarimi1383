@@ -49,8 +49,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (1 week ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 week ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (2 weeks ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 weeks ago)
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/) (3 weeks ago)
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects  (4 weeks ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 month ago)
@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-logs-single-0.9.8](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-logs-single-0.9.8), 2 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-logs-single-0.9.8](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-logs-single-0.9.8), 3 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 3 weeks ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 3 months ago) - 
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 3 months ago) - MinIO Client SDK for Python
@@ -86,7 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔨 My recent Pull Requests
 
 - [:construction: Refactoring FS Support to be more standard](https://github.com/openebs/rawfile-localpv/pull/86) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
+- [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:sparkles: Add rtl support](https://github.com/colinwilson/lotusdocs/pull/225) on [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) (2 weeks ago)
 - [:art: Add pre-commit and format the code](https://github.com/openebs/rawfile-localpv/pull/84) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:wrench: Making K8s version configurable](https://github.com/openebs/rawfile-localpv/pull/82) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
@@ -98,13 +98,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [serjs/socks5-server](https://github.com/serjs/socks5-server) -  (2 days ago)
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (2 days ago)
-- [vancedapps/rv-manager](https://github.com/vancedapps/rv-manager) - Welcome to RV Manager, your go-to tool for managing RV apps and other modded APKs. RV Manager is inspired by the old popular app named Vanced Manager. We&#39;ve taken the concept and enhanced it to provide you with a seamless experience in managing and updating your favorite apps. (2 days ago)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (2 days ago)
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (5 days ago)
-- [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF (5 days ago)
-- [everviolet/nvim](https://github.com/everviolet/nvim) - :rose: a comfy neovim colorscheme for cozy morning coding. (6 days ago)
+- [serjs/socks5-server](https://github.com/serjs/socks5-server) -  (3 days ago)
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (3 days ago)
+- [vancedapps/rv-manager](https://github.com/vancedapps/rv-manager) - Welcome to RV Manager, your go-to tool for managing RV apps and other modded APKs. RV Manager is inspired by the old popular app named Vanced Manager. We&#39;ve taken the concept and enhanced it to provide you with a seamless experience in managing and updating your favorite apps. (3 days ago)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 days ago)
+- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (6 days ago)
+- [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF (6 days ago)
+- [everviolet/nvim](https://github.com/everviolet/nvim) - :rose: a comfy neovim colorscheme for cozy morning coding. (1 week ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 week ago)
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM (1 week ago)
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients (1 week ago)
