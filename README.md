@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [mariushelf/shelved_cache](https://github.com/mariushelf/shelved_cache) - Persistent Cache implementation for Python cachetools. (today)
+- [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators (today)
 - [quantum5/win2xcur](https://github.com/quantum5/win2xcur) - win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite. (1 day ago)
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) -  (4 days ago)
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (4 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (1 week ago)
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF (1 week ago)
 - [everviolet/nvim](https://github.com/everviolet/nvim) - :rose: a comfy neovim colorscheme for cozy morning coding. (1 week ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 week ago)
-- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
