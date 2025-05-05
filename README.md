@@ -47,6 +47,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) -  (today)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (today)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (today)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (1 week ago)
@@ -56,7 +57,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects  (1 month ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 month ago)
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (1 month ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 month ago)
 
 ### 🌱 My latest projects
 
