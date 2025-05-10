@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments (today)
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (today)
 - [namreg/godown](https://github.com/namreg/godown) - Distributed, fault-tolerant key-value storage written in go. (today)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (3 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators (5 days ago)
 - [quantum5/win2xcur](https://github.com/quantum5/win2xcur) - win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite. (6 days ago)
 - [serjs/socks5-server](https://github.com/serjs/socks5-server) -  (1 week ago)
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
