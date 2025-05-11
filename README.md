@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it ! (today)
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments (1 day ago)
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (1 day ago)
 - [namreg/godown](https://github.com/namreg/godown) - Distributed, fault-tolerant key-value storage written in go. (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mariushelf/shelved_cache](https://github.com/mariushelf/shelved_cache) - Persistent Cache implementation for Python cachetools. (6 days ago)
 - [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators (6 days ago)
 - [quantum5/win2xcur](https://github.com/quantum5/win2xcur) - win2xcur is a tool that converts cursors from Windows format (*.cur, *.ani) to Xcursor format. It also contains x2wincur which does the opposite. (1 week ago)
-- [serjs/socks5-server](https://github.com/serjs/socks5-server) -  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
