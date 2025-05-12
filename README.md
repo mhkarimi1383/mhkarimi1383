@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper (today)
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (1 day ago)
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it ! (1 day ago)
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (5 days ago)
 - [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (5 days ago)
 - [mariushelf/shelved_cache](https://github.com/mariushelf/shelved_cache) - Persistent Cache implementation for Python cachetools. (1 week ago)
-- [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
