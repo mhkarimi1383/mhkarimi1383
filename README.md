@@ -47,13 +47,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (today)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (3 days ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 week ago)
 - [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) - ParminCloud service documentation (1 week ago)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (2 weeks ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (3 weeks ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (3 weeks ago)
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/) (1 month ago)
 - [mhkarimi1383/minecraft-wallpapers](https://github.com/mhkarimi1383/minecraft-wallpapers) - Wallpapers Collected from https://www.minecraft.net/en-us/collectibles?tabs=%7B%22tab%22%3A0%7D to be able to be used as sub-module in dotfiles/configurations and projects  (1 month ago)
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (1 month ago)
@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [pulp/pulp_ansible](https://github.com/pulp/pulp_ansible) - A Pulp plugin that manages Ansible content, i.e. roles, collections (today)
+- [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Ansible Galaxy Server - Issues on https://forum.ansible.com Docs on https://galaxy-ng.readthedocs.io/ (today)
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper (1 day ago)
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (2 days ago)
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it ! (2 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [namreg/godown](https://github.com/namreg/godown) - Distributed, fault-tolerant key-value storage written in go. (3 days ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (6 days ago)
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 (6 days ago)
-- [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird (6 days ago)
-- [mariushelf/shelved_cache](https://github.com/mariushelf/shelved_cache) - Persistent Cache implementation for Python cachetools. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
