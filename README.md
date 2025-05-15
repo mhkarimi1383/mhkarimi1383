@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [im-samir-dev/tbot-barq](https://github.com/im-samir-dev/tbot-barq) - A sample Telegram bot to get data from an external server and send to users (today)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 day ago)
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. (1 day ago)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (4 days ago)
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it ! (4 days ago)
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments (5 days ago)
-- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
