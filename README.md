@@ -47,9 +47,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 day ago)
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (3 days ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (4 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (2 days ago)
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (4 days ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (5 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
 - [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) - ParminCloud service documentation (1 week ago)
@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-single-0.19.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-single-0.19.1), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-single-0.19.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-single-0.19.1), 2 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 1 month ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 3 months ago) - 
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 3 months ago) - MinIO Client SDK for Python
@@ -86,7 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔨 My recent Pull Requests
 
 - [:construction: Refactoring FS Support to be more standard](https://github.com/openebs/rawfile-localpv/pull/86) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
-- [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
+- [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 weeks ago)
 - [:sparkles: Add rtl support](https://github.com/colinwilson/lotusdocs/pull/225) on [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) (4 weeks ago)
 - [:art: Add pre-commit and format the code](https://github.com/openebs/rawfile-localpv/pull/84) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:wrench: Making K8s version configurable](https://github.com/openebs/rawfile-localpv/pull/82) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -98,15 +98,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [im-samir-dev/tbot-barq](https://github.com/im-samir-dev/tbot-barq) - A sample Telegram bot to get data from an external server and send to users (2 days ago)
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (3 days ago)
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. (3 days ago)
-- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (3 days ago)
-- [pulp/pulp_ansible](https://github.com/pulp/pulp_ansible) - A Pulp plugin that manages Ansible content, i.e. roles, collections (4 days ago)
-- [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Ansible Galaxy Server - Issues on https://forum.ansible.com Docs on https://galaxy-ng.readthedocs.io/ (4 days ago)
-- [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper (5 days ago)
-- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (6 days ago)
-- [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it ! (6 days ago)
+- [im-samir-dev/tbot-barq](https://github.com/im-samir-dev/tbot-barq) - A sample Telegram bot to get data from an external server and send to users (3 days ago)
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (4 days ago)
+- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. (4 days ago)
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (4 days ago)
+- [pulp/pulp_ansible](https://github.com/pulp/pulp_ansible) - A Pulp plugin that manages Ansible content, i.e. roles, collections (5 days ago)
+- [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Ansible Galaxy Server - Issues on https://forum.ansible.com Docs on https://galaxy-ng.readthedocs.io/ (5 days ago)
+- [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper (6 days ago)
+- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (1 week ago)
+- [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it ! (1 week ago)
 - [ConSol/docker-headless-vnc-container](https://github.com/ConSol/docker-headless-vnc-container) - Collection of Docker images with headless VNC environments (1 week ago)
 
 ### 👯 Check out some of my recent followers
