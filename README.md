@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (today)
 - [alemures/fast-json](https://github.com/alemures/fast-json) - A lightning fast on the fly JSON parser (today)
 - [sheredom/subprocess.h](https://github.com/sheredom/subprocess.h) - 🐜 single header process launching solution for C and C&#43;&#43;  (today)
 - [im-samir-dev/tbot-barq](https://github.com/im-samir-dev/tbot-barq) - A sample Telegram bot to get data from an external server and send to users (4 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [pulp/pulp_ansible](https://github.com/pulp/pulp_ansible) - A Pulp plugin that manages Ansible content, i.e. roles, collections (6 days ago)
 - [ansible/galaxy_ng](https://github.com/ansible/galaxy_ng) - Ansible Galaxy Server - Issues on https://forum.ansible.com Docs on https://galaxy-ng.readthedocs.io/ (6 days ago)
 - [ponyorm/pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper (1 week ago)
-- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
