@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) - JSON Formatter for Python Logging (today)
+- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python (today)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (today)
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites (today)
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python (2 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [alemures/fast-json](https://github.com/alemures/fast-json) - A lightning fast on the fly JSON parser (2 days ago)
 - [sheredom/subprocess.h](https://github.com/sheredom/subprocess.h) - 🐜 single header process launching solution for C and C&#43;&#43;  (2 days ago)
 - [im-samir-dev/tbot-barq](https://github.com/im-samir-dev/tbot-barq) - A sample Telegram bot to get data from an external server and send to users (6 days ago)
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
-- [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
