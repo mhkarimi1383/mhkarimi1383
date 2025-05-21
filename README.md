@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (today)
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor (today)
 - [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) - JSON Formatter for Python Logging (today)
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python (today)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (today)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Kikobeats/null-prototype-object](https://github.com/Kikobeats/null-prototype-object) - Fastest way for creating null-prototype objects in JavaScript (2 days ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (2 days ago)
 - [alemures/fast-json](https://github.com/alemures/fast-json) - A lightning fast on the fly JSON parser (2 days ago)
-- [sheredom/subprocess.h](https://github.com/sheredom/subprocess.h) - 🐜 single header process launching solution for C and C&#43;&#43;  (2 days ago)
-- [im-samir-dev/tbot-barq](https://github.com/im-samir-dev/tbot-barq) - A sample Telegram bot to get data from an external server and send to users (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
