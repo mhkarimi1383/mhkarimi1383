@@ -47,7 +47,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (5 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (6 days ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 week ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-distributed-0.15.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-distributed-0.15.2), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-distributed-0.15.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-distributed-0.15.2), 2 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 1 month ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 3 months ago) - 
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 4 months ago) - MinIO Client SDK for Python
@@ -98,16 +98,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (today)
-- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor (today)
-- [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) - JSON Formatter for Python Logging (today)
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python (today)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (today)
-- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites (today)
-- [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python (2 days ago)
-- [Kikobeats/null-prototype-object](https://github.com/Kikobeats/null-prototype-object) - Fastest way for creating null-prototype objects in JavaScript (2 days ago)
-- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (2 days ago)
-- [alemures/fast-json](https://github.com/alemures/fast-json) - A lightning fast on the fly JSON parser (2 days ago)
+- [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (1 day ago)
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor (1 day ago)
+- [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) - JSON Formatter for Python Logging (1 day ago)
+- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python (1 day ago)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 day ago)
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites (1 day ago)
+- [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python (3 days ago)
+- [Kikobeats/null-prototype-object](https://github.com/Kikobeats/null-prototype-object) - Fastest way for creating null-prototype objects in JavaScript (3 days ago)
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (3 days ago)
+- [alemures/fast-json](https://github.com/alemures/fast-json) - A lightning fast on the fly JSON parser (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
