@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [anderskm/gputil](https://github.com/anderskm/gputil) - A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python (today)
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service (today)
 - [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson) - Python bindings for the simdjson project. (today)
 - [TeskaLabs/cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Very fast Python JSON parsing library (today)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor (1 day ago)
 - [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) - JSON Formatter for Python Logging (1 day ago)
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python (1 day ago)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader (1 day ago)
 
 ### 👯 Check out some of my recent followers
 
