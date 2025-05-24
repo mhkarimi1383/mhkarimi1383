@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. (today)
+- [janwilmake/forgithub](https://github.com/janwilmake/forgithub) - GitHub Tools Powered By URL UX (today)
 - [anderskm/gputil](https://github.com/anderskm/gputil) - A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python (2 days ago)
 - [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service (2 days ago)
 - [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson) - Python bindings for the simdjson project. (2 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks (2 days ago)
 - [crazy-max/docker-7zip](https://github.com/crazy-max/docker-7zip) - 7-Zip Docker image (3 days ago)
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor (3 days ago)
-- [nhairs/python-json-logger](https://github.com/nhairs/python-json-logger) - JSON Formatter for Python Logging (3 days ago)
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
