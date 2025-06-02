@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [vineethtrv/css-loader](https://github.com/vineethtrv/css-loader) - This is a library having a collection of different types of CSS loaders, spinners (today)
 - [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust (2 days ago)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (2 days ago)
 - [go-playground/locales](https://github.com/go-playground/locales) - :earth_americas: a set of locales generated from the CLDR Project which can be used independently or within an i18n package; these were built for use with, but not exclusive to https://github.com/go-playground/universal-translator (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (5 days ago)
 - [lni/dragonboat](https://github.com/lni/dragonboat) - A feature complete and high performance multi-group Raft library in Go.   (5 days ago)
 - [Mahdi-zarei/nekoray](https://github.com/Mahdi-zarei/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box) (6 days ago)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
