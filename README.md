@@ -73,18 +73,19 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), today) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-logs-single-0.11.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-logs-single-0.11.2), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 1 month ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 4 months ago) - 
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 4 months ago) - MinIO Client SDK for Python
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-0.0.13](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-0.0.13), 5 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [mhkarimi1383/health-checker](https://github.com/mhkarimi1383/health-checker) ([0.0.1](https://github.com/mhkarimi1383/health-checker/releases/tag/0.0.1), 8 months ago) - Health check your dependencies with ease
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([lvm-localpv-1.6.2](https://github.com/openebs/lvm-localpv/releases/tag/lvm-localpv-1.6.2), 8 months ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [mhkarimi1383/keywind-dracula](https://github.com/mhkarimi1383/keywind-dracula) ([1.3.0](https://github.com/mhkarimi1383/keywind-dracula/releases/tag/1.3.0), 9 months ago) - Dracula theme for keycloak (based on keywind and tailwind)
 - [mhkarimi1383/reflector](https://github.com/mhkarimi1383/reflector) ([chart-0.0.2](https://github.com/mhkarimi1383/reflector/releases/tag/chart-0.0.2), 2 years ago) - A generic K8s reflector that handles every kind, with support for automatically created secrets
 
 ### 🔨 My recent Pull Requests
 
+- [docs(provisioning): :memo: Fix mountOptions indent in docs](https://github.com/openebs/lvm-localpv/pull/401) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (today)
 - [docs(provisioning): :memo: Add formatOptions parameter document](https://github.com/openebs/lvm-localpv/pull/396) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (today)
 - [:construction: Refactoring FS Support to be more standard](https://github.com/openebs/rawfile-localpv/pull/86) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -94,7 +95,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:green_heart: Image build fix fixtures](https://github.com/openebs/rawfile-localpv/pull/75) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 - [Develop](https://github.com/mhkarimi1383/rawfile-localpv/pull/2) on [mhkarimi1383/rawfile-localpv](https://github.com/mhkarimi1383/rawfile-localpv) (2 months ago)
 - [:sparkles: Add fsType to storageClass in helm](https://github.com/mhkarimi1383/rawfile-localpv/pull/1) on [mhkarimi1383/rawfile-localpv](https://github.com/mhkarimi1383/rawfile-localpv) (2 months ago)
-- [:sparkles: Add fsType to storageClass in helm](https://github.com/openebs/rawfile-localpv/pull/74) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 
 ### ⭐ Recent Stars
 
