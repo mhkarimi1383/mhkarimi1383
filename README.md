@@ -33,13 +33,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 * [url-shortener](https://github.com/mhkarimi1383/url-shortener)
 
 ## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhkarimi1383&hide_border=true&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhkarimi1383&hide_border=true&&bg_color=1e1e2e&color=cdd6f4&title_color=94e2d5)
 
 ## 📊 Stats
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mhkarimi1383&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mhkarimi1383&hide_border=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhkarimi1383&theme=dracula&hide_border=true" />
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarimi1383&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarimi1383&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   <img width="100%" src="https://github.com/mhkarimi1383/mhkarimi1383/blob/output/snake.svg" />
 </p>
 
