@@ -98,6 +98,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [hanul93/kicomav](https://github.com/hanul93/kicomav) - KicomAV is an open source (GPL v2) antivirus engine designed for detecting malware and disinfecting it.  (today)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (today)
+- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (today)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. (today)
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites (today)
 - [insin/ai-overview-hider-for-google](https://github.com/insin/ai-overview-hider-for-google) - Browser extension which hides the AI Overview section in Google search results on desktop and mobile browsers (today)
@@ -105,9 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (2 days ago)
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su. (3 days ago)
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (1 week ago)
-- [vineethtrv/css-loader](https://github.com/vineethtrv/css-loader) - This is a library having a collection of different types of CSS loaders, spinners (1 week ago)
-- [tldr-pages/tlrc](https://github.com/tldr-pages/tlrc) - A tldr client written in Rust (1 week ago)
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
