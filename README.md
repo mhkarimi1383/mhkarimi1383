@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-anomaly-1.9.5](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-anomaly-1.9.5), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-single-0.21.0](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-single-0.21.0), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 1 week ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 2 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 4 months ago) - 
