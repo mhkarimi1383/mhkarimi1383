@@ -47,9 +47,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (6 days ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (6 days ago)
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (6 days ago)
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (1 week ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 week ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (2 weeks ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 weeks ago)
@@ -73,8 +73,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-anomaly-1.9.5](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-anomaly-1.9.5), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 6 days ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-anomaly-1.9.5](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-anomaly-1.9.5), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 1 week ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 2 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 4 months ago) - 
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 4 months ago) - MinIO Client SDK for Python
@@ -85,8 +85,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
-- [docs(provisioning): :memo: Fix mountOptions indent in docs](https://github.com/openebs/lvm-localpv/pull/401) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (6 days ago)
-- [docs(provisioning): :memo: Add formatOptions parameter document](https://github.com/openebs/lvm-localpv/pull/396) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (6 days ago)
+- [docs(provisioning): :memo: Fix mountOptions indent in docs](https://github.com/openebs/lvm-localpv/pull/401) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (1 week ago)
+- [docs(provisioning): :memo: Add formatOptions parameter document](https://github.com/openebs/lvm-localpv/pull/396) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (1 week ago)
 - [:construction: Refactoring FS Support to be more standard](https://github.com/openebs/rawfile-localpv/pull/86) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:sparkles: Add rtl support](https://github.com/colinwilson/lotusdocs/pull/225) on [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) (1 month ago)
@@ -98,15 +98,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [hanul93/kicomav](https://github.com/hanul93/kicomav) - KicomAV is an open source (GPL v2) antivirus engine designed for detecting malware and disinfecting it.  (today)
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (today)
-- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (today)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. (today)
-- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites (today)
-- [insin/ai-overview-hider-for-google](https://github.com/insin/ai-overview-hider-for-google) - Browser extension which hides the AI Overview section in Google search results on desktop and mobile browsers (today)
-- [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim (1 day ago)
-- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (2 days ago)
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su. (3 days ago)
+- [hanul93/kicomav](https://github.com/hanul93/kicomav) - KicomAV is an open source (GPL v2) antivirus engine designed for detecting malware and disinfecting it.  (1 day ago)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 day ago)
+- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (1 day ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. (1 day ago)
+- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites (1 day ago)
+- [insin/ai-overview-hider-for-google](https://github.com/insin/ai-overview-hider-for-google) - Browser extension which hides the AI Overview section in Google search results on desktop and mobile browsers (1 day ago)
+- [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) - Automatic indentation style detection for Neovim (2 days ago)
+- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (3 days ago)
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su. (4 days ago)
 - [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress &amp; Gateway API Controller (1 week ago)
 
 ### 👯 Check out some of my recent followers
