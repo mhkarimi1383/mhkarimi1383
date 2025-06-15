@@ -47,13 +47,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (2 days ago)
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (3 days ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (4 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 days ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (4 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (5 days ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack. (1 week ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (2 weeks ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (2 weeks ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (3 weeks ago)
 - [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) - ParminCloud service documentation (1 month ago)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (1 month ago)
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/) (2 months ago)
@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-anomaly-1.9.6](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-anomaly-1.9.6), 1 day ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-anomaly-1.9.6](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-anomaly-1.9.6), 2 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 1 week ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 2 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 4 months ago) - 
@@ -85,7 +85,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
-- [:technologist: Use nix-ld for `LD_LIBRARY_PATH`](https://github.com/openebs/rawfile-localpv/pull/118) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
+- [:technologist: Use nix-ld for `LD_LIBRARY_PATH`](https://github.com/openebs/rawfile-localpv/pull/118) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
 - [docs(provisioning): :memo: Fix mountOptions indent in docs](https://github.com/openebs/lvm-localpv/pull/401) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (1 week ago)
 - [docs(provisioning): :memo: Add formatOptions parameter document](https://github.com/openebs/lvm-localpv/pull/396) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (1 week ago)
 - [:construction: Refactoring FS Support to be more standard](https://github.com/openebs/rawfile-localpv/pull/86) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -98,16 +98,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [widgetify-app/widgetify-extension](https://github.com/widgetify-app/widgetify-extension) - نسخه افزونه مرورگر ویجتی‌فای (1 day ago)
-- [joncrlsn/pgdiff](https://github.com/joncrlsn/pgdiff) - Compares the PostgreSQL schema between two databases and generates SQL statements that can be run manually against the second database to make their schemas match. (2 days ago)
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js (3 days ago)
-- [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of quality-of-life features related to folding. (3 days ago)
-- [hanul93/kicomav](https://github.com/hanul93/kicomav) - KicomAV is an open source (GPL v2) antivirus engine designed for detecting malware and disinfecting it.  (5 days ago)
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (5 days ago)
-- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (5 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. (5 days ago)
-- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites (5 days ago)
-- [insin/ai-overview-hider-for-google](https://github.com/insin/ai-overview-hider-for-google) - Browser extension which hides the AI Overview section in Google search results on desktop and mobile browsers (5 days ago)
+- [widgetify-app/widgetify-extension](https://github.com/widgetify-app/widgetify-extension) - نسخه افزونه مرورگر ویجتی‌فای (2 days ago)
+- [joncrlsn/pgdiff](https://github.com/joncrlsn/pgdiff) - Compares the PostgreSQL schema between two databases and generates SQL statements that can be run manually against the second database to make their schemas match. (3 days ago)
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js (4 days ago)
+- [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of quality-of-life features related to folding. (4 days ago)
+- [hanul93/kicomav](https://github.com/hanul93/kicomav) - KicomAV is an open source (GPL v2) antivirus engine designed for detecting malware and disinfecting it.  (6 days ago)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (6 days ago)
+- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (6 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models. (6 days ago)
+- [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites (6 days ago)
+- [insin/ai-overview-hider-for-google](https://github.com/insin/ai-overview-hider-for-google) - Browser extension which hides the AI Overview section in Google search results on desktop and mobile browsers (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
