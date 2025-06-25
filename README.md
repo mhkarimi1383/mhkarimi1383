@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [parsecph/clobbr](https://github.com/parsecph/clobbr) - ⚡️ A tool to check the speed and resilience of your API endpoints against multiple parallel or sequence requests. (today)
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (1 day ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (1 day ago)
 - [kubernetes-sigs/boskos](https://github.com/kubernetes-sigs/boskos) - Boskos is a resource management service that provides reservation and lifecycle management of a variety of different kinds of resources. (1 day ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (1 week ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (1 week ago)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (1 week ago)
-- [junkdog/beamterm](https://github.com/junkdog/beamterm) - A sub-millisecond terminal text rendering system using WebGL2 (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
