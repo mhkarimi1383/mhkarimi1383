@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal. (today)
 - [parsecph/clobbr](https://github.com/parsecph/clobbr) - ⚡️ A tool to check the speed and resilience of your API endpoints against multiple parallel or sequence requests. (3 days ago)
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (4 days ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (4 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML (1 week ago)
 - [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang (1 week ago)
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor. (1 week ago)
-- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
