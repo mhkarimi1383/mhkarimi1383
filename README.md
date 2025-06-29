@@ -86,6 +86,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:arrow_up: Upgrade k8s version to latest](https://github.com/openebs/rawfile-localpv/pull/143) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
+- [:technologist: Improve `vim.nix`](https://github.com/openebs/rawfile-localpv/pull/142) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [Fix rawfile-localpv release badge](https://github.com/openebs/.github/pull/15) on [openebs/.github](https://github.com/openebs/.github) (3 days ago)
 - [:technologist: Use nix-ld for `LD_LIBRARY_PATH`](https://github.com/openebs/rawfile-localpv/pull/118) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [docs(provisioning): :memo: Fix mountOptions indent in docs](https://github.com/openebs/lvm-localpv/pull/401) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (3 weeks ago)
@@ -94,8 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 - [:sparkles: Add rtl support](https://github.com/colinwilson/lotusdocs/pull/225) on [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) (2 months ago)
 - [:art: Add pre-commit and format the code](https://github.com/openebs/rawfile-localpv/pull/84) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
-- [:wrench: Making K8s version configurable](https://github.com/openebs/rawfile-localpv/pull/82) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
-- [:green_heart: Image build fix fixtures](https://github.com/openebs/rawfile-localpv/pull/75) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 months ago)
 
 ### ⭐ Recent Stars
 
