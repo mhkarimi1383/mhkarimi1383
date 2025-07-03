@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (today)
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (2 days ago)
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (2 days ago)
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (4 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience (5 days ago)
 - [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59 (5 days ago)
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal. (5 days ago)
-- [parsecph/clobbr](https://github.com/parsecph/clobbr) - ⚡️ A tool to check the speed and resilience of your API endpoints against multiple parallel or sequence requests. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
