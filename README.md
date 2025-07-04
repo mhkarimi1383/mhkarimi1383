@@ -99,6 +99,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android (today)
+- [gitclone-url/Boot-image-Extractor](https://github.com/gitclone-url/Boot-image-Extractor) - A Python script to extract boot image from any Android devices with root access. (today)
 - [cloudflare/orange](https://github.com/cloudflare/orange) -  (today)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (1 day ago)
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (3 days ago)
@@ -107,8 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime) - The repo that everyone deserves (5 days ago)
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (5 days ago)
 - [CrazyTim/spin-wheel](https://github.com/CrazyTim/spin-wheel) - An easy to use, themeable component for randomising choices and prizes. (5 days ago)
-- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience (6 days ago)
-- [B16f00t/whapa](https://github.com/B16f00t/whapa) - WhatsApp Parser Toolset v1.59 (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
