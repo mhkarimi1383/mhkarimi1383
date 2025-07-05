@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (today)
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android (1 day ago)
 - [gitclone-url/Boot-image-Extractor](https://github.com/gitclone-url/Boot-image-Extractor) - A Python script to extract boot image from any Android devices with root access. (1 day ago)
 - [cloudflare/orange](https://github.com/cloudflare/orange) -  (1 day ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (6 days ago)
 - [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime) - The repo that everyone deserves (6 days ago)
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (6 days ago)
-- [CrazyTim/spin-wheel](https://github.com/CrazyTim/spin-wheel) - An easy to use, themeable component for randomising choices and prizes. (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
