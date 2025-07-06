@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:pencil2: Fix exception logging](https://github.com/openebs/rawfile-localpv/pull/152) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:zap: Logging system improvements](https://github.com/openebs/rawfile-localpv/pull/148) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
 - [:arrow_up: Upgrade k8s version to latest](https://github.com/openebs/rawfile-localpv/pull/143) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:technologist: Improve `vim.nix`](https://github.com/openebs/rawfile-localpv/pull/142) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [docs(provisioning): :memo: Add formatOptions parameter document](https://github.com/openebs/lvm-localpv/pull/396) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (1 month ago)
 - [:recycle: Refactor FS Support and Utilities to be more standard](https://github.com/openebs/rawfile-localpv/pull/86) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 - [:memo: Fix OpenSSF link and Add pre-commit.ci badge](https://github.com/openebs/rawfile-localpv/pull/85) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
-- [:sparkles: Add rtl support](https://github.com/colinwilson/lotusdocs/pull/225) on [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) (2 months ago)
 
 ### ⭐ Recent Stars
 
