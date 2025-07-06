@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [roshan-research/hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit (today)
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (1 day ago)
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android (2 days ago)
 - [gitclone-url/Boot-image-Extractor](https://github.com/gitclone-url/Boot-image-Extractor) - A Python script to extract boot image from any Android devices with root access. (2 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (5 days ago)
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (1 week ago)
 - [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime) - The repo that everyone deserves (1 week ago)
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
