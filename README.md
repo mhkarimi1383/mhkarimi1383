@@ -47,7 +47,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 day ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (today)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (6 days ago)
 - [openebs/.github](https://github.com/openebs/.github) - Top level project User Experience repo (6 days ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 week ago)
@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-anomaly-1.10.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-anomaly-1.10.2), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-single-0.23.0](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-single-0.23.0), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.10.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.10.0), 2 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 1 month ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 3 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
