@@ -48,9 +48,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 👷 Check out what I'm currently working on
 
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (today)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (today)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (6 days ago)
 - [openebs/.github](https://github.com/openebs/.github) - Top level project User Experience repo (6 days ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 week ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (2 weeks ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (3 weeks ago)
@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (today)
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. (1 day ago)
 - [roshan-research/hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit (1 day ago)
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (2 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (4 days ago)
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (6 days ago)
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui (6 days ago)
-- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
