@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:sparkles: Add reserved storage support on nodes](https://github.com/openebs/rawfile-localpv/pull/156) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:technologist: Improve nix shell to fix shared libs problem](https://github.com/openebs/rawfile-localpv/pull/155) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:heavy_minus_sign: Remove btrfsutil](https://github.com/openebs/rawfile-localpv/pull/153) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
 - [:pencil2: Fix exception logging](https://github.com/openebs/rawfile-localpv/pull/152) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Fix rawfile-localpv release badge](https://github.com/openebs/.github/pull/15) on [openebs/.github](https://github.com/openebs/.github) (1 week ago)
 - [:technologist: Use nix-ld for `LD_LIBRARY_PATH`](https://github.com/openebs/rawfile-localpv/pull/118) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [docs(provisioning): :memo: Fix mountOptions indent in docs](https://github.com/openebs/lvm-localpv/pull/401) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (1 month ago)
-- [docs(provisioning): :memo: Add formatOptions parameter document](https://github.com/openebs/lvm-localpv/pull/396) on [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
