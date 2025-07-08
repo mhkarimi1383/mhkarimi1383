@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:recycle: Change K8s client to official one](https://github.com/openebs/rawfile-localpv/pull/161) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:sparkles: Add mount options](https://github.com/openebs/rawfile-localpv/pull/160) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:sparkles: Add reserved storage support on nodes and thick provisioning and make it default](https://github.com/openebs/rawfile-localpv/pull/156) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
 - [:technologist: Improve nix shell to fix shared libs problem](https://github.com/openebs/rawfile-localpv/pull/155) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:arrow_up: Upgrade k8s version to latest](https://github.com/openebs/rawfile-localpv/pull/143) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:technologist: Improve `vim.nix`](https://github.com/openebs/rawfile-localpv/pull/142) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Fix rawfile-localpv release badge](https://github.com/openebs/.github/pull/15) on [openebs/.github](https://github.com/openebs/.github) (1 week ago)
-- [:technologist: Use nix-ld for `LD_LIBRARY_PATH`](https://github.com/openebs/rawfile-localpv/pull/118) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 
 ### ⭐ Recent Stars
 
