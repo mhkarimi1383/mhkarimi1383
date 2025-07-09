@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [flonatel/libdontdie](https://github.com/flonatel/libdontdie) - a library that can be pre-loaded and that sets the TCP KEEP-ALIVE flag whenever `socket(2)&#39; is called (today)
 - [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox (today)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (today)
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser (today)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (4 days ago)
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android (5 days ago)
 - [gitclone-url/Boot-image-Extractor](https://github.com/gitclone-url/Boot-image-Extractor) - A Python script to extract boot image from any Android devices with root access. (5 days ago)
-- [cloudflare/orange](https://github.com/cloudflare/orange) -  (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
