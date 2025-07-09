@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [Feat sample rate](https://github.com/mhkarimi1383/laravel-telescope/pull/1) on [mhkarimi1383/laravel-telescope](https://github.com/mhkarimi1383/laravel-telescope) (today)
 - [:recycle: Change K8s client to official one](https://github.com/openebs/rawfile-localpv/pull/161) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
 - [:sparkles: Add mount options](https://github.com/openebs/rawfile-localpv/pull/160) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
 - [:sparkles: Add reserved storage support on nodes and thick provisioning and make it default](https://github.com/openebs/rawfile-localpv/pull/156) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
@@ -95,10 +96,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:zap: Logging system improvements](https://github.com/openebs/rawfile-localpv/pull/148) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:arrow_up: Upgrade k8s version to latest](https://github.com/openebs/rawfile-localpv/pull/143) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:technologist: Improve `vim.nix`](https://github.com/openebs/rawfile-localpv/pull/142) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [Fix rawfile-localpv release badge](https://github.com/openebs/.github/pull/15) on [openebs/.github](https://github.com/openebs/.github) (1 week ago)
 
 ### ⭐ Recent Stars
 
+- [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server (today)
+- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes (today)
 - [flonatel/libdontdie](https://github.com/flonatel/libdontdie) - a library that can be pre-loaded and that sets the TCP KEEP-ALIVE flag whenever `socket(2)&#39; is called (today)
 - [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox (today)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (today)
@@ -107,8 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. (3 days ago)
 - [roshan-research/hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit (3 days ago)
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (4 days ago)
-- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android (5 days ago)
-- [gitclone-url/Boot-image-Extractor](https://github.com/gitclone-url/Boot-image-Extractor) - A Python script to extract boot image from any Android devices with root access. (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
