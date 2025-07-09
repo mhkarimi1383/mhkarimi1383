@@ -99,6 +99,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox (today)
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (today)
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser (today)
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (2 days ago)
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. (3 days ago)
@@ -107,8 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android (5 days ago)
 - [gitclone-url/Boot-image-Extractor](https://github.com/gitclone-url/Boot-image-Extractor) - A Python script to extract boot image from any Android devices with root access. (5 days ago)
 - [cloudflare/orange](https://github.com/cloudflare/orange) -  (5 days ago)
-- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (6 days ago)
-- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
