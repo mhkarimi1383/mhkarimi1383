@@ -100,7 +100,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### ⭐ Recent Stars
 
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server (1 day ago)
-- [jackjackbits/bitchat](https://github.com/jackjackbits/bitchat) - bluetooth mesh chat, IRC vibes (1 day ago)
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 day ago)
 - [flonatel/libdontdie](https://github.com/flonatel/libdontdie) - a library that can be pre-loaded and that sets the TCP KEEP-ALIVE flag whenever `socket(2)&#39; is called (1 day ago)
 - [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox (1 day ago)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (1 day ago)
