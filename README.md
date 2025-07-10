@@ -89,7 +89,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Feat sample rate](https://github.com/mhkarimi1383/laravel-telescope/pull/1) on [mhkarimi1383/laravel-telescope](https://github.com/mhkarimi1383/laravel-telescope) (1 day ago)
 - [:recycle: Change K8s client to official one](https://github.com/openebs/rawfile-localpv/pull/161) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
 - [:sparkles: Add mount options](https://github.com/openebs/rawfile-localpv/pull/160) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
-- [:sparkles: Add reserved storage support on nodes and thick provisioning and make it default](https://github.com/openebs/rawfile-localpv/pull/156) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
+- [:sparkles: Add reserved storage/capacity override support on nodes and thick provisioning and make it default](https://github.com/openebs/rawfile-localpv/pull/156) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
 - [:technologist: Improve nix shell to fix shared libs problem](https://github.com/openebs/rawfile-localpv/pull/155) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
 - [:heavy_minus_sign: Remove btrfsutil](https://github.com/openebs/rawfile-localpv/pull/153) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
 - [:pencil2: Fix exception logging](https://github.com/openebs/rawfile-localpv/pull/152) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
