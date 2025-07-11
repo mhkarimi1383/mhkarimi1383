@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [xiaorouji/openwrt-passwall2](https://github.com/xiaorouji/openwrt-passwall2) -  (today)
 - [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server (2 days ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (2 days ago)
 - [flonatel/libdontdie](https://github.com/flonatel/libdontdie) - a library that can be pre-loaded and that sets the TCP KEEP-ALIVE flag whenever `socket(2)&#39; is called (2 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (4 days ago)
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans. (5 days ago)
 - [roshan-research/hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit (5 days ago)
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
