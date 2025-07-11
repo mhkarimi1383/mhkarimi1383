@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:technologist: Add helm-docs pre-commit hook](https://github.com/openebs/rawfile-localpv/pull/162) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [Feat sample rate](https://github.com/mhkarimi1383/laravel-telescope/pull/1) on [mhkarimi1383/laravel-telescope](https://github.com/mhkarimi1383/laravel-telescope) (2 days ago)
 - [:recycle: Change K8s client to official one](https://github.com/openebs/rawfile-localpv/pull/161) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
 - [:sparkles: Add mount options](https://github.com/openebs/rawfile-localpv/pull/160) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:pencil2: Fix exception logging](https://github.com/openebs/rawfile-localpv/pull/152) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 days ago)
 - [:zap: Logging system improvements](https://github.com/openebs/rawfile-localpv/pull/148) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:arrow_up: Upgrade k8s version to latest](https://github.com/openebs/rawfile-localpv/pull/143) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [:technologist: Improve `vim.nix`](https://github.com/openebs/rawfile-localpv/pull/142) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 
 ### ⭐ Recent Stars
 
