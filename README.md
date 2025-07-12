@@ -48,8 +48,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 👷 Check out what I'm currently working on
 
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (today)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (today)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 day ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (2 days ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (4 days ago)
 - [openebs/.github](https://github.com/openebs/.github) - Top level project User Experience repo (1 week ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 weeks ago)
@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [kmod-project/kmod](https://github.com/kmod-project/kmod) - kmod - Linux kernel module handling (today)
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser! (today)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 day ago)
 - [xiaorouji/openwrt-passwall2](https://github.com/xiaorouji/openwrt-passwall2) -  (1 day ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) - Source code for Oracle VirtualBox (3 days ago)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar (3 days ago)
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) - Community-driven Nix Flake for the Zen browser (3 days ago)
-- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
