@@ -99,6 +99,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [motmaenbash/motmaenbash-firefox](https://github.com/motmaenbash/motmaenbash-firefox) - motmaenbash-firefox (today)
+- [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash (today)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (today)
 - [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage. (today)
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...) (today)
@@ -107,8 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [kmod-project/kmod](https://github.com/kmod-project/kmod) - kmod - Linux kernel module handling (1 day ago)
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser! (1 day ago)
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (2 days ago)
-- [xiaorouji/openwrt-passwall2](https://github.com/xiaorouji/openwrt-passwall2) -  (2 days ago)
-- [decke/smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
