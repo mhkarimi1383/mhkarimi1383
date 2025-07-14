@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (today)
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (today)
 - [motmaenbash/motmaenbash-firefox](https://github.com/motmaenbash/motmaenbash-firefox) - motmaenbash-firefox (1 day ago)
 - [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash (1 day ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [stewartsmith/libeatmydata](https://github.com/stewartsmith/libeatmydata) - libeatmydata - because fsync() should be a no-op (2 days ago)
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages. (2 days ago)
 - [kmod-project/kmod](https://github.com/kmod-project/kmod) - kmod - Linux kernel module handling (2 days ago)
-- [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser! (2 days ago)
 
 ### 👯 Check out some of my recent followers
 
