@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (today)
 - [motmaenbash/motmaenbash-firefox](https://github.com/motmaenbash/motmaenbash-firefox) - motmaenbash-firefox (1 day ago)
 - [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash (1 day ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 day ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages. (2 days ago)
 - [kmod-project/kmod](https://github.com/kmod-project/kmod) - kmod - Linux kernel module handling (2 days ago)
 - [zen-browser/www](https://github.com/zen-browser/www) - 🌐 Homepage for @zen-browser! (2 days ago)
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (3 days ago)
 
 ### 👯 Check out some of my recent followers
 
