@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:sparkles: Add format options support](https://github.com/openebs/rawfile-localpv/pull/168) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:construction: Changing CLi System to use pydantic](https://github.com/openebs/rawfile-localpv/pull/166) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
 - [:zap: Tuning gRPC server](https://github.com/openebs/rawfile-localpv/pull/164) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
 - [:technologist: Add helm-docs pre-commit hook](https://github.com/openebs/rawfile-localpv/pull/162) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:sparkles: Add reserved storage/capacity override support on nodes and thick provisioning and make it default](https://github.com/openebs/rawfile-localpv/pull/156) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:technologist: Improve nix shell to fix shared libs problem](https://github.com/openebs/rawfile-localpv/pull/155) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:heavy_minus_sign: Remove btrfsutil](https://github.com/openebs/rawfile-localpv/pull/153) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [:pencil2: Fix exception logging](https://github.com/openebs/rawfile-localpv/pull/152) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 
 ### ⭐ Recent Stars
 
