@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-anomaly-1.11.0](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-anomaly-1.11.0), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-operator-0.51.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-operator-0.51.2), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.10.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.10.0), 1 month ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 1 month ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 3 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:chart_with_upwards_trend: Add GA4 module](https://github.com/openebs/rawfile-localpv/pull/172) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:arrow_up: Upgrade go version](https://github.com/ParminCloud/arvancloud-certmanager-issuer/pull/111) on [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) (1 day ago)
 - [:sparkles: Add format options support](https://github.com/openebs/rawfile-localpv/pull/168) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
 - [:construction: Changing CLi System to use pydantic](https://github.com/openebs/rawfile-localpv/pull/166) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:recycle: Change K8s client to official one](https://github.com/openebs/rawfile-localpv/pull/161) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:sparkles: Add mount options](https://github.com/openebs/rawfile-localpv/pull/160) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:sparkles: Add reserved storage/capacity override support on nodes and thick provisioning and make it default](https://github.com/openebs/rawfile-localpv/pull/156) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [:technologist: Improve nix shell to fix shared libs problem](https://github.com/openebs/rawfile-localpv/pull/155) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 
 ### ⭐ Recent Stars
 
