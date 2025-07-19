@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:zap: Improve volume verifier and task pod to be more safe](https://github.com/openebs/rawfile-localpv/pull/173) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [Fix rawfile-localpv repository link](https://github.com/openebs/community/pull/211) on [openebs/community](https://github.com/openebs/community) (1 day ago)
 - [:chart_with_upwards_trend: Add GA4 module](https://github.com/openebs/rawfile-localpv/pull/172) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
 - [:arrow_up: Upgrade go version](https://github.com/ParminCloud/arvancloud-certmanager-issuer/pull/111) on [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) (3 days ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:technologist: Add helm-docs pre-commit hook](https://github.com/openebs/rawfile-localpv/pull/162) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Feat sample rate](https://github.com/mhkarimi1383/laravel-telescope/pull/1) on [mhkarimi1383/laravel-telescope](https://github.com/mhkarimi1383/laravel-telescope) (1 week ago)
 - [:recycle: Change K8s client to official one](https://github.com/openebs/rawfile-localpv/pull/161) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [:sparkles: Add mount options](https://github.com/openebs/rawfile-localpv/pull/160) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 
 ### ⭐ Recent Stars
 
