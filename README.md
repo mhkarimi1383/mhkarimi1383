@@ -73,12 +73,12 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
+- [minio/minio-py](https://github.com/minio/minio-py) ([7.2.16](https://github.com/minio/minio-py/releases/tag/7.2.16), today) - MinIO Client SDK for Python
 - [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-single-0.24.0](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-single-0.24.0), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.10.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.10.0), 1 month ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 1 month ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 3 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 5 months ago) - 
-- [minio/minio-py](https://github.com/minio/minio-py) ([7.2.15](https://github.com/minio/minio-py/releases/tag/7.2.15), 6 months ago) - MinIO Client SDK for Python
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-0.0.13](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-0.0.13), 7 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [mhkarimi1383/health-checker](https://github.com/mhkarimi1383/health-checker) ([0.0.1](https://github.com/mhkarimi1383/health-checker/releases/tag/0.0.1), 10 months ago) - Health check your dependencies with ease
 - [mhkarimi1383/keywind-dracula](https://github.com/mhkarimi1383/keywind-dracula) ([1.3.0](https://github.com/mhkarimi1383/keywind-dracula/releases/tag/1.3.0), 11 months ago) - Dracula theme for keycloak (based on keywind and tailwind)
