@@ -73,9 +73,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.11.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.11.0), today) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-gateway-0.17.1](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-gateway-0.17.1), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.16](https://github.com/minio/minio-py/releases/tag/7.2.16), 1 day ago) - MinIO Client SDK for Python
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.10.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.10.0), 1 month ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 1 month ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 3 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 5 months ago) - 
