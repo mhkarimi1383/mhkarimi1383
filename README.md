@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [chatwoot/charts](https://github.com/chatwoot/charts) - Helm Charts for Chatwoot (today)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (3 days ago)
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans. (1 week ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 week ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 week ago)
 - [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage. (1 week ago)
 - [piskvorky/smart_open](https://github.com/piskvorky/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...) (1 week ago)
-- [stewartsmith/libeatmydata](https://github.com/stewartsmith/libeatmydata) - libeatmydata - because fsync() should be a no-op (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
