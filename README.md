@@ -47,7 +47,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 day ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (today)
 - [openebs/community](https://github.com/openebs/community) - OpenEBS community resources (3 days ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (6 days ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 week ago)
@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:green_heart: Add GA4 in CI tests](https://github.com/openebs/rawfile-localpv/pull/183) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:bug: Fix GA4 ping timedelta parse](https://github.com/openebs/rawfile-localpv/pull/182) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:zap: Improve volume verifier and task pod to be more safe](https://github.com/openebs/rawfile-localpv/pull/173) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
 - [Fix rawfile-localpv repository link](https://github.com/openebs/community/pull/211) on [openebs/community](https://github.com/openebs/community) (4 days ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:recycle: Changing CLi System to use pydantic](https://github.com/openebs/rawfile-localpv/pull/166) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:zap: Tuning gRPC server](https://github.com/openebs/rawfile-localpv/pull/164) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:technologist: Add helm-docs pre-commit hook](https://github.com/openebs/rawfile-localpv/pull/162) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [Feat sample rate](https://github.com/mhkarimi1383/laravel-telescope/pull/1) on [mhkarimi1383/laravel-telescope](https://github.com/mhkarimi1383/laravel-telescope) (1 week ago)
 
 ### ⭐ Recent Stars
 
