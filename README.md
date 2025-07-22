@@ -91,7 +91,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:chart_with_upwards_trend: Add GA4 module](https://github.com/openebs/rawfile-localpv/pull/172) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 days ago)
 - [:arrow_up: Upgrade go version](https://github.com/ParminCloud/arvancloud-certmanager-issuer/pull/111) on [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) (6 days ago)
 - [:sparkles: Add format options support](https://github.com/openebs/rawfile-localpv/pull/168) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [:construction: Changing CLi System to use pydantic](https://github.com/openebs/rawfile-localpv/pull/166) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
+- [:recycle: Changing CLi System to use pydantic](https://github.com/openebs/rawfile-localpv/pull/166) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:zap: Tuning gRPC server](https://github.com/openebs/rawfile-localpv/pull/164) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:technologist: Add helm-docs pre-commit hook](https://github.com/openebs/rawfile-localpv/pull/162) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Feat sample rate](https://github.com/mhkarimi1383/laravel-telescope/pull/1) on [mhkarimi1383/laravel-telescope](https://github.com/mhkarimi1383/laravel-telescope) (1 week ago)
