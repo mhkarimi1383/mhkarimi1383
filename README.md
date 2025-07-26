@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom&#39;s Obvious, Minimal Language (today)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (today)
 - [kakao/kubectl-cilium](https://github.com/kakao/kubectl-cilium) - A kubectl plugin to monitor Cilium BPF map pressure and detect eviction risks. (today)
 - [chatwoot/charts](https://github.com/chatwoot/charts) - Helm Charts for Chatwoot (4 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google&#39;s libphonenumber (1 week ago)
 - [motmaenbash/motmaenbash-firefox](https://github.com/motmaenbash/motmaenbash-firefox) - motmaenbash-firefox (1 week ago)
 - [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash (1 week ago)
-- [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
