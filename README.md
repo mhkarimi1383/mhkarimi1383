@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (today)
 - [kakao/kubectl-cilium](https://github.com/kakao/kubectl-cilium) - A kubectl plugin to monitor Cilium BPF map pressure and detect eviction risks. (today)
 - [chatwoot/charts](https://github.com/chatwoot/charts) - Helm Charts for Chatwoot (4 days ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [motmaenbash/motmaenbash-firefox](https://github.com/motmaenbash/motmaenbash-firefox) - motmaenbash-firefox (1 week ago)
 - [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash (1 week ago)
 - [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec) - A specification that python filesystems should adhere to. (1 week ago)
-- [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
