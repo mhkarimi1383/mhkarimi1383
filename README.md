@@ -99,6 +99,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (today)
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (today)
 - [fffonion/lua-resty-acme](https://github.com/fffonion/lua-resty-acme) - Automatic Let&#39;s Encrypt certificate serving and Lua implementation of ACMEv2 procotol  (2 days ago)
 - [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) - Tool for easy backup and restore for ClickHouse® using object storage for backup files.  (2 days ago)
 - [goproxy/goproxy](https://github.com/goproxy/goproxy) - A minimalist Go module proxy handler. (3 days ago)
@@ -107,8 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (4 days ago)
 - [kakao/kubectl-cilium](https://github.com/kakao/kubectl-cilium) - A kubectl plugin to monitor Cilium BPF map pressure and detect eviction risks. (4 days ago)
 - [chatwoot/charts](https://github.com/chatwoot/charts) - Helm Charts for Chatwoot (1 week ago)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
