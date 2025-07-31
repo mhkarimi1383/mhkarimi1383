@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically. (today)
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (1 day ago)
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (1 day ago)
 - [fffonion/lua-resty-acme](https://github.com/fffonion/lua-resty-acme) - Automatic Let&#39;s Encrypt certificate serving and Lua implementation of ACMEv2 procotol  (3 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom&#39;s Obvious, Minimal Language (5 days ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (5 days ago)
 - [kakao/kubectl-cilium](https://github.com/kakao/kubectl-cilium) - A kubectl plugin to monitor Cilium BPF map pressure and detect eviction risks. (5 days ago)
-- [chatwoot/charts](https://github.com/chatwoot/charts) - Helm Charts for Chatwoot (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
