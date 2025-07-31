@@ -86,6 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:green_heart: Change nix action to use cachix and add nix-cache](https://github.com/openebs/rawfile-localpv/pull/190) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:pencil2: Fix fallocate returncode typo](https://github.com/openebs/rawfile-localpv/pull/184) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 days ago)
 - [:heavy_plus_sign: Add rawfile-localpv helm chart](https://github.com/openebs/openebs/pull/3990) on [openebs/openebs](https://github.com/openebs/openebs) (1 week ago)
 - [:green_heart: Add GA4 in CI tests](https://github.com/openebs/rawfile-localpv/pull/183) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
@@ -95,7 +96,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:chart_with_upwards_trend: Add GA4 module](https://github.com/openebs/rawfile-localpv/pull/172) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:arrow_up: Upgrade go version](https://github.com/ParminCloud/arvancloud-certmanager-issuer/pull/111) on [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) (2 weeks ago)
 - [:sparkles: Add format options support](https://github.com/openebs/rawfile-localpv/pull/168) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
-- [:recycle: Changing CLi System to use pydantic](https://github.com/openebs/rawfile-localpv/pull/166) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 
 ### ⭐ Recent Stars
 
