@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (today)
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically. (3 days ago)
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (4 days ago)
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (4 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [skanehira/ghost](https://github.com/skanehira/ghost) - Simple shell command management tool. (1 week ago)
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom&#39;s Obvious, Minimal Language (1 week ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 week ago)
-- [kakao/kubectl-cilium](https://github.com/kakao/kubectl-cilium) - A kubectl plugin to monitor Cilium BPF map pressure and detect eviction risks. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
