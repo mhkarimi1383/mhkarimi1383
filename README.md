@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [curl/wcurl](https://github.com/curl/wcurl) - a simple wrapper around curl to easily download files (today)
 - [CedricBonjour/nanocell-csv](https://github.com/CedricBonjour/nanocell-csv) - A free csv file viewer &amp; editor (today)
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. (today)
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (1 day ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [fffonion/lua-resty-acme](https://github.com/fffonion/lua-resty-acme) - Automatic Let&#39;s Encrypt certificate serving and Lua implementation of ACMEv2 procotol  (1 week ago)
 - [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) - Tool for easy backup and restore for ClickHouse® using object storage for backup files.  (1 week ago)
 - [goproxy/goproxy](https://github.com/goproxy/goproxy) - A minimalist Go module proxy handler. (1 week ago)
-- [skanehira/ghost](https://github.com/skanehira/ghost) - Simple shell command management tool. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
