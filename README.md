@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-anomaly-1.11.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-anomaly-1.11.2), 6 days ago) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
+- [VictoriaMetrics/helm-charts](https://github.com/VictoriaMetrics/helm-charts) ([victoria-metrics-single-0.24.2](https://github.com/VictoriaMetrics/helm-charts/releases/tag/victoria-metrics-single-0.24.2), today) - Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem 
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.11.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.11.0), 2 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.16](https://github.com/minio/minio-py/releases/tag/7.2.16), 2 weeks ago) - MinIO Client SDK for Python
 - [openebs/openebs](https://github.com/openebs/openebs) ([v4.3.2](https://github.com/openebs/openebs/releases/tag/v4.3.2), 1 month ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
