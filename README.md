@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [amir20/dtop](https://github.com/amir20/dtop) - Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration. (today)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models (1 day ago)
 - [curl/wcurl](https://github.com/curl/wcurl) - a simple wrapper around curl to easily download files (2 days ago)
 - [CedricBonjour/nanocell-csv](https://github.com/CedricBonjour/nanocell-csv) - A free csv file viewer &amp; editor (2 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (1 week ago)
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (1 week ago)
 - [fffonion/lua-resty-acme](https://github.com/fffonion/lua-resty-acme) - Automatic Let&#39;s Encrypt certificate serving and Lua implementation of ACMEv2 procotol  (1 week ago)
-- [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) - Tool for easy backup and restore for ClickHouse® using object storage for backup files.  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
