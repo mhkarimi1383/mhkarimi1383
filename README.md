@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China. (today)
 - [amir20/dtop](https://github.com/amir20/dtop) - Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration. (3 days ago)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models (4 days ago)
 - [curl/wcurl](https://github.com/curl/wcurl) - a simple wrapper around curl to easily download files (5 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically. (1 week ago)
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree (1 week ago)
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web (1 week ago)
-- [fffonion/lua-resty-acme](https://github.com/fffonion/lua-resty-acme) - Automatic Let&#39;s Encrypt certificate serving and Lua implementation of ACMEv2 procotol  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
