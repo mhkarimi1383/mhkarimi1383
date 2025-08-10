@@ -115,8 +115,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [MehdiKhoshnevisz](https://github.com/MehdiKhoshnevisz)
-- [mehdi-jahani](https://github.com/mehdi-jahani)
 - [rr3s1](https://github.com/rr3s1)
+- [mhmiripoor](https://github.com/mhmiripoor)
 
 
 #### 🏆 GitHub Trophies
