@@ -81,7 +81,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 6 months ago) - 
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-0.0.13](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-0.0.13), 8 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [mhkarimi1383/health-checker](https://github.com/mhkarimi1383/health-checker) ([0.0.1](https://github.com/mhkarimi1383/health-checker/releases/tag/0.0.1), 11 months ago) - Health check your dependencies with ease
-- [mhkarimi1383/keywind-dracula](https://github.com/mhkarimi1383/keywind-dracula) ([1.3.0](https://github.com/mhkarimi1383/keywind-dracula/releases/tag/1.3.0), 1 year ago) - Dracula theme for keycloak (based on keywind and tailwind)
 - [mhkarimi1383/reflector](https://github.com/mhkarimi1383/reflector) ([chart-0.0.2](https://github.com/mhkarimi1383/reflector/releases/tag/chart-0.0.2), 2 years ago) - A generic K8s reflector that handles every kind, with support for automatically created secrets
 
 ### 🔨 My recent Pull Requests
