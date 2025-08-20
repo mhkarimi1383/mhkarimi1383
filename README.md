@@ -99,6 +99,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes (today)
 - [cybertec-postgresql/vip-manager](https://github.com/cybertec-postgresql/vip-manager) - Manages a virtual IP based on state kept in etcd or Consul (2 days ago)
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage  (5 days ago)
 - [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx (5 days ago)
@@ -108,7 +109,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [amir20/dtop](https://github.com/amir20/dtop) - Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration. (2 weeks ago)
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI (2 weeks ago)
 - [curl/wcurl](https://github.com/curl/wcurl) - a simple wrapper around curl to easily download files (2 weeks ago)
-- [CedricBonjour/nanocell-csv](https://github.com/CedricBonjour/nanocell-csv) - A free csv file viewer &amp; editor (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
