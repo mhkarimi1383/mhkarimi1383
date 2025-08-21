@@ -47,12 +47,12 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (today)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (3 days ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (4 days ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (5 days ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 week ago)
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 - [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) - ParminCloud service documentation (1 week ago)
 - [ParminCloud/.github](https://github.com/ParminCloud/.github) -  (2 weeks ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 weeks ago)
@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (today)
+- [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor. (today)
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes (1 day ago)
 - [cybertec-postgresql/vip-manager](https://github.com/cybertec-postgresql/vip-manager) - Manages a virtual IP based on state kept in etcd or Consul (3 days ago)
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage  (6 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [encode/broadcaster](https://github.com/encode/broadcaster) - Broadcast channels for async web apps. 📢 (1 week ago)
 - [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China. (1 week ago)
 - [amir20/dtop](https://github.com/amir20/dtop) - Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration. (2 weeks ago)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI (2 weeks ago)
-- [curl/wcurl](https://github.com/curl/wcurl) - a simple wrapper around curl to easily download files (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
