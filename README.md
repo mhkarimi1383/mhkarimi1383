@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting: (today)
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (1 day ago)
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker (1 day ago)
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes (2 days ago)
 - [cybertec-postgresql/vip-manager](https://github.com/cybertec-postgresql/vip-manager) - Manages a virtual IP based on state kept in etcd or Consul (4 days ago)
 - [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage  (1 week ago)
-- [yaoweibin/nginx_upstream_check_module](https://github.com/yaoweibin/nginx_upstream_check_module) - Health checks upstreams for nginx (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
