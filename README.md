@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [thoughtbot/top_secret](https://github.com/thoughtbot/top_secret) - Filter sensitive information from free text before sending it to external services or APIs, such as chatbots and LLMs. (today)
 - [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting: (1 day ago)
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy (2 days ago)
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco) - A modern version of Monaco Editor. (2 days ago)
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes (3 days ago)
 - [cybertec-postgresql/vip-manager](https://github.com/cybertec-postgresql/vip-manager) - Manages a virtual IP based on state kept in etcd or Consul (5 days ago)
-- [OpenMaxIO/openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser) - Forked UI for MinIO Object Storage  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
