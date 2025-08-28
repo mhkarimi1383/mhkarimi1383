@@ -87,7 +87,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 - [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
 - [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
-- [:construction: Adding gRPC service for internal communication](https://github.com/openebs/rawfile-localpv/pull/206) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 days ago)
+- [:recycle: Added gRPC service for internal communication](https://github.com/openebs/rawfile-localpv/pull/206) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 days ago)
 - [:arrow_up: Upgrade debian version](https://github.com/openebs/rawfile-localpv/pull/203) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:memo: Fix node datadir config help message](https://github.com/openebs/rawfile-localpv/pull/199) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:pencil2: Fix `commit-message` on dependabot schema](https://github.com/openebs/rawfile-localpv/pull/198) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
