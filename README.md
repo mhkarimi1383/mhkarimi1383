@@ -85,6 +85,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (today)
 - [:construction: Adding volume clones/migration and snapshot support](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
@@ -94,10 +95,10 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:pencil2: Fix `commit-message` on dependabot schema](https://github.com/openebs/rawfile-localpv/pull/198) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:pencil2: Fix dependabot schema mismatch](https://github.com/openebs/rawfile-localpv/pull/197) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:construction_worker: Make dependabot to make changes in groups](https://github.com/openebs/rawfile-localpv/pull/196) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:green_heart: Change nix action to use cachix and add nix-cache](https://github.com/openebs/rawfile-localpv/pull/190) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim (today)
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.  (1 day ago)
 - [colocohen/quico](https://github.com/colocohen/quico) - Pure JavaScript QUIC and HTTP/3 implementation for Node.js - no OpenSSL, no native modules. (2 days ago)
 - [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google&#39;s data interchange format (1 week ago)
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git (1 week ago)
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface (1 week ago)
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
