@@ -53,9 +53,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 week ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 week ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (2 weeks ago)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (3 weeks ago)
-- [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) - ParminCloud service documentation (4 weeks ago)
+- [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) - ParminCloud service documentation (1 month ago)
 - [ParminCloud/.github](https://github.com/ParminCloud/.github) -  (1 month ago)
 
 ### 🌱 My latest projects
@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [openebs/openebs](https://github.com/openebs/openebs) ([v4.3.3](https://github.com/openebs/openebs/releases/tag/v4.3.3), 1 week ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
+- [openebs/openebs](https://github.com/openebs/openebs) ([v4.3.3](https://github.com/openebs/openebs/releases/tag/v4.3.3), 2 weeks ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.11.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.11.0), 1 month ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.16](https://github.com/minio/minio-py/releases/tag/7.2.16), 1 month ago) - MinIO Client SDK for Python
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 3 months ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
@@ -85,7 +85,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
-- [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (3 days ago)
+- [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (4 days ago)
 - [:construction: Adding volume clones/migration and snapshot support](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
@@ -98,16 +98,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) - OpenLiteSpeed for WHM cPanel (1 day ago)
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim (3 days ago)
-- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.  (4 days ago)
-- [colocohen/quico](https://github.com/colocohen/quico) - Pure JavaScript QUIC and HTTP/3 implementation for Node.js - no OpenSSL, no native modules. (5 days ago)
-- [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator (5 days ago)
-- [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let&#39;s Encrypt and Docker. (5 days ago)
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source (6 days ago)
+- [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) - OpenLiteSpeed for WHM cPanel (2 days ago)
+- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim (4 days ago)
+- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.  (5 days ago)
+- [colocohen/quico](https://github.com/colocohen/quico) - Pure JavaScript QUIC and HTTP/3 implementation for Node.js - no OpenSSL, no native modules. (6 days ago)
+- [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator (6 days ago)
+- [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let&#39;s Encrypt and Docker. (6 days ago)
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source (1 week ago)
 - [mongodb/mongodb-kubernetes](https://github.com/mongodb/mongodb-kubernetes) - MongoDB Controllers for Kubernetes translate the human knowledge of creating a MongoDB instance into a scalable, repeatable, and standardized method. (1 week ago)
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google&#39;s data interchange format (1 week ago)
-- [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git (1 week ago)
+- [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
