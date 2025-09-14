@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (today)
 - [FerretDB/documentdb](https://github.com/FerretDB/documentdb) - DocumentDB is the open-source engine powering vCore-based Azure Cosmos DB for MongoDB. It offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. (1 day ago)
 - [pgEdge/snowflake](https://github.com/pgEdge/snowflake) - Snowflake Sequences for PostgreSQL (3 days ago)
 - [pgEdge/spock](https://github.com/pgEdge/spock) - Logical multi-master PostgreSQL replication (3 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.  (1 week ago)
 - [colocohen/quico](https://github.com/colocohen/quico) - Pure JavaScript QUIC and HTTP/3 implementation for Node.js - no OpenSSL, no native modules. (1 week ago)
 - [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator (1 week ago)
-- [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let&#39;s Encrypt and Docker. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
