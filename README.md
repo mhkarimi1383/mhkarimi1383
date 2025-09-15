@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [pgEdge/pg_walsizer](https://github.com/pgEdge/pg_walsizer) - The pg_walsizer Postgres Extension (today)
 - [catppuccin/fuzzel](https://github.com/catppuccin/fuzzel) - 🚀 Soothing pastel theme for Fuzzel (today)
 - [redis/hiredis-py](https://github.com/redis/hiredis-py) - Python wrapper for hiredis (1 day ago)
 - [NixOS/ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.ofborg.org/dashboard/db/ofborg (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [pgEdge/spock](https://github.com/pgEdge/spock) - Logical multi-master PostgreSQL replication (4 days ago)
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up (4 days ago)
 - [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) - OpenLiteSpeed for WHM cPanel (6 days ago)
-- [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
