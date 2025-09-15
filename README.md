@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [catppuccin/fuzzel](https://github.com/catppuccin/fuzzel) - 🚀 Soothing pastel theme for Fuzzel (today)
 - [redis/hiredis-py](https://github.com/redis/hiredis-py) - Python wrapper for hiredis (1 day ago)
 - [NixOS/ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.ofborg.org/dashboard/db/ofborg (1 day ago)
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [composerize/composerize](https://github.com/composerize/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up (4 days ago)
 - [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) - OpenLiteSpeed for WHM cPanel (6 days ago)
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim (1 week ago)
-- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
