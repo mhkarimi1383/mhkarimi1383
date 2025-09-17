@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [FerretDB/wire](https://github.com/FerretDB/wire) - MongoDB wire protocol implementation in Go (today)
 - [digitalocean/vmtop](https://github.com/digitalocean/vmtop) - Real-time monitoring of KVM/Qemu VMs (1 day ago)
 - [kubernetes-sigs/container-object-storage-interface](https://github.com/kubernetes-sigs/container-object-storage-interface) - Container Object Storage Interface (COSI) responsible for defining COSI spec and APIs, interfacing with COSI drivers, and managing the lifecycle of COSI objects. (1 day ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [NixOS/ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.ofborg.org/dashboard/db/ofborg (3 days ago)
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (3 days ago)
 - [FerretDB/documentdb](https://github.com/FerretDB/documentdb) - DocumentDB is the open-source engine powering vCore-based Azure Cosmos DB for MongoDB. It offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. (4 days ago)
-- [pgEdge/snowflake](https://github.com/pgEdge/snowflake) - Snowflake Sequences for PostgreSQL (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
