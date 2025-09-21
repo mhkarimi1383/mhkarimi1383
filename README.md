@@ -47,14 +47,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (4 days ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (5 days ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (5 days ago)
-- [mhkarimi1383/bat](https://github.com/mhkarimi1383/bat) - bat (A cat(1) clone with wings.) config (5 days ago)
-- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (5 days ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (5 days ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (5 days ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (5 days ago)
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (5 days ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (6 days ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (6 days ago)
+- [mhkarimi1383/bat](https://github.com/mhkarimi1383/bat) - bat (A cat(1) clone with wings.) config (6 days ago)
+- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (6 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (6 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (6 days ago)
+- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (6 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (2 weeks ago)
 
@@ -86,7 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔨 My recent Pull Requests
 
 - [:memo: Add k3s image load command for nixos-shell](https://github.com/openebs/rawfile-localpv/pull/217) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
-- [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (1 week ago)
+- [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (2 weeks ago)
 - [:construction: Adding volume clones/migration and snapshot support](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
@@ -98,15 +98,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [FerretDB/wire](https://github.com/FerretDB/wire) - MongoDB wire protocol implementation in Go (3 days ago)
-- [digitalocean/vmtop](https://github.com/digitalocean/vmtop) - Real-time monitoring of KVM/Qemu VMs (4 days ago)
-- [kubernetes-sigs/container-object-storage-interface](https://github.com/kubernetes-sigs/container-object-storage-interface) - Container Object Storage Interface (COSI) responsible for defining COSI spec and APIs, interfacing with COSI drivers, and managing the lifecycle of COSI objects. (4 days ago)
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (4 days ago)
-- [pgEdge/pg_walsizer](https://github.com/pgEdge/pg_walsizer) - The pg_walsizer Postgres Extension (5 days ago)
-- [catppuccin/fuzzel](https://github.com/catppuccin/fuzzel) - 🚀 Soothing pastel theme for Fuzzel (5 days ago)
-- [redis/hiredis-py](https://github.com/redis/hiredis-py) - Python wrapper for hiredis (6 days ago)
-- [NixOS/ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.ofborg.org/dashboard/db/ofborg (6 days ago)
-- [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (6 days ago)
+- [FerretDB/wire](https://github.com/FerretDB/wire) - MongoDB wire protocol implementation in Go (4 days ago)
+- [digitalocean/vmtop](https://github.com/digitalocean/vmtop) - Real-time monitoring of KVM/Qemu VMs (5 days ago)
+- [kubernetes-sigs/container-object-storage-interface](https://github.com/kubernetes-sigs/container-object-storage-interface) - Container Object Storage Interface (COSI) responsible for defining COSI spec and APIs, interfacing with COSI drivers, and managing the lifecycle of COSI objects. (5 days ago)
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (5 days ago)
+- [pgEdge/pg_walsizer](https://github.com/pgEdge/pg_walsizer) - The pg_walsizer Postgres Extension (6 days ago)
+- [catppuccin/fuzzel](https://github.com/catppuccin/fuzzel) - 🚀 Soothing pastel theme for Fuzzel (6 days ago)
+- [redis/hiredis-py](https://github.com/redis/hiredis-py) - Python wrapper for hiredis (1 week ago)
+- [NixOS/ofborg](https://github.com/NixOS/ofborg) - @ofborg tooling automation https://monitoring.ofborg.org/dashboard/db/ofborg (1 week ago)
+- [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems (1 week ago)
 - [FerretDB/documentdb](https://github.com/FerretDB/documentdb) - DocumentDB is the open-source engine powering vCore-based Azure Cosmos DB for MongoDB. It offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. (1 week ago)
 
 ### 👯 Check out some of my recent followers
