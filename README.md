@@ -88,8 +88,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:memo: Add k3s image load command for nixos-shell](https://github.com/openebs/rawfile-localpv/pull/217) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (2 weeks ago)
 - [:construction: Adding volume clones/migration and snapshot support](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
-- [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
-- [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 weeks ago)
+- [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 weeks ago)
+- [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:recycle: Added gRPC service for internal communication](https://github.com/openebs/rawfile-localpv/pull/206) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:arrow_up: Upgrade debian version](https://github.com/openebs/rawfile-localpv/pull/203) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:memo: Fix node datadir config help message](https://github.com/openebs/rawfile-localpv/pull/199) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -98,8 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl (today)
-- [FerretDB/wire](https://github.com/FerretDB/wire) - MongoDB wire protocol implementation in Go (6 days ago)
+- [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl (1 day ago)
+- [FerretDB/wire](https://github.com/FerretDB/wire) - MongoDB wire protocol implementation in Go (1 week ago)
 - [digitalocean/vmtop](https://github.com/digitalocean/vmtop) - Real-time monitoring of KVM/Qemu VMs (1 week ago)
 - [kubernetes-sigs/container-object-storage-interface](https://github.com/kubernetes-sigs/container-object-storage-interface) - Container Object Storage Interface (COSI) responsible for defining COSI spec and APIs, interfacing with COSI drivers, and managing the lifecycle of COSI objects. (1 week ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 week ago)
