@@ -87,7 +87,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 - [:memo: Add k3s image load command for nixos-shell](https://github.com/openebs/rawfile-localpv/pull/217) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (3 weeks ago)
-- [:construction: Adding volume clones/migration and snapshot support](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
+- [:sparkles: Complete volume snapshot support and better snapshot management ](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:recycle: Added gRPC service for internal communication](https://github.com/openebs/rawfile-localpv/pull/206) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
