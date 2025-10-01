@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [cloudnative-pg/postgres-extensions-containers](https://github.com/cloudnative-pg/postgres-extensions-containers) - Container images for community PostgreSQL extensions to be used as pluggable image volumes with CloudNativePG (today)
 - [unseen-ninja/pfetch](https://github.com/unseen-ninja/pfetch) - System Information Tool with Kitties! (today)
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell (5 days ago)
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl (1 week ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (2 weeks ago)
 - [pgEdge/pg_walsizer](https://github.com/pgEdge/pg_walsizer) - The pg_walsizer Postgres Extension (2 weeks ago)
 - [catppuccin/fuzzel](https://github.com/catppuccin/fuzzel) - 🚀 Soothing pastel theme for Fuzzel (2 weeks ago)
-- [redis/hiredis-py](https://github.com/redis/hiredis-py) - Python wrapper for hiredis (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
