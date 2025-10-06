@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (today)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (today)
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (1 day ago)
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [unseen-ninja/pfetch](https://github.com/unseen-ninja/pfetch) - System Information Tool with Kitties! (5 days ago)
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell (1 week ago)
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl (1 week ago)
-- [FerretDB/wire](https://github.com/FerretDB/wire) - MongoDB wire protocol implementation in Go (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
