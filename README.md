@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite (today)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (today)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (4 days ago)
 - [cloudnative-pg/postgres-extensions-containers](https://github.com/cloudnative-pg/postgres-extensions-containers) - Container images for community PostgreSQL extensions to be used as pluggable image volumes with CloudNativePG (6 days ago)
 - [unseen-ninja/pfetch](https://github.com/unseen-ninja/pfetch) - System Information Tool with Kitties! (6 days ago)
-- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
