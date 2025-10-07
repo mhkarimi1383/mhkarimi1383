@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (today)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (1 day ago)
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [cloudnative-pg/postgres-extensions-containers](https://github.com/cloudnative-pg/postgres-extensions-containers) - Container images for community PostgreSQL extensions to be used as pluggable image volumes with CloudNativePG (6 days ago)
 - [unseen-ninja/pfetch](https://github.com/unseen-ninja/pfetch) - System Information Tool with Kitties! (6 days ago)
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell (1 week ago)
-- [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
