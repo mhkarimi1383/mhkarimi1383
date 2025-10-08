@@ -47,7 +47,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (6 days ago)
+- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 week ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 weeks ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 weeks ago)
@@ -85,7 +85,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
-- [fix(WordPress): Fix WordPress Cache control on no-read operation](https://github.com/n8n-io/n8n/pull/20473) on [n8n-io/n8n](https://github.com/n8n-io/n8n) (today)
+- [fix(WordPress): Fix WordPress Cache control on no-read operation](https://github.com/n8n-io/n8n/pull/20473) on [n8n-io/n8n](https://github.com/n8n-io/n8n) (1 day ago)
 - [:memo: Add k3s image load command for nixos-shell](https://github.com/openebs/rawfile-localpv/pull/217) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (1 month ago)
 - [:sparkles: Complete volume snapshot support and better snapshot management ](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -98,16 +98,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite (today)
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (today)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (1 day ago)
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (2 days ago)
-- [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units (2 days ago)
-- [pgEdge/lolor](https://github.com/pgEdge/lolor) - PostgreSQL Large Object LOgical Replication (LOLOR) (2 days ago)
-- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (4 days ago)
-- [cloudnative-pg/postgres-extensions-containers](https://github.com/cloudnative-pg/postgres-extensions-containers) - Container images for community PostgreSQL extensions to be used as pluggable image volumes with CloudNativePG (6 days ago)
-- [unseen-ninja/pfetch](https://github.com/unseen-ninja/pfetch) - System Information Tool with Kitties! (6 days ago)
+- [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite (1 day ago)
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (1 day ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 days ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (2 days ago)
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (3 days ago)
+- [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units (3 days ago)
+- [pgEdge/lolor](https://github.com/pgEdge/lolor) - PostgreSQL Large Object LOgical Replication (LOLOR) (3 days ago)
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (5 days ago)
+- [cloudnative-pg/postgres-extensions-containers](https://github.com/cloudnative-pg/postgres-extensions-containers) - Container images for community PostgreSQL extensions to be used as pluggable image volumes with CloudNativePG (1 week ago)
+- [unseen-ninja/pfetch](https://github.com/unseen-ninja/pfetch) - System Information Tool with Kitties! (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
