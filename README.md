@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [cloudnative-pg/postgres-keycloak-oauth-validator](https://github.com/cloudnative-pg/postgres-keycloak-oauth-validator) - PostgreSQL OAuth Validator for Keycloak (today)
 - [lsst-sqre/strimzi-registry-operator](https://github.com/lsst-sqre/strimzi-registry-operator) - A Kubernetes Operator for running the Confluent Schema Registry with a Strimzi-based Kafka cluster (1 day ago)
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite (2 days ago)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units (4 days ago)
 - [pgEdge/lolor](https://github.com/pgEdge/lolor) - PostgreSQL Large Object LOgical Replication (LOLOR) (4 days ago)
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (6 days ago)
-- [cloudnative-pg/postgres-extensions-containers](https://github.com/cloudnative-pg/postgres-extensions-containers) - Container images for community PostgreSQL extensions to be used as pluggable image volumes with CloudNativePG (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
