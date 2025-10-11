@@ -103,7 +103,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite (4 days ago)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (4 days ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (5 days ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (5 days ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (5 days ago)
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (6 days ago)
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units (6 days ago)
 - [pgEdge/lolor](https://github.com/pgEdge/lolor) - PostgreSQL Large Object LOgical Replication (LOLOR) (6 days ago)
