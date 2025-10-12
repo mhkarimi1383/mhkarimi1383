@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (today)
+- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim (today)
 - [cloudnative-pg/postgres-keycloak-oauth-validator](https://github.com/cloudnative-pg/postgres-keycloak-oauth-validator) - PostgreSQL OAuth Validator for Keycloak (3 days ago)
 - [lsst-sqre/strimzi-registry-operator](https://github.com/lsst-sqre/strimzi-registry-operator) - A Kubernetes Operator for running the Confluent Schema Registry with a Strimzi-based Kafka cluster (4 days ago)
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite (5 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (6 days ago)
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (1 week ago)
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units (1 week ago)
-- [pgEdge/lolor](https://github.com/pgEdge/lolor) - PostgreSQL Large Object LOgical Replication (LOLOR) (1 week ago)
-- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
