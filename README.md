@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [urllib3/urllib3](https://github.com/urllib3/urllib3) - urllib3 is a user-friendly HTTP client library for Python (today)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (today)
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (today)
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim (today)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (5 days ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (6 days ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (6 days ago)
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
