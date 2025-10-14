@@ -50,13 +50,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (today)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 day ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 week ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (4 weeks ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (4 weeks ago)
 - [mhkarimi1383/bat](https://github.com/mhkarimi1383/bat) - bat (A cat(1) clone with wings.) config (4 weeks ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (4 weeks ago)
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (4 weeks ago)
 - [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (4 weeks ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (4 weeks ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (4 weeks ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (4 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [tursodatabase/libsql-client-go](https://github.com/tursodatabase/libsql-client-go) - Go client API for libSQL (today)
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (today)
 - [urllib3/urllib3](https://github.com/urllib3/urllib3) - urllib3 is a user-friendly HTTP client library for Python (2 days ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [lsst-sqre/strimzi-registry-operator](https://github.com/lsst-sqre/strimzi-registry-operator) - A Kubernetes Operator for running the Confluent Schema Registry with a Strimzi-based Kafka cluster (6 days ago)
 - [nonzzz/vite-bundle-analyzer](https://github.com/nonzzz/vite-bundle-analyzer) - bundle analyzer for vite (1 week ago)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (1 week ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
