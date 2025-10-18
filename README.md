@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations. (today)
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (today)
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript (2 days ago)
 - [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly) - Get Alerts from your Docker Container Logs (2 days ago)
 - [kkb0318/kubernetes-mcp](https://github.com/kkb0318/kubernetes-mcp) -  (2 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [tursodatabase/libsql-client-go](https://github.com/tursodatabase/libsql-client-go) - Go client API for libSQL (4 days ago)
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (4 days ago)
 - [urllib3/urllib3](https://github.com/urllib3/urllib3) - urllib3 is a user-friendly HTTP client library for Python (6 days ago)
-- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (6 days ago)
-- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
