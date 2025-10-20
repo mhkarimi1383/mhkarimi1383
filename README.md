@@ -85,6 +85,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [Remove fields from issue template that are already in debug info](https://github.com/n8n-io/n8n/pull/20968) on [n8n-io/n8n](https://github.com/n8n-io/n8n) (today)
 - [:sparkles: Add Volume source cloning](https://github.com/openebs/rawfile-localpv/pull/232) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
 - [Fix wordpress api request test assertion](https://github.com/mhkarimi1383/n8n/pull/1) on [mhkarimi1383/n8n](https://github.com/mhkarimi1383/n8n) (5 days ago)
 - [Update Go and Debian](https://github.com/ParminCloud/arvancloud-certmanager-issuer/pull/132) on [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) (6 days ago)
@@ -94,10 +95,10 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:sparkles: Complete volume snapshot support and better snapshot management ](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:recycle: Added gRPC service for internal communication](https://github.com/openebs/rawfile-localpv/pull/206) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
+- [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication. (today)
 - [seydx/node-av](https://github.com/seydx/node-av) - FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns (1 day ago)
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations. (2 days ago)
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Debian/dh-make-golang](https://github.com/Debian/dh-make-golang) - Automatically creates Debian packaging for Go packages (4 days ago)
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️ (5 days ago)
 - [tursodatabase/libsql-client-go](https://github.com/tursodatabase/libsql-client-go) - Go client API for libSQL (6 days ago)
-- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
