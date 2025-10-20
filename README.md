@@ -85,6 +85,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:wrench: Add kubelet path configuration](https://github.com/openebs/rawfile-localpv/pull/235) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [Remove fields from issue template that are already in debug info](https://github.com/n8n-io/n8n/pull/20968) on [n8n-io/n8n](https://github.com/n8n-io/n8n) (today)
 - [:sparkles: Add Volume source cloning](https://github.com/openebs/rawfile-localpv/pull/232) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
 - [Fix wordpress api request test assertion](https://github.com/mhkarimi1383/n8n/pull/1) on [mhkarimi1383/n8n](https://github.com/mhkarimi1383/n8n) (5 days ago)
@@ -94,7 +95,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (1 month ago)
 - [:sparkles: Complete volume snapshot support and better snapshot management ](https://github.com/openebs/rawfile-localpv/pull/213) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:green_heart: Add nix cache on CI using github actions](https://github.com/openebs/rawfile-localpv/pull/211) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:arrow_down: Downgrade debian from `trixie` to `bookworm`](https://github.com/openebs/rawfile-localpv/pull/208) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
