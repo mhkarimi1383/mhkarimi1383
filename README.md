@@ -47,16 +47,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (today)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (today)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (today)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (today)
 - [ParminCloud/storage-browser](https://github.com/ParminCloud/storage-browser) - ParminCloud S3 Object Storage Browser (5 days ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (6 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (2 weeks ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 month ago)
 - [mhkarimi1383/bat](https://github.com/mhkarimi1383/bat) - bat (A cat(1) clone with wings.) config (1 month ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 month ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (1 month ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (1 month ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 month ago)
+- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (1 month ago)
 
 ### 🌱 My latest projects
 
@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [coffebar/hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) - Per window keyboard layout (language) for Hyprland wayland compositor  (today)
 - [amirhnajafiz/file-access-patterns](https://github.com/amirhnajafiz/file-access-patterns) - eBPF based tool for tracing file access patterns. (today)
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication. (today)
 - [seydx/node-av](https://github.com/seydx/node-av) - FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly) - Get Alerts from your Docker Container Logs (4 days ago)
 - [kkb0318/kubernetes-mcp](https://github.com/kkb0318/kubernetes-mcp) -  (4 days ago)
 - [Debian/dh-make-golang](https://github.com/Debian/dh-make-golang) - Automatically creates Debian packaging for Go packages (4 days ago)
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️ (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
