@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [amirhnajafiz/file-access-patterns](https://github.com/amirhnajafiz/file-access-patterns) - eBPF based tool for tracing file access patterns. (today)
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication. (today)
 - [seydx/node-av](https://github.com/seydx/node-av) - FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns (1 day ago)
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations. (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [kkb0318/kubernetes-mcp](https://github.com/kkb0318/kubernetes-mcp) -  (4 days ago)
 - [Debian/dh-make-golang](https://github.com/Debian/dh-make-golang) - Automatically creates Debian packaging for Go packages (4 days ago)
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️ (5 days ago)
-- [tursodatabase/libsql-client-go](https://github.com/tursodatabase/libsql-client-go) - Go client API for libSQL (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
