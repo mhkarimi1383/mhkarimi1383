@@ -98,6 +98,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [bahamas10/bansi-to-html](https://github.com/bahamas10/bansi-to-html) - Convert ANSI to HTML purely in Bash. (today)
+- [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters. (today)
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (today)
 - [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint. (today)
 - [coffebar/hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) - Per window keyboard layout (language) for Hyprland wayland compositor  (4 days ago)
 - [amirhnajafiz/file-access-patterns](https://github.com/amirhnajafiz/file-access-patterns) - eBPF based tool for tracing file access patterns. (4 days ago)
@@ -105,9 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [seydx/node-av](https://github.com/seydx/node-av) - FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns (5 days ago)
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations. (6 days ago)
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (6 days ago)
-- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript (1 week ago)
-- [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly) - Get Alerts from your Docker Container Logs (1 week ago)
-- [kkb0318/kubernetes-mcp](https://github.com/kkb0318/kubernetes-mcp) -  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
