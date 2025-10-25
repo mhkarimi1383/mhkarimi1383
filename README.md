@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [lewis6991/tsffi.nvim](https://github.com/lewis6991/tsffi.nvim) -  (today)
 - [bahamas10/bansi-to-html](https://github.com/bahamas10/bansi-to-html) - Convert ANSI to HTML purely in Bash. (1 day ago)
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters. (1 day ago)
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication. (5 days ago)
 - [seydx/node-av](https://github.com/seydx/node-av) - FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns (6 days ago)
 - [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations. (1 week ago)
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
