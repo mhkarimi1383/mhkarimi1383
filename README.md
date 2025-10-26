@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter (today)
 - [lewis6991/tsffi.nvim](https://github.com/lewis6991/tsffi.nvim) -  (1 day ago)
 - [bahamas10/bansi-to-html](https://github.com/bahamas10/bansi-to-html) - Convert ANSI to HTML purely in Bash. (2 days ago)
 - [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters. (2 days ago)
@@ -107,15 +108,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [amirhnajafiz/file-access-patterns](https://github.com/amirhnajafiz/file-access-patterns) - eBPF based tool for tracing file access patterns. (6 days ago)
 - [cybozu-go/moco](https://github.com/cybozu-go/moco) - MySQL operator on Kubernetes using GTID-based semi-synchronous replication. (6 days ago)
 - [seydx/node-av](https://github.com/seydx/node-av) - FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns (1 week ago)
-- [NangoHQ/nango](https://github.com/NangoHQ/nango) - A single API for all your integrations. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [Vahidshgh](https://github.com/Vahidshgh)
 - [hamidgohari](https://github.com/hamidgohari)
 - [jelspace](https://github.com/jelspace)
 - [MehdiKhoshnevisz](https://github.com/MehdiKhoshnevisz)
+- [rr3s1](https://github.com/rr3s1)
 
 
 #### 🏆 GitHub Trophies
