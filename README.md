@@ -86,7 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔨 My recent Pull Requests
 
 - [Bump debian version](https://github.com/openebs/rawfile-localpv/pull/239) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 day ago)
-- [:recycle: Use volume manager for volume life cycle and move them to background](https://github.com/openebs/rawfile-localpv/pull/238) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (6 days ago)
+- [:recycle: Use volume manager for volume lifecycle and move them to background](https://github.com/openebs/rawfile-localpv/pull/238) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (6 days ago)
 - [:wrench: Add kubelet path configuration](https://github.com/openebs/rawfile-localpv/pull/235) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Remove fields from issue template that are already in debug info](https://github.com/n8n-io/n8n/pull/20968) on [n8n-io/n8n](https://github.com/n8n-io/n8n) (1 week ago)
 - [:sparkles: Add Volume source cloning](https://github.com/openebs/rawfile-localpv/pull/232) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
