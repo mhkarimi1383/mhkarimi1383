@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [besrabasant/k10ls](https://github.com/besrabasant/k10ls) - This tool provides a native Kubernetes API-based port-forwarding solution, allowing users to forward ports from Kubernetes. (today)
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix (1 day ago)
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful (1 day ago)
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (4 days ago)
 - [kubernetes-csi/external-snapshotter](https://github.com/kubernetes-csi/external-snapshotter) - Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint. (4 days ago)
 - [coffebar/hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) - Per window keyboard layout (language) for Hyprland wayland compositor  (1 week ago)
-- [amirhnajafiz/file-access-patterns](https://github.com/amirhnajafiz/file-access-patterns) - eBPF based tool for tracing file access patterns. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
