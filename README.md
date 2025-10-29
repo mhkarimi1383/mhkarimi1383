@@ -85,6 +85,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:memo: Add activity to Readme](https://github.com/openebs/rawfile-localpv/pull/242) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [Bump debian version](https://github.com/openebs/rawfile-localpv/pull/239) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
 - [:recycle: Use volume manager for volume lifecycle and move them to background](https://github.com/openebs/rawfile-localpv/pull/238) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:wrench: Add kubelet path configuration](https://github.com/openebs/rawfile-localpv/pull/235) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
@@ -94,7 +95,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Update Go and Debian](https://github.com/ParminCloud/arvancloud-certmanager-issuer/pull/132) on [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) (2 weeks ago)
 - [fix(WordPress): Fix WordPress Cache control on no-read operation](https://github.com/n8n-io/n8n/pull/20473) on [n8n-io/n8n](https://github.com/n8n-io/n8n) (3 weeks ago)
 - [:memo: Add k3s image load command for nixos-shell](https://github.com/openebs/rawfile-localpv/pull/217) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:zap: Make neotree transparency seperated from global configs](https://github.com/catppuccin/nvim/pull/925) on [catppuccin/nvim](https://github.com/catppuccin/nvim) (1 month ago)
 
 ### ⭐ Recent Stars
 
