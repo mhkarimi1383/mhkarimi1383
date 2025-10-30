@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [johannschopplich/toon](https://github.com/johannschopplich/toon) - 🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost (today)
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (today)
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android. (today)
 - [cybozu-go/sabakan](https://github.com/cybozu-go/sabakan) - A versatile network boot server for large data centers (today)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [wrale/mcp-server-tree-sitter](https://github.com/wrale/mcp-server-tree-sitter) - MCP Server for Tree-sitter (4 days ago)
 - [lewis6991/tsffi.nvim](https://github.com/lewis6991/tsffi.nvim) -  (5 days ago)
 - [bahamas10/bansi-to-html](https://github.com/bahamas10/bansi-to-html) - Convert ANSI to HTML purely in Bash. (6 days ago)
-- [microsoft/debug-adapter-protocol](https://github.com/microsoft/debug-adapter-protocol) - Defines a common protocol for debug adapters. (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
