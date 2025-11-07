@@ -101,7 +101,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line. (2 days ago)
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (3 days ago)
 - [hetznercloud/hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) - Kubernetes cloud-controller-manager for Hetzner Cloud (3 days ago)
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks &amp; TypeScript implementation. (1 week ago)
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 week ago)
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (1 week ago)
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android. (1 week ago)
 - [cybozu-go/sabakan](https://github.com/cybozu-go/sabakan) - A versatile network boot server for large data centers (1 week ago)
