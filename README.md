@@ -98,16 +98,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (today)
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (today)
+- [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (today)
+- [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Insights into the world&#39;s most critical open source software. (today)
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (today)
 - [hyprwm/hyprtoolkit](https://github.com/hyprwm/hyprtoolkit) - A modern C&#43;&#43; Wayland-native GUI toolkit (today)
 - [SchweGELBin/catppuccin-hyprtoolkit](https://github.com/SchweGELBin/catppuccin-hyprtoolkit) - 🛠️ Soothing pastel theme for hyprtoolkit (today)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (today)
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line. (4 days ago)
 - [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (5 days ago)
-- [hetznercloud/hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) - Kubernetes cloud-controller-manager for Hetzner Cloud (5 days ago)
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 week ago)
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (1 week ago)
-- [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
