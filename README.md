@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (today)
 - [hyprwm/hyprtoolkit](https://github.com/hyprwm/hyprtoolkit) - A modern C&#43;&#43; Wayland-native GUI toolkit (today)
 - [SchweGELBin/catppuccin-hyprtoolkit](https://github.com/SchweGELBin/catppuccin-hyprtoolkit) - 🛠️ Soothing pastel theme for hyprtoolkit (today)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (today)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK. (1 week ago)
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux (1 week ago)
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android. (1 week ago)
-- [cybozu-go/sabakan](https://github.com/cybozu-go/sabakan) - A versatile network boot server for large data centers (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
