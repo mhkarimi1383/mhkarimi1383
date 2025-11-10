@@ -111,11 +111,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
+- [AhmadAlArezi](https://github.com/AhmadAlArezi)
 - [besrabasant](https://github.com/besrabasant)
 - [Vahidshgh](https://github.com/Vahidshgh)
 - [hamidgohari](https://github.com/hamidgohari)
 - [jelspace](https://github.com/jelspace)
-- [MehdiKhoshnevisz](https://github.com/MehdiKhoshnevisz)
 
 
 #### 🏆 GitHub Trophies
