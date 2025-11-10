@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (today)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (1 day ago)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 day ago)
 - [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (1 day ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [SchweGELBin/catppuccin-hyprtoolkit](https://github.com/SchweGELBin/catppuccin-hyprtoolkit) - 🛠️ Soothing pastel theme for hyprtoolkit (1 day ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 day ago)
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line. (5 days ago)
-- [strimzi/strimzi-kafka-bridge](https://github.com/strimzi/strimzi-kafka-bridge) - An HTTP bridge for Apache Kafka® (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
