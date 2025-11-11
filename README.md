@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [hlts2/round-robin](https://github.com/hlts2/round-robin) - faster round-robin balancing algorithm written in golang (today)
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (1 day ago)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (2 days ago)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [hyprwm/hyprtoolkit](https://github.com/hyprwm/hyprtoolkit) - A modern C&#43;&#43; Wayland-native GUI toolkit (2 days ago)
 - [SchweGELBin/catppuccin-hyprtoolkit](https://github.com/SchweGELBin/catppuccin-hyprtoolkit) - 🛠️ Soothing pastel theme for hyprtoolkit (2 days ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 days ago)
-- [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line. (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
