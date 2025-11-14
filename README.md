@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [DiegoDVG/n8n-nodes-network-basic-nodes](https://github.com/DiegoDVG/n8n-nodes-network-basic-nodes) - A comprehensive n8n community node package that provides TCP and UDP network functionality with specialized client and server nodes. (today)
 - [epsy/clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces (2 days ago)
 - [hlts2/round-robin](https://github.com/hlts2/round-robin) - faster round-robin balancing algorithm written in golang (3 days ago)
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (4 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Insights into the world&#39;s most critical open source software. (5 days ago)
 - [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (5 days ago)
 - [hyprwm/hyprtoolkit](https://github.com/hyprwm/hyprtoolkit) - A modern C&#43;&#43; Wayland-native GUI toolkit (5 days ago)
-- [SchweGELBin/catppuccin-hyprtoolkit](https://github.com/SchweGELBin/catppuccin-hyprtoolkit) - 🛠️ Soothing pastel theme for hyprtoolkit (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
