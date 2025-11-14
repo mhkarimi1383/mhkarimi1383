@@ -48,15 +48,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 👷 Check out what I'm currently working on
 
 - [mhkarimi1383/windeploy-linux](https://github.com/mhkarimi1383/windeploy-linux) - Deploy windows to any device within linux Forked from https://codeberg.org/regnarg/deploy-win10-from-linux to make it cleaner and easier to work with (today)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 days ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (3 days ago)
 - [ParminCloud/storage-browser](https://github.com/ParminCloud/storage-browser) - ParminCloud S3 Object Storage Browser (3 days ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 days ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (5 days ago)
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (5 days ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (5 days ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (3 weeks ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (5 days ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 weeks ago)
-- [mhkarimi1383/bat](https://github.com/mhkarimi1383/bat) - bat (A cat(1) clone with wings.) config (2 months ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (3 weeks ago)
+- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (2 months ago)
 
 ### 🌱 My latest projects
 
@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [kupiakos/pybcd](https://github.com/kupiakos/pybcd) - A Python-based BCD Library and Editor (today)
+- [jpz4085/BCD-SYS](https://github.com/jpz4085/BCD-SYS) - Setup the Windows BCD and boot files from Linux or macOS. (today)
 - [DiegoDVG/n8n-nodes-network-basic-nodes](https://github.com/DiegoDVG/n8n-nodes-network-basic-nodes) - A comprehensive n8n community node package that provides TCP and UDP network functionality with specialized client and server nodes. (today)
 - [epsy/clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces (2 days ago)
 - [hlts2/round-robin](https://github.com/hlts2/round-robin) - faster round-robin balancing algorithm written in golang (3 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (5 days ago)
 - [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (5 days ago)
 - [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Insights into the world&#39;s most critical open source software. (5 days ago)
-- [pydantic/jiter](https://github.com/pydantic/jiter) - Fast iterable JSON parser. (5 days ago)
-- [hyprwm/hyprtoolkit](https://github.com/hyprwm/hyprtoolkit) - A modern C&#43;&#43; Wayland-native GUI toolkit (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
