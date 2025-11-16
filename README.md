@@ -85,6 +85,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:green_heart: Fix trivy sarif upload problem](https://github.com/openebs/rawfile-localpv/pull/250) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:recycle: Seperating metadata dir and data dir](https://github.com/openebs/rawfile-localpv/pull/247) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:test_tube: Adding trivy for container scanning](https://github.com/openebs/rawfile-localpv/pull/246) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:memo: Add activity to Readme](https://github.com/openebs/rawfile-localpv/pull/242) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
@@ -94,7 +95,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Remove fields from issue template that are already in debug info](https://github.com/n8n-io/n8n/pull/20968) on [n8n-io/n8n](https://github.com/n8n-io/n8n) (3 weeks ago)
 - [:sparkles: Add Volume source cloning](https://github.com/openebs/rawfile-localpv/pull/232) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [Fix wordpress api request test assertion](https://github.com/mhkarimi1383/n8n/pull/1) on [mhkarimi1383/n8n](https://github.com/mhkarimi1383/n8n) (1 month ago)
-- [Update Go and Debian](https://github.com/ParminCloud/arvancloud-certmanager-issuer/pull/132) on [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) (1 month ago)
 
 ### ⭐ Recent Stars
 
@@ -111,11 +111,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
+- [Julian-Dumitrascu](https://github.com/Julian-Dumitrascu)
 - [AhmadAlArezi](https://github.com/AhmadAlArezi)
 - [besrabasant](https://github.com/besrabasant)
 - [Vahidshgh](https://github.com/Vahidshgh)
 - [hamidgohari](https://github.com/hamidgohari)
-- [jelspace](https://github.com/jelspace)
 
 
 #### 🏆 GitHub Trophies
