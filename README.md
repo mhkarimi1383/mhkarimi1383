@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [libguestfs/hivex](https://github.com/libguestfs/hivex) - windows registry hive extraction library.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS. See the website for how to file a bug or contact us.  http://libguestfs.org (today)
+- [wodny/libbcd0](https://github.com/wodny/libbcd0) - Old and experimental Windows Boot Configuration Data (BCD) Python 2 library (today)
 - [kupiakos/pybcd](https://github.com/kupiakos/pybcd) - A Python-based BCD Library and Editor (4 days ago)
 - [jpz4085/BCD-SYS](https://github.com/jpz4085/BCD-SYS) - Setup the Windows BCD and boot files from Linux or macOS. (4 days ago)
 - [DiegoDVG/n8n-nodes-network-basic-nodes](https://github.com/DiegoDVG/n8n-nodes-network-basic-nodes) - A comprehensive n8n community node package that provides TCP and UDP network functionality with specialized client and server nodes. (4 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (1 week ago)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (1 week ago)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (1 week ago)
-- [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (1 week ago)
-- [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Insights into the world&#39;s most critical open source software. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
