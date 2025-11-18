@@ -47,16 +47,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (2 days ago)
 - [mhkarimi1383/windeploy-linux](https://github.com/mhkarimi1383/windeploy-linux) - Deploy windows to any device within linux Forked from https://codeberg.org/regnarg/deploy-win10-from-linux to make it cleaner and easier to work with (3 days ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (3 days ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 - [ParminCloud/storage-browser](https://github.com/ParminCloud/storage-browser) - ParminCloud S3 Object Storage Browser (1 week ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 week ago)
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (4 weeks ago)
 - [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (4 weeks ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (2 months ago)
+- [mhkarimi1383/bat](https://github.com/mhkarimi1383/bat) - bat (A cat(1) clone with wings.) config (2 months ago)
 
 ### 🌱 My latest projects
 
@@ -73,10 +73,10 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.8.0-rc.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.8.0-rc.0), today) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.18](https://github.com/minio/minio-py/releases/tag/7.2.18), 1 month ago) - MinIO Client SDK for Python
 - [openebs/openebs](https://github.com/openebs/openebs) ([v4.3.3](https://github.com/openebs/openebs/releases/tag/v4.3.3), 2 months ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.11.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.11.0), 3 months ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.7.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.7.0), 5 months ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 7 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 9 months ago) - 
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-0.0.13](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-0.0.13), 11 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
