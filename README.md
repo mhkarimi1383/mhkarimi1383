@@ -86,7 +86,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔨 My recent Pull Requests
 
 - [:green_heart: Fix trivy sarif upload problem](https://github.com/openebs/rawfile-localpv/pull/250) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
-- [:recycle: Seperating metadata dir and data dir](https://github.com/openebs/rawfile-localpv/pull/247) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
+- [:recycle: Separating metadata dir and data dir](https://github.com/openebs/rawfile-localpv/pull/247) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:test_tube: Adding trivy for container scanning](https://github.com/openebs/rawfile-localpv/pull/246) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:memo: Add activity to Readme](https://github.com/openebs/rawfile-localpv/pull/242) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [Bump debian version](https://github.com/openebs/rawfile-localpv/pull/239) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
