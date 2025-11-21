@@ -73,7 +73,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [openebs/openebs](https://github.com/openebs/openebs) ([v4.4.0-rc.0](https://github.com/openebs/openebs/releases/tag/v4.4.0-rc.0), 1 day ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
+- [openebs/openebs](https://github.com/openebs/openebs) ([v4.4.0](https://github.com/openebs/openebs/releases/tag/v4.4.0), today) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.12.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.12.0), 1 day ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.8.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.8.0), 3 days ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.18](https://github.com/minio/minio-py/releases/tag/7.2.18), 1 month ago) - MinIO Client SDK for Python
