@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [pomponchik/transfunctions](https://github.com/pomponchik/transfunctions) - Say NO to Python fragmentation on sync and async (today)
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (2 days ago)
 - [nextdhcp/nextdhcp](https://github.com/nextdhcp/nextdhcp) - A DHCP server chaining middlewares. Similar to CoreDNS and Caddy (2 days ago)
 - [libguestfs/hivex](https://github.com/libguestfs/hivex) - windows registry hive extraction library.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS. See the website for how to file a bug or contact us.  http://libguestfs.org (3 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [DiegoDVG/n8n-nodes-network-basic-nodes](https://github.com/DiegoDVG/n8n-nodes-network-basic-nodes) - A comprehensive n8n community node package that provides TCP and UDP network functionality with specialized client and server nodes. (1 week ago)
 - [epsy/clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces (1 week ago)
 - [hlts2/round-robin](https://github.com/hlts2/round-robin) - faster round-robin balancing algorithm written in golang (1 week ago)
-- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
