@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (today)
 - [pomponchik/transfunctions](https://github.com/pomponchik/transfunctions) - Say NO to Python fragmentation on sync and async (1 day ago)
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (3 days ago)
 - [nextdhcp/nextdhcp](https://github.com/nextdhcp/nextdhcp) - A DHCP server chaining middlewares. Similar to CoreDNS and Caddy (3 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [jpz4085/BCD-SYS](https://github.com/jpz4085/BCD-SYS) - Setup the Windows BCD and boot files from Linux or macOS. (1 week ago)
 - [DiegoDVG/n8n-nodes-network-basic-nodes](https://github.com/DiegoDVG/n8n-nodes-network-basic-nodes) - A comprehensive n8n community node package that provides TCP and UDP network functionality with specialized client and server nodes. (1 week ago)
 - [epsy/clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces (1 week ago)
-- [hlts2/round-robin](https://github.com/hlts2/round-robin) - faster round-robin balancing algorithm written in golang (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
