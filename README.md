@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (today)
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (today)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (1 day ago)
 - [pomponchik/transfunctions](https://github.com/pomponchik/transfunctions) - Say NO to Python fragmentation on sync and async (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [wodny/libbcd0](https://github.com/wodny/libbcd0) - Old and experimental Windows Boot Configuration Data (BCD) Python 2 library (5 days ago)
 - [kupiakos/pybcd](https://github.com/kupiakos/pybcd) - A Python-based BCD Library and Editor (1 week ago)
 - [jpz4085/BCD-SYS](https://github.com/jpz4085/BCD-SYS) - Setup the Windows BCD and boot files from Linux or macOS. (1 week ago)
-- [DiegoDVG/n8n-nodes-network-basic-nodes](https://github.com/DiegoDVG/n8n-nodes-network-basic-nodes) - A comprehensive n8n community node package that provides TCP and UDP network functionality with specialized client and server nodes. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
