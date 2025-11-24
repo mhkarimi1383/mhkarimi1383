@@ -73,10 +73,10 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
+- [minio/minio-py](https://github.com/minio/minio-py) ([7.2.19](https://github.com/minio/minio-py/releases/tag/7.2.19), today) - MinIO Client SDK for Python
 - [openebs/openebs](https://github.com/openebs/openebs) ([v4.4.0](https://github.com/openebs/openebs/releases/tag/v4.4.0), 3 days ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.12.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.12.0), 4 days ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.8.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.8.0), 6 days ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
-- [minio/minio-py](https://github.com/minio/minio-py) ([7.2.18](https://github.com/minio/minio-py/releases/tag/7.2.18), 1 month ago) - MinIO Client SDK for Python
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 7 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 10 months ago) - 
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-0.0.13](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-0.0.13), 11 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
