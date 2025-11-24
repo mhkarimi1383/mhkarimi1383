@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [mattn/go-sixel](https://github.com/mattn/go-sixel) - DRCS/Sixel Encoder/Decoder (today)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (1 day ago)
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (1 day ago)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [libguestfs/hivex](https://github.com/libguestfs/hivex) - windows registry hive extraction library.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS. See the website for how to file a bug or contact us.  http://libguestfs.org (6 days ago)
 - [wodny/libbcd0](https://github.com/wodny/libbcd0) - Old and experimental Windows Boot Configuration Data (BCD) Python 2 library (6 days ago)
 - [kupiakos/pybcd](https://github.com/kupiakos/pybcd) - A Python-based BCD Library and Editor (1 week ago)
-- [jpz4085/BCD-SYS](https://github.com/jpz4085/BCD-SYS) - Setup the Windows BCD and boot files from Linux or macOS. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
