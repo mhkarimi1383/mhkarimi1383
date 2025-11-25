@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [bigbluebutton/bbb-install](https://github.com/bigbluebutton/bbb-install) - BASH script to install BigBlueButton in 30 minutes. (today)
 - [mattn/go-sixel](https://github.com/mattn/go-sixel) - DRCS/Sixel Encoder/Decoder (1 day ago)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (2 days ago)
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (2 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [nextdhcp/nextdhcp](https://github.com/nextdhcp/nextdhcp) - A DHCP server chaining middlewares. Similar to CoreDNS and Caddy (6 days ago)
 - [libguestfs/hivex](https://github.com/libguestfs/hivex) - windows registry hive extraction library.  PLEASE DO NOT USE GITHUB FOR ISSUES OR PULL REQUESTS. See the website for how to file a bug or contact us.  http://libguestfs.org (1 week ago)
 - [wodny/libbcd0](https://github.com/wodny/libbcd0) - Old and experimental Windows Boot Configuration Data (BCD) Python 2 library (1 week ago)
-- [kupiakos/pybcd](https://github.com/kupiakos/pybcd) - A Python-based BCD Library and Editor (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
