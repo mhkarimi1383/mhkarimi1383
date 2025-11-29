@@ -47,15 +47,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (1 day ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 day ago)
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 day ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 day ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 day ago)
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (3 days ago)
-- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (5 days ago)
-- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 week ago)
-- [mhkarimi1383/windeploy-linux](https://github.com/mhkarimi1383/windeploy-linux) - Deploy windows to any device within linux Forked from https://codeberg.org/regnarg/deploy-win10-from-linux to make it cleaner and easier to work with (1 week ago)
+- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (2 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 days ago)
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (2 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (2 days ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (2 days ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (4 days ago)
+- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (6 days ago)
+- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (2 weeks ago)
+- [mhkarimi1383/windeploy-linux](https://github.com/mhkarimi1383/windeploy-linux) - Deploy windows to any device within linux Forked from https://codeberg.org/regnarg/deploy-win10-from-linux to make it cleaner and easier to work with (2 weeks ago)
 - [ParminCloud/storage-browser](https://github.com/ParminCloud/storage-browser) - ParminCloud S3 Object Storage Browser (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -73,8 +73,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 1 day ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
-- [minio/minio-py](https://github.com/minio/minio-py) ([7.2.20](https://github.com/minio/minio-py/releases/tag/7.2.20), 1 day ago) - MinIO Client SDK for Python
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 2 days ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
+- [minio/minio-py](https://github.com/minio/minio-py) ([7.2.20](https://github.com/minio/minio-py/releases/tag/7.2.20), 2 days ago) - MinIO Client SDK for Python
 - [openebs/openebs](https://github.com/openebs/openebs) ([v4.4.0](https://github.com/openebs/openebs/releases/tag/v4.4.0), 1 week ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.12.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.12.0), 1 week ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.8.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.8.0), 1 week ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
@@ -85,9 +85,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
-- [:pencil2: Set process title when running csi driver](https://github.com/openebs/rawfile-localpv/pull/259) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
-- [:goal_net: Validate volume readiness before mount](https://github.com/openebs/rawfile-localpv/pull/258) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
-- [:construction: Adding storage pool support](https://github.com/openebs/rawfile-localpv/pull/254) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 days ago)
+- [:pencil2: Set process title when running csi driver](https://github.com/openebs/rawfile-localpv/pull/259) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
+- [:goal_net: Validate volume readiness before mount](https://github.com/openebs/rawfile-localpv/pull/258) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
+- [:construction: Adding storage pool support](https://github.com/openebs/rawfile-localpv/pull/254) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (6 days ago)
 - [:green_heart: Fix trivy sarif upload problem](https://github.com/openebs/rawfile-localpv/pull/250) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:recycle: Separating metadata dir and data dir](https://github.com/openebs/rawfile-localpv/pull/247) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:test_tube: Adding trivy for container scanning](https://github.com/openebs/rawfile-localpv/pull/246) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
@@ -98,12 +98,12 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 day ago)
-- [bigbluebutton/bbb-install](https://github.com/bigbluebutton/bbb-install) - BASH script to install BigBlueButton in 30 minutes. (3 days ago)
-- [mattn/go-sixel](https://github.com/mattn/go-sixel) - DRCS/Sixel Encoder/Decoder (4 days ago)
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (5 days ago)
-- [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (5 days ago)
-- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (6 days ago)
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (2 days ago)
+- [bigbluebutton/bbb-install](https://github.com/bigbluebutton/bbb-install) - BASH script to install BigBlueButton in 30 minutes. (4 days ago)
+- [mattn/go-sixel](https://github.com/mattn/go-sixel) - DRCS/Sixel Encoder/Decoder (5 days ago)
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (6 days ago)
+- [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (6 days ago)
+- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (1 week ago)
 - [pomponchik/transfunctions](https://github.com/pomponchik/transfunctions) - Say NO to Python fragmentation on sync and async (1 week ago)
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (1 week ago)
 - [nextdhcp/nextdhcp](https://github.com/nextdhcp/nextdhcp) - A DHCP server chaining middlewares. Similar to CoreDNS and Caddy (1 week ago)
@@ -111,11 +111,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
+- [erfanium](https://github.com/erfanium)
 - [matthewspeace1-hash](https://github.com/matthewspeace1-hash)
 - [OnyedikachiJohnChita](https://github.com/OnyedikachiJohnChita)
 - [amsaravi](https://github.com/amsaravi)
 - [Julian-Dumitrascu](https://github.com/Julian-Dumitrascu)
-- [AhmadAlArezi](https://github.com/AhmadAlArezi)
 
 
 #### 🏆 GitHub Trophies
