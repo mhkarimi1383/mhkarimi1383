@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (today)
 - [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music  (2 days ago)
 - [mhkarimi1383/windeploy-linux](https://github.com/mhkarimi1383/windeploy-linux) - Deploy windows to any device within linux Forked from https://codeberg.org/regnarg/deploy-win10-from-linux to make it cleaner and easier to work with (2 days ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (5 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (1 week ago)
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (1 week ago)
 - [pomponchik/transfunctions](https://github.com/pomponchik/transfunctions) - Say NO to Python fragmentation on sync and async (1 week ago)
-- [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
