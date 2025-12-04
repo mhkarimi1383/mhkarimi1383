@@ -98,6 +98,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates (today)
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (1 day ago)
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (2 days ago)
 - [Thunderarea/music-mode-for-youtube](https://github.com/Thunderarea/music-mode-for-youtube) - Browser extension for hiding the video on YouTube and blocking the video and playing only the audio on YouTube Music  (4 days ago)
@@ -107,7 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mattn/go-sixel](https://github.com/mattn/go-sixel) - DRCS/Sixel Encoder/Decoder (1 week ago)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (1 week ago)
 - [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (1 week ago)
-- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]  (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
