@@ -111,11 +111,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
+- [CelaFlori](https://github.com/CelaFlori)
 - [ukohatoro24-ctrl](https://github.com/ukohatoro24-ctrl)
 - [zareismail](https://github.com/zareismail)
 - [erfanium](https://github.com/erfanium)
 - [matthewspeace1-hash](https://github.com/matthewspeace1-hash)
-- [OnyedikachiJohnChita](https://github.com/OnyedikachiJohnChita)
 
 
 #### 🏆 GitHub Trophies
