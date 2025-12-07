@@ -98,6 +98,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [shipmight/helm-playground](https://github.com/shipmight/helm-playground) - Interactive site to debug Helm templating (&amp; syntax cheatsheet) (today)
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (today)
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates (3 days ago)
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device  (4 days ago)
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (5 days ago)
@@ -106,8 +108,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 week ago)
 - [bigbluebutton/bbb-install](https://github.com/bigbluebutton/bbb-install) - BASH script to install BigBlueButton in 30 minutes. (1 week ago)
 - [mattn/go-sixel](https://github.com/mattn/go-sixel) - DRCS/Sixel Encoder/Decoder (1 week ago)
-- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) -  (2 weeks ago)
-- [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) - The official Neovim plugin for Supermaven (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
