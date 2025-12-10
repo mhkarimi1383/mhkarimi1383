@@ -37,9 +37,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ## 📊 Stats
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mhkarimi1383&hide_border=true&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-  <img width="60%" src="https://streak-stats.demolab.com/?user=mhkarimi1383&theme=dracula&hide_border=true" />
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhkarimi1383&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   <img width="100%" src="https://github.com/mhkarimi1383/mhkarimi1383/blob/output/snake.svg" />
 </p>
 
