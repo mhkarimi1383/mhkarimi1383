@@ -12,7 +12,7 @@ Co-Founder / CTO @ [ParminCloud](https://github.com/ParminCloud)
 
 💻 DevOps Engineer and Programmer<br>
 😎 Geek<br>
-🎮 XBOX Player<br>
+🎮 XBOX/PC (Linux) Player<br>
 🙏 Talk is cheep, Show me the code... Linus Torvalds<br>
 🕵️‍♂️ Command Line Lover<br>
 🐳 Container, Kubernetes and CloudNative Lover<br>
