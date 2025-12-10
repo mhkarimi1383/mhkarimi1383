@@ -95,6 +95,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (today)
 - [shipmight/helm-playground](https://github.com/shipmight/helm-playground) - Interactive site to debug Helm templating (&amp; syntax cheatsheet) (3 days ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (3 days ago)
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates (6 days ago)
@@ -104,7 +105,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mhkarimi1383/windeploy-linux](https://github.com/mhkarimi1383/windeploy-linux) - Deploy windows to any device within linux Forked from https://codeberg.org/regnarg/deploy-win10-from-linux to make it cleaner and easier to work with (1 week ago)
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever. (1 week ago)
 - [bigbluebutton/bbb-install](https://github.com/bigbluebutton/bbb-install) - BASH script to install BigBlueButton in 30 minutes. (2 weeks ago)
-- [mattn/go-sixel](https://github.com/mattn/go-sixel) - DRCS/Sixel Encoder/Decoder (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
