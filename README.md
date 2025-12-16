@@ -84,7 +84,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:sparkles: Internal Server IPv6 Support](https://github.com/openebs/rawfile-localpv/pull/266) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:pencil2: Set process title when running csi driver](https://github.com/openebs/rawfile-localpv/pull/259) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:goal_net: Validate volume readiness before mount](https://github.com/openebs/rawfile-localpv/pull/258) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
-- [:construction: Adding storage pool support](https://github.com/openebs/rawfile-localpv/pull/254) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
+- [:sparkles: Adding storage pool support](https://github.com/openebs/rawfile-localpv/pull/254) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:green_heart: Fix trivy sarif upload problem](https://github.com/openebs/rawfile-localpv/pull/250) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:recycle: Separating metadata dir and data dir](https://github.com/openebs/rawfile-localpv/pull/247) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:test_tube: Adding trivy for container scanning](https://github.com/openebs/rawfile-localpv/pull/246) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
