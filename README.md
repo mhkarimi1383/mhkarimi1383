@@ -81,6 +81,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:technologist: Improve shebang compatibility](https://github.com/rustfs/rustfs/pull/1180) on [rustfs/rustfs](https://github.com/rustfs/rustfs) (today)
 - [:sparkles: Internal Server IPv6 Support](https://github.com/openebs/rawfile-localpv/pull/266) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:pencil2: Set process title when running csi driver](https://github.com/openebs/rawfile-localpv/pull/259) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:goal_net: Validate volume readiness before mount](https://github.com/openebs/rawfile-localpv/pull/258) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
@@ -90,10 +91,10 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:test_tube: Adding trivy for container scanning](https://github.com/openebs/rawfile-localpv/pull/246) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:memo: Add activity to Readme](https://github.com/openebs/rawfile-localpv/pull/242) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [Bump debian version](https://github.com/openebs/rawfile-localpv/pull/239) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:recycle: Use volume manager for volume lifecycle and move them to background](https://github.com/openebs/rawfile-localpv/pull/238) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
+- [s3s-project/s3s](https://github.com/s3s-project/s3s) - S3 Service Adapter (today)
 - [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (3 days ago)
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI. (3 days ago)
 - [strimzi/strimzi-mqtt-bridge](https://github.com/strimzi/strimzi-mqtt-bridge) - An MQTT bridge for Apache Kafka® (3 days ago)
@@ -103,7 +104,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat) - bongocat for your desktop ₍^. .^₎ (6 days ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 week ago)
 - [shipmight/helm-playground](https://github.com/shipmight/helm-playground) - Interactive site to debug Helm templating (&amp; syntax cheatsheet) (1 week ago)
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
