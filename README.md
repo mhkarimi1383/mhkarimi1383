@@ -94,6 +94,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more. (today)
 - [confluentinc/schema-registry-images](https://github.com/confluentinc/schema-registry-images) - Docker Images for Schema Registry (1 day ago)
 - [s3s-project/s3s](https://github.com/s3s-project/s3s) - S3 Service Adapter (5 days ago)
 - [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (1 week ago)
@@ -103,7 +104,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains (1 week ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
 - [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat) - bongocat for your desktop ₍^. .^₎ (1 week ago)
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
