@@ -94,6 +94,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (today)
 - [rgcr/ChromaTerm2](https://github.com/rgcr/ChromaTerm2) - Color your Terminal with RegEx! (today)
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more. (today)
 - [confluentinc/schema-registry-images](https://github.com/confluentinc/schema-registry-images) - Docker Images for Schema Registry (1 day ago)
@@ -103,7 +104,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [strimzi/strimzi-mqtt-bridge](https://github.com/strimzi/strimzi-mqtt-bridge) - An MQTT bridge for Apache Kafka® (1 week ago)
 - [mirus-ua/hugo-theme-re-terminal](https://github.com/mirus-ua/hugo-theme-re-terminal) - A simple, but reach, retro theme for Hugo (1 week ago)
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains (1 week ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
