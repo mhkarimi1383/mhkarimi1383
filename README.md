@@ -44,14 +44,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (today)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (today)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (2 days ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 week ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (2 weeks ago)
 - [mhkarimi1383/windeploy-linux](https://github.com/mhkarimi1383/windeploy-linux) - Deploy windows to any device within linux Forked from https://codeberg.org/regnarg/deploy-win10-from-linux to make it cleaner and easier to work with (3 weeks ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (4 weeks ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (4 weeks ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (4 weeks ago)
 - [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (4 weeks ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (4 weeks ago)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (1 month ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 month ago)
 
@@ -94,6 +94,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C&#43;&#43;. (today)
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (3 days ago)
 - [rgcr/ChromaTerm2](https://github.com/rgcr/ChromaTerm2) - Color your Terminal with RegEx! (3 days ago)
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more. (3 days ago)
@@ -103,7 +104,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI. (1 week ago)
 - [strimzi/strimzi-mqtt-bridge](https://github.com/strimzi/strimzi-mqtt-bridge) - An MQTT bridge for Apache Kafka® (1 week ago)
 - [mirus-ua/hugo-theme-re-terminal](https://github.com/mirus-ua/hugo-theme-re-terminal) - A simple, but reach, retro theme for Hugo (1 week ago)
-- [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
