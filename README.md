@@ -94,6 +94,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [sehejjain/Language-Server-MCP-Bridge](https://github.com/sehejjain/Language-Server-MCP-Bridge) - A universal VS Code extension that bridges any Language Server Protocol (LSP) capabilities to MCP tools and GitHub Copilot Language Model Tools, enabling intelligent code navigation and analysis across all programming languages. (today)
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist (3 days ago)
 - [TheSuperHackers/GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) - Command and Conquer: Generals - Zero Hour (3 days ago)
 - [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C&#43;&#43;. (4 days ago)
@@ -103,7 +104,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [confluentinc/schema-registry-images](https://github.com/confluentinc/schema-registry-images) - Docker Images for Schema Registry (1 week ago)
 - [s3s-project/s3s](https://github.com/s3s-project/s3s) - S3 Service Adapter (1 week ago)
 - [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (2 weeks ago)
-- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
