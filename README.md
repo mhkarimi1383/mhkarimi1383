@@ -94,6 +94,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [dgrr/http2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp (today)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (today)
 - [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes (today)
 - [cloudbase/garm](https://github.com/cloudbase/garm) - GitHub Actions Runner Manager (2 days ago)
 - [sehejjain/Language-Server-MCP-Bridge](https://github.com/sehejjain/Language-Server-MCP-Bridge) - A universal VS Code extension that bridges any Language Server Protocol (LSP) capabilities to MCP tools and GitHub Copilot Language Model Tools, enabling intelligent code navigation and analysis across all programming languages. (4 days ago)
@@ -102,8 +104,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C&#43;&#43;. (1 week ago)
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (1 week ago)
 - [rgcr/ChromaTerm2](https://github.com/rgcr/ChromaTerm2) - Color your Terminal with RegEx! (1 week ago)
-- [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL and SQLite, Turso and more. (1 week ago)
-- [confluentinc/schema-registry-images](https://github.com/confluentinc/schema-registry-images) - Docker Images for Schema Registry (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
