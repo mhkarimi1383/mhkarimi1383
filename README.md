@@ -70,7 +70,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.12.2](https://github.com/openebs/rawfile-localpv/releases/tag/v0.12.2), 3 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.12.2](https://github.com/openebs/rawfile-localpv/releases/tag/v0.12.2), 4 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 1 month ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [minio/minio-py](https://github.com/minio/minio-py) ([7.2.20](https://github.com/minio/minio-py/releases/tag/7.2.20), 1 month ago) - MinIO Client SDK for Python
 - [openebs/openebs](https://github.com/openebs/openebs) ([v4.4.0](https://github.com/openebs/openebs/releases/tag/v4.4.0), 1 month ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
@@ -94,16 +94,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (today)
-- [dgrr/http2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp (2 days ago)
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (2 days ago)
-- [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes (2 days ago)
-- [cloudbase/garm](https://github.com/cloudbase/garm) - GitHub Actions Runner Manager (4 days ago)
-- [sehejjain/Language-Server-MCP-Bridge](https://github.com/sehejjain/Language-Server-MCP-Bridge) - A universal VS Code extension that bridges any Language Server Protocol (LSP) capabilities to MCP tools and GitHub Copilot Language Model Tools, enabling intelligent code navigation and analysis across all programming languages. (6 days ago)
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (1 day ago)
+- [dgrr/http2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp (3 days ago)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (3 days ago)
+- [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes (3 days ago)
+- [cloudbase/garm](https://github.com/cloudbase/garm) - GitHub Actions Runner Manager (5 days ago)
+- [sehejjain/Language-Server-MCP-Bridge](https://github.com/sehejjain/Language-Server-MCP-Bridge) - A universal VS Code extension that bridges any Language Server Protocol (LSP) capabilities to MCP tools and GitHub Copilot Language Model Tools, enabling intelligent code navigation and analysis across all programming languages. (1 week ago)
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist (1 week ago)
 - [TheSuperHackers/GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) - Command and Conquer: Generals - Zero Hour (1 week ago)
 - [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C&#43;&#43;. (1 week ago)
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (1 week ago)
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
