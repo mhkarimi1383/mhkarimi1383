@@ -81,6 +81,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:tada: Initial Rev.](https://github.com/rustfs/rustfs-flake/pull/2) on [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) (today)
 - [:technologist: Fix nix develop problem with Git-Based dependecies on nix develop shell](https://github.com/rustfs/rustfs/pull/1243) on [rustfs/rustfs](https://github.com/rustfs/rustfs) (2 weeks ago)
 - [:technologist: Improve shebang compatibility](https://github.com/rustfs/rustfs/pull/1180) on [rustfs/rustfs](https://github.com/rustfs/rustfs) (2 weeks ago)
 - [:sparkles: Internal Server IPv6 Support](https://github.com/openebs/rawfile-localpv/pull/266) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -90,7 +91,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:green_heart: Fix trivy sarif upload problem](https://github.com/openebs/rawfile-localpv/pull/250) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:recycle: Separating metadata dir and data dir](https://github.com/openebs/rawfile-localpv/pull/247) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:test_tube: Adding trivy for container scanning](https://github.com/openebs/rawfile-localpv/pull/246) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:memo: Add activity to Readme](https://github.com/openebs/rawfile-localpv/pull/242) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 
 ### ⭐ Recent Stars
 
