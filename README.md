@@ -94,6 +94,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland (today)
+- [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix (today)
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors (1 day ago)
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (3 days ago)
 - [dgrr/http2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp (5 days ago)
@@ -102,16 +104,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [cloudbase/garm](https://github.com/cloudbase/garm) - GitHub Actions Runner Manager (1 week ago)
 - [sehejjain/Language-Server-MCP-Bridge](https://github.com/sehejjain/Language-Server-MCP-Bridge) - A universal VS Code extension that bridges any Language Server Protocol (LSP) capabilities to MCP tools and GitHub Copilot Language Model Tools, enabling intelligent code navigation and analysis across all programming languages. (1 week ago)
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) - Live render workspace diagnostics in quickfix with current buf errors on top, buffer diagnostics in loclist (1 week ago)
-- [TheSuperHackers/GeneralsGameCode](https://github.com/TheSuperHackers/GeneralsGameCode) - Command and Conquer: Generals - Zero Hour (1 week ago)
-- [hyprwm/Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C&#43;&#43;. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
 - [ephmo](https://github.com/ephmo)
-- [traitimtrongvag](https://github.com/traitimtrongvag)
 - [tiny-eng](https://github.com/tiny-eng)
 - [0xdx2](https://github.com/0xdx2)
 - [ukohatoro24-ctrl](https://github.com/ukohatoro24-ctrl)
+- [zareismail](https://github.com/zareismail)
 
 
 #### 🏆 GitHub Trophies
