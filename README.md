@@ -107,11 +107,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
-- [ephmo](https://github.com/ephmo)
 - [tiny-eng](https://github.com/tiny-eng)
 - [0xdx2](https://github.com/0xdx2)
 - [ukohatoro24-ctrl](https://github.com/ukohatoro24-ctrl)
 - [zareismail](https://github.com/zareismail)
+- [erfanium](https://github.com/erfanium)
 
 
 #### 🏆 GitHub Trophies
