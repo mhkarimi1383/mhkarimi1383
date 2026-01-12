@@ -109,9 +109,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
+- [ephmo](https://github.com/ephmo)
 - [tiny-eng](https://github.com/tiny-eng)
 - [0xdx2](https://github.com/0xdx2)
-- [ukohatoro24-ctrl](https://github.com/ukohatoro24-ctrl)
 
 
 #### 🏆 GitHub Trophies
