@@ -77,7 +77,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.8.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.8.0), 1 month ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel) ([chart-0.1.3](https://github.com/ParminCloud/haproxy-redis-sentinel/releases/tag/chart-0.1.3), 9 months ago) - Python pub/sub based Sentinel master change notifier that updates HAProxy using it&#39;s [Runtime API](https://www.haproxy.com/documentation/haproxy-runtime-api/)
 - [ParminCloud/Charts](https://github.com/ParminCloud/Charts) ([redis-ha-4.33.3](https://github.com/ParminCloud/Charts/releases/tag/redis-ha-4.33.3), 11 months ago) - 
-- [mhkarimi1383/reflector](https://github.com/mhkarimi1383/reflector) ([chart-0.0.2](https://github.com/mhkarimi1383/reflector/releases/tag/chart-0.0.2), 2 years ago) - A generic K8s reflector that handles every kind, with support for automatically created secrets
 
 ### 🔨 My recent Pull Requests
 
