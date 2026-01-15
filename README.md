@@ -44,7 +44,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (6 days ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) - RustFS NixOS (1 week ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 week ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 weeks ago)
@@ -87,13 +87,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:pencil2: Set process title when running csi driver](https://github.com/openebs/rawfile-localpv/pull/259) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:goal_net: Validate volume readiness before mount](https://github.com/openebs/rawfile-localpv/pull/258) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:sparkles: Storage pool support added](https://github.com/openebs/rawfile-localpv/pull/254) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:green_heart: Fix trivy sarif upload problem](https://github.com/openebs/rawfile-localpv/pull/250) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
+- [:green_heart: Fix trivy sarif upload problem](https://github.com/openebs/rawfile-localpv/pull/250) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 - [:recycle: Separating metadata dir and data dir](https://github.com/openebs/rawfile-localpv/pull/247) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 - [:test_tube: Adding trivy for container scanning](https://github.com/openebs/rawfile-localpv/pull/246) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 
 ### ⭐ Recent Stars
 
-- [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) - RustFS NixOS (6 days ago)
+- [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) - RustFS NixOS (1 week ago)
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland (1 week ago)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix (1 week ago)
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors (1 week ago)
