@@ -97,7 +97,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland (1 week ago)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix (1 week ago)
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors (1 week ago)
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (1 week ago)
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (2 weeks ago)
 - [dgrr/http2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp (2 weeks ago)
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (2 weeks ago)
 - [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes (2 weeks ago)
