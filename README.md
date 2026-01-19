@@ -102,7 +102,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (2 weeks ago)
 - [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes (2 weeks ago)
 - [cloudbase/garm](https://github.com/cloudbase/garm) - GitHub Actions Runner Manager (2 weeks ago)
-- [sehejjain/Language-Server-MCP-Bridge](https://github.com/sehejjain/Language-Server-MCP-Bridge) - A universal VS Code extension that bridges any Language Server Protocol (LSP) capabilities to MCP tools and GitHub Copilot Language Model Tools, enabling intelligent code navigation and analysis across all programming languages. (2 weeks ago)
+- [sehejjain/Language-Server-MCP-Bridge](https://github.com/sehejjain/Language-Server-MCP-Bridge) - A universal VS Code extension that bridges any Language Server Protocol (LSP) capabilities to MCP tools and GitHub Copilot Language Model Tools, enabling intelligent code navigation and analysis across all programming languages. (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
