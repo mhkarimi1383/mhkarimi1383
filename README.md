@@ -91,6 +91,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (today)
 - [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) - RustFS NixOS (2 weeks ago)
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland (2 weeks ago)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix (2 weeks ago)
@@ -100,7 +101,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (3 weeks ago)
 - [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes (3 weeks ago)
 - [cloudbase/garm](https://github.com/cloudbase/garm) - GitHub Actions Runner Manager (3 weeks ago)
-- [sehejjain/Language-Server-MCP-Bridge](https://github.com/sehejjain/Language-Server-MCP-Bridge) - A universal VS Code extension that bridges any Language Server Protocol (LSP) capabilities to MCP tools and GitHub Copilot Language Model Tools, enabling intelligent code navigation and analysis across all programming languages. (4 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
