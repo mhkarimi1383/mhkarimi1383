@@ -44,8 +44,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 days ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (2 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 days ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (3 weeks ago)
 - [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) - RustFS NixOS (3 weeks ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (3 weeks ago)
@@ -91,16 +91,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.  (today)
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (4 days ago)
+- [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.  (1 day ago)
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (5 days ago)
 - [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) - RustFS NixOS (3 weeks ago)
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland (3 weeks ago)
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix (3 weeks ago)
 - [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors (3 weeks ago)
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (3 weeks ago)
-- [dgrr/http2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp (4 weeks ago)
-- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (4 weeks ago)
-- [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes (4 weeks ago)
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (4 weeks ago)
+- [dgrr/http2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp (1 month ago)
+- [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API &#43; UI) (1 month ago)
+- [hetznercloud/csi-driver](https://github.com/hetznercloud/csi-driver) - Kubernetes Container Storage Interface driver for Hetzner Cloud Volumes (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
