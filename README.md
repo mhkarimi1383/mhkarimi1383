@@ -104,11 +104,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
+- [maarefvnd](https://github.com/maarefvnd)
 - [ParsaJR](https://github.com/ParsaJR)
 - [emilycodestar](https://github.com/emilycodestar)
 - [ephmo](https://github.com/ephmo)
 - [tiny-eng](https://github.com/tiny-eng)
-- [0xdx2](https://github.com/0xdx2)
 
 
 #### 🏆 GitHub Trophies
