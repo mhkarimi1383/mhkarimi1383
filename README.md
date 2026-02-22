@@ -44,8 +44,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux. (6 days ago)
-- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (6 days ago)
+- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux. (1 week ago)
+- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 week ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 weeks ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 weeks ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 month ago)
@@ -79,9 +79,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
-- [Correct AWS_ACCESSKEY_ID to AWS_ACCESS_KEY_ID](https://github.com/influxdata/docs-v2/pull/6824) on [influxdata/docs-v2](https://github.com/influxdata/docs-v2) (6 days ago)
-- [:construction: Adding API Server](https://github.com/openebs/rawfile-localpv/pull/281) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
-- [Add optional dependencies support in Nix Flake](https://github.com/Maxteabag/sqlit/pull/126) on [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) (2 weeks ago)
+- [Correct AWS_ACCESSKEY_ID to AWS_ACCESS_KEY_ID](https://github.com/influxdata/docs-v2/pull/6824) on [influxdata/docs-v2](https://github.com/influxdata/docs-v2) (1 week ago)
+- [:construction: Adding API Server](https://github.com/openebs/rawfile-localpv/pull/281) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
+- [Add optional dependencies support in Nix Flake](https://github.com/Maxteabag/sqlit/pull/126) on [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) (3 weeks ago)
 - [:tada: Initial Rev.](https://github.com/rustfs/rustfs-flake/pull/2) on [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) (1 month ago)
 - [:technologist: Fix nix develop problem with Git-Based dependecies on nix develop shell](https://github.com/rustfs/rustfs/pull/1243) on [rustfs/rustfs](https://github.com/rustfs/rustfs) (2 months ago)
 - [:technologist: Improve shebang compatibility](https://github.com/rustfs/rustfs/pull/1180) on [rustfs/rustfs](https://github.com/rustfs/rustfs) (2 months ago)
@@ -92,9 +92,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [valkey-io/valkey-operator](https://github.com/valkey-io/valkey-operator) - Kubernetes operator (WIP) (1 day ago)
-- [TrebleDroid/treble_experimentations](https://github.com/TrebleDroid/treble_experimentations) - Scripts to automatically build/CI/Release TrebleDroid GSI (2 days ago)
-- [cdpcrp/custom_recovery_tree_nokia_cap_sprout](https://github.com/cdpcrp/custom_recovery_tree_nokia_cap_sprout) - Custom Recovery Tree for Nokia 5.3 (CAP_sprout) | Work in Progress (2 days ago)
+- [valkey-io/valkey-operator](https://github.com/valkey-io/valkey-operator) - Kubernetes operator (WIP) (2 days ago)
+- [TrebleDroid/treble_experimentations](https://github.com/TrebleDroid/treble_experimentations) - Scripts to automatically build/CI/Release TrebleDroid GSI (3 days ago)
+- [cdpcrp/custom_recovery_tree_nokia_cap_sprout](https://github.com/cdpcrp/custom_recovery_tree_nokia_cap_sprout) - Custom Recovery Tree for Nokia 5.3 (CAP_sprout) | Work in Progress (3 days ago)
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined (2 weeks ago)
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.  (3 weeks ago)
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (3 weeks ago)
