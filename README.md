@@ -92,16 +92,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (today)
+- [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (today)
+- [david-garcia-garcia/traefik-geoblock](https://github.com/david-garcia-garcia/traefik-geoblock) - Traefik Geoblock Plugin (today)
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (today)
+- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror. (today)
 - [valkey-io/valkey-operator](https://github.com/valkey-io/valkey-operator) - Kubernetes operator (WIP) (4 days ago)
 - [TrebleDroid/treble_experimentations](https://github.com/TrebleDroid/treble_experimentations) - Scripts to automatically build/CI/Release TrebleDroid GSI (5 days ago)
 - [cdpcrp/custom_recovery_tree_nokia_cap_sprout](https://github.com/cdpcrp/custom_recovery_tree_nokia_cap_sprout) - Custom Recovery Tree for Nokia 5.3 (CAP_sprout) | Work in Progress (5 days ago)
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined (2 weeks ago)
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.  (3 weeks ago)
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU (4 weeks ago)
-- [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) - RustFS NixOS (1 month ago)
-- [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland (1 month ago)
-- [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix (1 month ago)
-- [any1/wayvnc](https://github.com/any1/wayvnc) - A VNC server for wlroots based Wayland compositors (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
