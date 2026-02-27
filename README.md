@@ -71,7 +71,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔭 Latest releases I've contributed to
 
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.8.1](https://github.com/openebs/lvm-localpv/releases/tag/v1.8.1), 3 weeks ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
-- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([link-checker-v1.5.0](https://github.com/influxdata/docs-v2/releases/tag/link-checker-v1.5.0), 3 weeks ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
+- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([link-checker-v1.5.0](https://github.com/influxdata/docs-v2/releases/tag/link-checker-v1.5.0), 4 weeks ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.12.2](https://github.com/openebs/rawfile-localpv/releases/tag/v0.12.2), 2 months ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 3 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [openebs/openebs](https://github.com/openebs/openebs) ([v4.4.0](https://github.com/openebs/openebs/releases/tag/v4.4.0), 3 months ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
@@ -92,13 +92,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
-- [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (2 days ago)
-- [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (2 days ago)
-- [david-garcia-garcia/traefik-geoblock](https://github.com/david-garcia-garcia/traefik-geoblock) - Traefik Geoblock Plugin (2 days ago)
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (2 days ago)
-- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror. (2 days ago)
-- [valkey-io/valkey-operator](https://github.com/valkey-io/valkey-operator) - Kubernetes operator (WIP) (6 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 days ago)
+- [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (3 days ago)
+- [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (3 days ago)
+- [david-garcia-garcia/traefik-geoblock](https://github.com/david-garcia-garcia/traefik-geoblock) - Traefik Geoblock Plugin (3 days ago)
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (3 days ago)
+- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror. (3 days ago)
+- [valkey-io/valkey-operator](https://github.com/valkey-io/valkey-operator) - Kubernetes operator (WIP) (1 week ago)
 - [TrebleDroid/treble_experimentations](https://github.com/TrebleDroid/treble_experimentations) - Scripts to automatically build/CI/Release TrebleDroid GSI (1 week ago)
 - [cdpcrp/custom_recovery_tree_nokia_cap_sprout](https://github.com/cdpcrp/custom_recovery_tree_nokia_cap_sprout) - Custom Recovery Tree for Nokia 5.3 (CAP_sprout) | Work in Progress (1 week ago)
 - [11happy/cpx](https://github.com/11happy/cpx) - cp reimagined (3 weeks ago)
