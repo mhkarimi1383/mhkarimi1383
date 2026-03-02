@@ -92,13 +92,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [minecraft-linux/mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest) - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher. (2 days ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (4 days ago)
-- [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (5 days ago)
-- [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (5 days ago)
-- [david-garcia-garcia/traefik-geoblock](https://github.com/david-garcia-garcia/traefik-geoblock) - Traefik Geoblock Plugin (5 days ago)
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (5 days ago)
-- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror. (5 days ago)
+- [minecraft-linux/mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest) - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher. (3 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (5 days ago)
+- [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (6 days ago)
+- [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (6 days ago)
+- [david-garcia-garcia/traefik-geoblock](https://github.com/david-garcia-garcia/traefik-geoblock) - Traefik Geoblock Plugin (6 days ago)
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (6 days ago)
+- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror. (6 days ago)
 - [valkey-io/valkey-operator](https://github.com/valkey-io/valkey-operator) - Kubernetes operator (WIP) (1 week ago)
 - [TrebleDroid/treble_experimentations](https://github.com/TrebleDroid/treble_experimentations) - Scripts to automatically build/CI/Release TrebleDroid GSI (1 week ago)
 - [cdpcrp/custom_recovery_tree_nokia_cap_sprout](https://github.com/cdpcrp/custom_recovery_tree_nokia_cap_sprout) - Custom Recovery Tree for Nokia 5.3 (CAP_sprout) | Work in Progress (1 week ago)
