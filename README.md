@@ -80,8 +80,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔨 My recent Pull Requests
 
 - [Correct AWS_ACCESSKEY_ID to AWS_ACCESS_KEY_ID](https://github.com/influxdata/docs-v2/pull/6824) on [influxdata/docs-v2](https://github.com/influxdata/docs-v2) (2 weeks ago)
-- [:construction: Adding API Server](https://github.com/openebs/rawfile-localpv/pull/281) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 weeks ago)
-- [Add optional dependencies support in Nix Flake](https://github.com/Maxteabag/sqlit/pull/126) on [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) (4 weeks ago)
+- [:construction: Adding API Server](https://github.com/openebs/rawfile-localpv/pull/281) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
+- [Add optional dependencies support in Nix Flake](https://github.com/Maxteabag/sqlit/pull/126) on [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) (1 month ago)
 - [:tada: Initial Rev.](https://github.com/rustfs/rustfs-flake/pull/2) on [rustfs/rustfs-flake](https://github.com/rustfs/rustfs-flake) (1 month ago)
 - [:technologist: Fix nix develop problem with Git-Based dependecies on nix develop shell](https://github.com/rustfs/rustfs/pull/1243) on [rustfs/rustfs](https://github.com/rustfs/rustfs) (2 months ago)
 - [:technologist: Improve shebang compatibility](https://github.com/rustfs/rustfs/pull/1180) on [rustfs/rustfs](https://github.com/rustfs/rustfs) (2 months ago)
@@ -92,13 +92,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [minecraft-linux/mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest) - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher. (3 days ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (5 days ago)
-- [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (6 days ago)
-- [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (6 days ago)
-- [david-garcia-garcia/traefik-geoblock](https://github.com/david-garcia-garcia/traefik-geoblock) - Traefik Geoblock Plugin (6 days ago)
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (6 days ago)
-- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror. (6 days ago)
+- [minecraft-linux/mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest) - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher. (4 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (6 days ago)
+- [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (1 week ago)
+- [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (1 week ago)
+- [david-garcia-garcia/traefik-geoblock](https://github.com/david-garcia-garcia/traefik-geoblock) - Traefik Geoblock Plugin (1 week ago)
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (1 week ago)
+- [herrbischoff/country-ip-blocks](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly. This is a read-only mirror. (1 week ago)
 - [valkey-io/valkey-operator](https://github.com/valkey-io/valkey-operator) - Kubernetes operator (WIP) (1 week ago)
 - [TrebleDroid/treble_experimentations](https://github.com/TrebleDroid/treble_experimentations) - Scripts to automatically build/CI/Release TrebleDroid GSI (1 week ago)
 - [cdpcrp/custom_recovery_tree_nokia_cap_sprout](https://github.com/cdpcrp/custom_recovery_tree_nokia_cap_sprout) - Custom Recovery Tree for Nokia 5.3 (CAP_sprout) | Work in Progress (1 week ago)
