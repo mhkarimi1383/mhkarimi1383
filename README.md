@@ -91,8 +91,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go (1 day ago)
-- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts. (6 days ago)
+- [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go (2 days ago)
+- [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts. (1 week ago)
 - [grindsa/acme2certifier](https://github.com/grindsa/acme2certifier) - ACME Proxy enhancing your existing Certificate Authority Infrastructure (1 week ago)
 - [Fausto-Korpsvart/Catppuccin-GTK-Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme) - GTK Theme with Catppuccin colour scheme (1 month ago)
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library (1 month ago)
