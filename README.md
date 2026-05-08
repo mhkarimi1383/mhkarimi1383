@@ -91,6 +91,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [i2y/pydantic-rpc](https://github.com/i2y/pydantic-rpc) - PydanticRPC is a Python library for rapidly exposing Pydantic models as gRPC, ConnectRPC, and MCP services without protobuf files. (today)
 - [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go (1 week ago)
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts. (2 weeks ago)
 - [grindsa/acme2certifier](https://github.com/grindsa/acme2certifier) - ACME Proxy enhancing your existing Certificate Authority Infrastructure (2 weeks ago)
@@ -100,7 +101,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 months ago)
 - [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (2 months ago)
 - [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (2 months ago)
-- [david-garcia-garcia/traefik-geoblock](https://github.com/david-garcia-garcia/traefik-geoblock) - Traefik Geoblock Plugin (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
