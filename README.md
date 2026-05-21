@@ -91,6 +91,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation (today)
 - [i2y/pydantic-rpc](https://github.com/i2y/pydantic-rpc) - PydanticRPC is a Python library for rapidly exposing Pydantic models as gRPC, ConnectRPC, and MCP services without protobuf files. (1 week ago)
 - [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go (3 weeks ago)
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts. (1 month ago)
@@ -100,7 +101,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [minecraft-linux/mcpelauncher-manifest](https://github.com/minecraft-linux/mcpelauncher-manifest) - The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher. (2 months ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 months ago)
 - [moonlight8978/traefik-cloudflare-geoblock](https://github.com/moonlight8978/traefik-cloudflare-geoblock) - Simple geoblock with CF-IPCountry header (2 months ago)
-- [dkhalife/traefik-country-block](https://github.com/dkhalife/traefik-country-block) - A privacy-first Traefik middleware plugin that filters requests by country or IP using a local geolocation database. No external API calls: all lookups are fast, offline, and in-memory. (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
