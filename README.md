@@ -91,8 +91,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (today)
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (5 days ago)
+- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (1 day ago)
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (6 days ago)
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation (1 week ago)
 - [i2y/pydantic-rpc](https://github.com/i2y/pydantic-rpc) - PydanticRPC is a Python library for rapidly exposing Pydantic models as gRPC, ConnectRPC, and MCP services without protobuf files. (3 weeks ago)
 - [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go (1 month ago)
