@@ -70,7 +70,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.9.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.9.0), 1 week ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv) ([v1.9.0](https://github.com/openebs/lvm-localpv/releases/tag/v1.9.0), 2 weeks ago) - Dynamically provision Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is integrated with a backend LVM2 data storage stack.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.14.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.14.0), 2 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([link-checker-v1.5.0](https://github.com/influxdata/docs-v2/releases/tag/link-checker-v1.5.0), 4 months ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 6 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
@@ -91,9 +91,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (4 days ago)
+- [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (5 days ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
-- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation (1 week ago)
+- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation (2 weeks ago)
 - [i2y/pydantic-rpc](https://github.com/i2y/pydantic-rpc) - PydanticRPC is a Python library for rapidly exposing Pydantic models as gRPC, ConnectRPC, and MCP services without protobuf files. (3 weeks ago)
 - [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go (1 month ago)
 - [ris58h/custom-keyboard-layout](https://github.com/ris58h/custom-keyboard-layout) - Skeleton project for Android app that provides custom keyboard layouts. (1 month ago)
