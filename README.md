@@ -77,7 +77,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
-- [:recycle: Use CoW on snapshot restore when possible](https://github.com/openebs/rawfile-localpv/pull/353) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (6 days ago)
+- [:recycle: Use CoW on snapshot restore when possible](https://github.com/openebs/rawfile-localpv/pull/353) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Correct AWS_ACCESSKEY_ID to AWS_ACCESS_KEY_ID](https://github.com/influxdata/docs-v2/pull/6824) on [influxdata/docs-v2](https://github.com/influxdata/docs-v2) (4 months ago)
 - [:sparkles: API Server Added](https://github.com/openebs/rawfile-localpv/pull/281) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 months ago)
 - [Add optional dependencies support in Nix Flake](https://github.com/Maxteabag/sqlit/pull/126) on [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) (4 months ago)
@@ -90,14 +90,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (1 day ago)
-- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (2 days ago)
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (2 days ago)
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (3 days ago)
 - [deliciousbrains/wp-amazon-s3-and-cloudfront](https://github.com/deliciousbrains/wp-amazon-s3-and-cloudfront) - Automatically copies media uploads to Amazon S3 for delivery. Optionally configure Amazon CloudFront for even faster delivery. (1 week ago)
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (1 week ago)
 - [in-a-dil-emma/declarative-flatpak](https://github.com/in-a-dil-emma/declarative-flatpak) - Declaratively manage Flatpak installations in NixOS and your $HOME (1 week ago)
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (2 weeks ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (3 weeks ago)
-- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation (3 weeks ago)
+- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation (4 weeks ago)
 - [i2y/pydantic-rpc](https://github.com/i2y/pydantic-rpc) - PydanticRPC is a Python library for rapidly exposing Pydantic models as gRPC, ConnectRPC, and MCP services without protobuf files. (1 month ago)
 - [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go (1 month ago)
 
