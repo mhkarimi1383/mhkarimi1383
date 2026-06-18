@@ -70,8 +70,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
+- [openebs/openebs](https://github.com/openebs/openebs) ([v4.5.1](https://github.com/openebs/openebs/releases/tag/v4.5.1), today) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.14.1](https://github.com/openebs/rawfile-localpv/releases/tag/v0.14.1), 1 week ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
-- [openebs/openebs](https://github.com/openebs/openebs) ([v4.5.0](https://github.com/openebs/openebs/releases/tag/v4.5.0), 1 week ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([link-checker-v1.5.0](https://github.com/influxdata/docs-v2/releases/tag/link-checker-v1.5.0), 4 months ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 6 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 
@@ -90,6 +90,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (today)
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (2 days ago)
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (3 days ago)
 - [deliciousbrains/wp-amazon-s3-and-cloudfront](https://github.com/deliciousbrains/wp-amazon-s3-and-cloudfront) - Automatically copies media uploads to Amazon S3 for delivery. Optionally configure Amazon CloudFront for even faster delivery. (1 week ago)
@@ -99,7 +100,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (3 weeks ago)
 - [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation (4 weeks ago)
 - [i2y/pydantic-rpc](https://github.com/i2y/pydantic-rpc) - PydanticRPC is a Python library for rapidly exposing Pydantic models as gRPC, ConnectRPC, and MCP services without protobuf files. (1 month ago)
-- [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
