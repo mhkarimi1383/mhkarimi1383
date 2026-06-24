@@ -25,7 +25,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### Maintainer of
 
-* [OpenEBS/rawfile-localpv](https://github.com/openebs/rawfile-localpv/)
 * [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel)
 * [ParminCloud/Containers](https://github.com/ParminCloud/Containers)
 * [ParminCloud/Charts](https://github.com/ParminCloud/Charts)
