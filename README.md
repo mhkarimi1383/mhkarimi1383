@@ -90,6 +90,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua (today)
 - [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim. (1 day ago)
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (6 days ago)
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (1 week ago)
@@ -99,7 +100,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [in-a-dil-emma/declarative-flatpak](https://github.com/in-a-dil-emma/declarative-flatpak) - Declaratively manage Flatpak installations in NixOS and your $HOME (2 weeks ago)
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better. (3 weeks ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
-- [jelmer/dulwich](https://github.com/jelmer/dulwich) - Pure-Python Git implementation (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
