@@ -102,11 +102,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
+- [anand-devops-01](https://github.com/anand-devops-01)
 - [chrisipanaque](https://github.com/chrisipanaque)
 - [Aliamrol](https://github.com/Aliamrol)
 - [Moallem-MAM](https://github.com/Moallem-MAM)
 - [dioptx](https://github.com/dioptx)
-- [vincentjiang777](https://github.com/vincentjiang777)
 
 
 #### 🏆 GitHub Trophies
