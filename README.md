@@ -43,12 +43,12 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (4 days ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (4 days ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (5 days ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (5 days ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (5 days ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (5 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (5 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (5 days ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (6 days ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (6 days ago)
+- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (6 days ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (6 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 month ago)
 - [ParminCloud/storage-browser](https://github.com/ParminCloud/storage-browser) - ParminCloud S3 Object Storage Browser (3 months ago)
@@ -71,7 +71,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 - [openebs/openebs](https://github.com/openebs/openebs) ([v4.5.1](https://github.com/openebs/openebs/releases/tag/v4.5.1), 1 week ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.14.1](https://github.com/openebs/rawfile-localpv/releases/tag/v0.14.1), 2 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
-- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([link-checker-v1.5.0](https://github.com/influxdata/docs-v2/releases/tag/link-checker-v1.5.0), 4 months ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
+- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([link-checker-v1.5.0](https://github.com/influxdata/docs-v2/releases/tag/link-checker-v1.5.0), 5 months ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 7 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 
 ### 🔨 My recent Pull Requests
@@ -89,15 +89,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. (1 day ago)
-- [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis (4 days ago)
-- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua (4 days ago)
-- [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim. (5 days ago)
+- [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. (2 days ago)
+- [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis (5 days ago)
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua (5 days ago)
+- [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim. (6 days ago)
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (1 week ago)
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (1 week ago)
-- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (1 week ago)
-- [deliciousbrains/wp-amazon-s3-and-cloudfront](https://github.com/deliciousbrains/wp-amazon-s3-and-cloudfront) - Automatically copies media uploads to Amazon S3 for delivery. Optionally configure Amazon CloudFront for even faster delivery. (2 weeks ago)
-- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (2 weeks ago)
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (2 weeks ago)
+- [deliciousbrains/wp-amazon-s3-and-cloudfront](https://github.com/deliciousbrains/wp-amazon-s3-and-cloudfront) - Automatically copies media uploads to Amazon S3 for delivery. Optionally configure Amazon CloudFront for even faster delivery. (3 weeks ago)
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js (3 weeks ago)
 - [in-a-dil-emma/declarative-flatpak](https://github.com/in-a-dil-emma/declarative-flatpak) - Declaratively manage Flatpak installations in NixOS and your $HOME (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
