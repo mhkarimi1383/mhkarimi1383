@@ -43,8 +43,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 week ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 weeks ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (2 weeks ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (2 weeks ago)
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (2 weeks ago)
 - [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (2 weeks ago)
@@ -70,7 +70,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 🔭 Latest releases I've contributed to
 
 - [openebs/openebs](https://github.com/openebs/openebs) ([v4.5.1](https://github.com/openebs/openebs/releases/tag/v4.5.1), 2 weeks ago) - A popular &amp; widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.14.1](https://github.com/openebs/rawfile-localpv/releases/tag/v0.14.1), 3 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.14.1](https://github.com/openebs/rawfile-localpv/releases/tag/v0.14.1), 4 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([link-checker-v1.5.0](https://github.com/influxdata/docs-v2/releases/tag/link-checker-v1.5.0), 5 months ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 7 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 
@@ -89,16 +89,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants. (5 days ago)
-- [diffbot/mcp-code-graph](https://github.com/diffbot/mcp-code-graph) - MCP Server for code graph analysis and visualization by CodeGPT (5 days ago)
+- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants. (6 days ago)
+- [diffbot/mcp-code-graph](https://github.com/diffbot/mcp-code-graph) - MCP Server for code graph analysis and visualization by CodeGPT (6 days ago)
 - [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. (1 week ago)
-- [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis (1 week ago)
-- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua (1 week ago)
+- [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis (2 weeks ago)
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua (2 weeks ago)
 - [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim. (2 weeks ago)
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (2 weeks ago)
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve (3 weeks ago)
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community (3 weeks ago)
-- [deliciousbrains/wp-amazon-s3-and-cloudfront](https://github.com/deliciousbrains/wp-amazon-s3-and-cloudfront) - Automatically copies media uploads to Amazon S3 for delivery. Optionally configure Amazon CloudFront for even faster delivery. (4 weeks ago)
+- [deliciousbrains/wp-amazon-s3-and-cloudfront](https://github.com/deliciousbrains/wp-amazon-s3-and-cloudfront) - Automatically copies media uploads to Amazon S3 for delivery. Optionally configure Amazon CloudFront for even faster delivery. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
