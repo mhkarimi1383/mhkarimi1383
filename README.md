@@ -76,6 +76,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:sparkles: Add OpenAPI JSON Export CLI and and Release](https://github.com/openebs/rawfile-localpv/pull/364) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:recycle: Use CoW on snapshot restore when possible](https://github.com/openebs/rawfile-localpv/pull/353) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [Correct AWS_ACCESSKEY_ID to AWS_ACCESS_KEY_ID](https://github.com/influxdata/docs-v2/pull/6824) on [influxdata/docs-v2](https://github.com/influxdata/docs-v2) (4 months ago)
 - [:sparkles: API Server Added](https://github.com/openebs/rawfile-localpv/pull/281) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 months ago)
@@ -85,7 +86,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:technologist: Improve shebang compatibility](https://github.com/rustfs/rustfs/pull/1180) on [rustfs/rustfs](https://github.com/rustfs/rustfs) (6 months ago)
 - [:sparkles: Internal Server IPv6 Support](https://github.com/openebs/rawfile-localpv/pull/266) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (7 months ago)
 - [:pencil2: Set process title when running csi driver](https://github.com/openebs/rawfile-localpv/pull/259) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (7 months ago)
-- [:goal_net: Validate volume readiness before mount](https://github.com/openebs/rawfile-localpv/pull/258) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (7 months ago)
 
 ### ⭐ Recent Stars
 
