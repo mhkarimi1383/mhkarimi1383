@@ -76,7 +76,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
-- [:arrow_up: Upgrade kubernetes version in CI](https://github.com/openebs/rawfile-localpv/pull/367) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
+- [:arrow_up: Upgrade kubernetes version and Nixpkgs](https://github.com/openebs/rawfile-localpv/pull/367) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:sparkles: Add OpenAPI JSON Export CLI and and Release](https://github.com/openebs/rawfile-localpv/pull/364) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 days ago)
 - [:recycle: Use CoW on snapshot restore when possible](https://github.com/openebs/rawfile-localpv/pull/353) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [Correct AWS_ACCESSKEY_ID to AWS_ACCESS_KEY_ID](https://github.com/influxdata/docs-v2/pull/6824) on [influxdata/docs-v2](https://github.com/influxdata/docs-v2) (4 months ago)
