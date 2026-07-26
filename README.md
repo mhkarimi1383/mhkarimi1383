@@ -88,10 +88,10 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [the-alien-club/ai-sre](https://github.com/the-alien-club/ai-sre) - AI-powered SRE agent built on Claude Code channels. Receives SigNoz alerts via webhook, investigates autonomously using kubectl and traces, auto-fixes safe issues (pod restarts, workflow clears), and escalates to the CTO on Slack with full context. Sub-agent delegation pattern keeps the main session alive for days. Incident memory via SQLite. (today)
-- [pgEdge/ai-dba-workbench](https://github.com/pgEdge/ai-dba-workbench) - A PostgreSQL monitoring system built combining traditional and AI monitoring from the ground up. (4 days ago)
-- [dmachard/CoreDNS-GSLB](https://github.com/dmachard/CoreDNS-GSLB) - GSLB support in CoreDNS, targeting non-Kubernetes infrastructures such as virtual machines, bare-metal servers, and hybrid cloud setups. (1 week ago)
-- [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally. (1 week ago)
+- [the-alien-club/ai-sre](https://github.com/the-alien-club/ai-sre) - AI-powered SRE agent built on Claude Code channels. Receives SigNoz alerts via webhook, investigates autonomously using kubectl and traces, auto-fixes safe issues (pod restarts, workflow clears), and escalates to the CTO on Slack with full context. Sub-agent delegation pattern keeps the main session alive for days. Incident memory via SQLite. (1 day ago)
+- [pgEdge/ai-dba-workbench](https://github.com/pgEdge/ai-dba-workbench) - A PostgreSQL monitoring system built combining traditional and AI monitoring from the ground up. (5 days ago)
+- [dmachard/CoreDNS-GSLB](https://github.com/dmachard/CoreDNS-GSLB) - GSLB support in CoreDNS, targeting non-Kubernetes infrastructures such as virtual machines, bare-metal servers, and hybrid cloud setups. (2 weeks ago)
+- [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally. (2 weeks ago)
 - [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants. (3 weeks ago)
 - [diffbot/mcp-code-graph](https://github.com/diffbot/mcp-code-graph) - MCP Server for code graph analysis and visualization by CodeGPT (3 weeks ago)
 - [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. (4 weeks ago)
