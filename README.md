@@ -75,6 +75,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:rotating_light: Exclude blind-except (BLE001)](https://github.com/openebs/rawfile-localpv/pull/383) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [Update Resume](https://github.com/mhkarimi1383/mhkarimi1383.github.io/pull/1) on [mhkarimi1383/mhkarimi1383.github.io](https://github.com/mhkarimi1383/mhkarimi1383.github.io) (1 day ago)
 - [:bug: Use findmnt with more stable output instead of using mount](https://github.com/openebs/rawfile-localpv/pull/375) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:arrow_up: Upgrade Infrastructure stuff](https://github.com/openebs/rawfile-localpv/pull/374) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
@@ -84,7 +85,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:sparkles: Add OpenAPI JSON Export CLI and and Release](https://github.com/openebs/rawfile-localpv/pull/364) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:recycle: Use CoW on snapshot restore when possible](https://github.com/openebs/rawfile-localpv/pull/353) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [Correct AWS_ACCESSKEY_ID to AWS_ACCESS_KEY_ID](https://github.com/influxdata/docs-v2/pull/6824) on [influxdata/docs-v2](https://github.com/influxdata/docs-v2) (5 months ago)
-- [:sparkles: API Server Added](https://github.com/openebs/rawfile-localpv/pull/281) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (5 months ago)
 
 ### ⭐ Recent Stars
 
