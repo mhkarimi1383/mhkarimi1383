@@ -88,6 +88,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [pfnet/hierarchical-namespaces](https://github.com/pfnet/hierarchical-namespaces) - Home of the Hierarchical Namespace Controller (HNC). Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. (today)
 - [the-alien-club/ai-sre](https://github.com/the-alien-club/ai-sre) - AI-powered SRE agent built on Claude Code channels. Receives SigNoz alerts via webhook, investigates autonomously using kubectl and traces, auto-fixes safe issues (pod restarts, workflow clears), and escalates to the CTO on Slack with full context. Sub-agent delegation pattern keeps the main session alive for days. Incident memory via SQLite. (4 days ago)
 - [pgEdge/ai-dba-workbench](https://github.com/pgEdge/ai-dba-workbench) - A PostgreSQL monitoring system built combining traditional and AI monitoring from the ground up. (1 week ago)
 - [dmachard/CoreDNS-GSLB](https://github.com/dmachard/CoreDNS-GSLB) - GSLB support in CoreDNS, targeting non-Kubernetes infrastructures such as virtual machines, bare-metal servers, and hybrid cloud setups. (2 weeks ago)
@@ -97,7 +98,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. (1 month ago)
 - [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis (1 month ago)
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua (1 month ago)
-- [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) - A lightweight Tree-sitter parser manager for Neovim. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
