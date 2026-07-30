@@ -88,6 +88,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [cybozu-go/accurate](https://github.com/cybozu-go/accurate) - Kubernetes controller for multi-tenancy.  It propagates resources between namespaces accurately and allows tenant users to create/delete sub-namespaces. (today)
 - [pfnet/hierarchical-namespaces](https://github.com/pfnet/hierarchical-namespaces) - Home of the Hierarchical Namespace Controller (HNC). Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. (1 day ago)
 - [the-alien-club/ai-sre](https://github.com/the-alien-club/ai-sre) - AI-powered SRE agent built on Claude Code channels. Receives SigNoz alerts via webhook, investigates autonomously using kubectl and traces, auto-fixes safe issues (pod restarts, workflow clears), and escalates to the CTO on Slack with full context. Sub-agent delegation pattern keeps the main session alive for days. Incident memory via SQLite. (5 days ago)
 - [pgEdge/ai-dba-workbench](https://github.com/pgEdge/ai-dba-workbench) - A PostgreSQL monitoring system built combining traditional and AI monitoring from the ground up. (1 week ago)
@@ -97,7 +98,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [diffbot/mcp-code-graph](https://github.com/diffbot/mcp-code-graph) - MCP Server for code graph analysis and visualization by CodeGPT (4 weeks ago)
 - [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. (1 month ago)
 - [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis (1 month ago)
-- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
