@@ -104,8 +104,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Khodesaeed](https://github.com/Khodesaeed)
 - [daniellouislord136-source](https://github.com/daniellouislord136-source)
 - [OliverMuller100](https://github.com/OliverMuller100)
-- [Batool110313](https://github.com/Batool110313)
 - [IrshadChanna](https://github.com/IrshadChanna)
+- [ilmtechfoundation](https://github.com/ilmtechfoundation)
 
 
 #### 🏆 GitHub Trophies
