@@ -75,6 +75,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:memo: Initial DesignDoc for Resource Quota](https://github.com/cybozu-go/accurate/pull/238) on [cybozu-go/accurate](https://github.com/cybozu-go/accurate) (today)
 - [:rotating_light: Fix some linting errors](https://github.com/openebs/rawfile-localpv/pull/384) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
 - [:rotating_light: Exclude blind-except (BLE001)](https://github.com/openebs/rawfile-localpv/pull/383) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 days ago)
 - [Update Resume](https://github.com/mhkarimi1383/mhkarimi1383.github.io/pull/1) on [mhkarimi1383/mhkarimi1383.github.io](https://github.com/mhkarimi1383/mhkarimi1383.github.io) (3 days ago)
@@ -84,7 +85,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:green_heart: Remove multi-ecosystem group from dependabot](https://github.com/openebs/rawfile-localpv/pull/371) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:arrow_up: Upgrade kubernetes version and Nixpkgs](https://github.com/openebs/rawfile-localpv/pull/367) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:sparkles: Add OpenAPI JSON Export CLI and and Release](https://github.com/openebs/rawfile-localpv/pull/364) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
-- [:recycle: Use CoW on snapshot restore when possible](https://github.com/openebs/rawfile-localpv/pull/353) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
