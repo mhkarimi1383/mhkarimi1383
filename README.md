@@ -88,6 +88,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [frozenstate/FluentEmojiMagisk](https://github.com/frozenstate/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft. (today)
+- [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) - Distributed Linux user management using etcd (today)
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix. (1 day ago)
 - [cybozu-go/cke](https://github.com/cybozu-go/cke) - Cybozu Kubernetes Engine (2 days ago)
 - [cybozu-go/accurate](https://github.com/cybozu-go/accurate) - Kubernetes controller for multi-tenancy.  It propagates resources between namespaces accurately and allows tenant users to create/delete sub-namespaces. (4 days ago)
@@ -96,8 +98,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [pgEdge/ai-dba-workbench](https://github.com/pgEdge/ai-dba-workbench) - A PostgreSQL monitoring system built combining traditional and AI monitoring from the ground up. (1 week ago)
 - [dmachard/CoreDNS-GSLB](https://github.com/dmachard/CoreDNS-GSLB) - GSLB support in CoreDNS, targeting non-Kubernetes infrastructures such as virtual machines, bare-metal servers, and hybrid cloud setups. (3 weeks ago)
 - [joyrex2001/kubedock](https://github.com/joyrex2001/kubedock) - Kubedock is a minimal implementation of the docker api that will orchestrate containers on a Kubernetes cluster, rather than running containers locally. (3 weeks ago)
-- [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) - An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants. (1 month ago)
-- [diffbot/mcp-code-graph](https://github.com/diffbot/mcp-code-graph) - MCP Server for code graph analysis and visualization by CodeGPT (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
