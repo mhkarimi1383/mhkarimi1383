@@ -47,7 +47,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [mhkarimi1383/mhkarimi1383.github.io](https://github.com/mhkarimi1383/mhkarimi1383.github.io) - My Personal Blog Powered By Hugo (1 week ago)
 - [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) - ParminCloud service documentation (3 weeks ago)
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (3 weeks ago)
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (4 weeks ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (1 month ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 month ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 month ago)
@@ -69,14 +69,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 2 days ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
+- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 3 days ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.14.1](https://github.com/openebs/rawfile-localpv/releases/tag/v0.14.1), 1 month ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 8 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 
 ### 🔨 My recent Pull Requests
 
-- [:coffin: Removed deprecated configurations/features](https://github.com/openebs/rawfile-localpv/pull/387) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
-- [:memo: Initial DesignDoc for Resource Quota](https://github.com/cybozu-go/accurate/pull/238) on [cybozu-go/accurate](https://github.com/cybozu-go/accurate) (6 days ago)
+- [:coffin: Removed deprecated configurations/features](https://github.com/openebs/rawfile-localpv/pull/387) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 days ago)
+- [:memo: Initial DesignDoc for Resource Quota](https://github.com/cybozu-go/accurate/pull/238) on [cybozu-go/accurate](https://github.com/cybozu-go/accurate) (1 week ago)
 - [:rotating_light: Fix some linting errors](https://github.com/openebs/rawfile-localpv/pull/384) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:rotating_light: Exclude blind-except (BLE001)](https://github.com/openebs/rawfile-localpv/pull/383) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Update Resume](https://github.com/mhkarimi1383/mhkarimi1383.github.io/pull/1) on [mhkarimi1383/mhkarimi1383.github.io](https://github.com/mhkarimi1383/mhkarimi1383.github.io) (1 week ago)
@@ -88,11 +88,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [frozenstate/FluentEmojiMagisk](https://github.com/frozenstate/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft. (2 days ago)
-- [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) - Distributed Linux user management using etcd (2 days ago)
-- [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix. (3 days ago)
-- [cybozu-go/cke](https://github.com/cybozu-go/cke) - Cybozu Kubernetes Engine (4 days ago)
-- [cybozu-go/accurate](https://github.com/cybozu-go/accurate) - Kubernetes controller for multi-tenancy.  It propagates resources between namespaces accurately and allows tenant users to create/delete sub-namespaces. (6 days ago)
+- [frozenstate/FluentEmojiMagisk](https://github.com/frozenstate/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft. (3 days ago)
+- [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) - Distributed Linux user management using etcd (3 days ago)
+- [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix. (4 days ago)
+- [cybozu-go/cke](https://github.com/cybozu-go/cke) - Cybozu Kubernetes Engine (5 days ago)
+- [cybozu-go/accurate](https://github.com/cybozu-go/accurate) - Kubernetes controller for multi-tenancy.  It propagates resources between namespaces accurately and allows tenant users to create/delete sub-namespaces. (1 week ago)
 - [pfnet/hierarchical-namespaces](https://github.com/pfnet/hierarchical-namespaces) - Home of the Hierarchical Namespace Controller (HNC). Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. (1 week ago)
 - [the-alien-club/ai-sre](https://github.com/the-alien-club/ai-sre) - AI-powered SRE agent built on Claude Code channels. Receives SigNoz alerts via webhook, investigates autonomously using kubectl and traces, auto-fixes safe issues (pod restarts, workflow clears), and escalates to the CTO on Slack with full context. Sub-agent delegation pattern keeps the main session alive for days. Incident memory via SQLite. (1 week ago)
 - [pgEdge/ai-dba-workbench](https://github.com/pgEdge/ai-dba-workbench) - A PostgreSQL monitoring system built combining traditional and AI monitoring from the ground up. (2 weeks ago)
