@@ -88,6 +88,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [TamaraNocentini/cnpg-headlamp-plugin](https://github.com/TamaraNocentini/cnpg-headlamp-plugin) - Headlamp plugin for CNPG (today)
 - [aradar46/reuse-before-generate](https://github.com/aradar46/reuse-before-generate) - Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold. (today)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 day ago)
 - [frozenstate/FluentEmojiMagisk](https://github.com/frozenstate/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft. (4 days ago)
@@ -97,7 +98,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [cybozu-go/accurate](https://github.com/cybozu-go/accurate) - Kubernetes controller for multi-tenancy.  It propagates resources between namespaces accurately and allows tenant users to create/delete sub-namespaces. (1 week ago)
 - [pfnet/hierarchical-namespaces](https://github.com/pfnet/hierarchical-namespaces) - Home of the Hierarchical Namespace Controller (HNC). Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. (1 week ago)
 - [the-alien-club/ai-sre](https://github.com/the-alien-club/ai-sre) - AI-powered SRE agent built on Claude Code channels. Receives SigNoz alerts via webhook, investigates autonomously using kubectl and traces, auto-fixes safe issues (pod restarts, workflow clears), and escalates to the CTO on Slack with full context. Sub-agent delegation pattern keeps the main session alive for days. Incident memory via SQLite. (1 week ago)
-- [pgEdge/ai-dba-workbench](https://github.com/pgEdge/ai-dba-workbench) - A PostgreSQL monitoring system built combining traditional and AI monitoring from the ground up. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
