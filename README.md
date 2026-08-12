@@ -43,7 +43,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 weeks ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (2 weeks ago)
 - [mhkarimi1383/mhkarimi1383.github.io](https://github.com/mhkarimi1383/mhkarimi1383.github.io) - My Personal Blog Powered By Hugo (2 weeks ago)
 - [ParminCloud/docs.parmin.cloud](https://github.com/ParminCloud/docs.parmin.cloud) - ParminCloud service documentation (1 month ago)
@@ -84,20 +84,20 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:arrow_up: Upgrade Infrastructure stuff](https://github.com/openebs/rawfile-localpv/pull/374) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:bug: Some API Server Fixes](https://github.com/openebs/rawfile-localpv/pull/373) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
 - [:green_heart: Remove multi-ecosystem group from dependabot](https://github.com/openebs/rawfile-localpv/pull/371) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
-- [:arrow_up: Upgrade kubernetes version and Nixpkgs](https://github.com/openebs/rawfile-localpv/pull/367) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 weeks ago)
+- [:arrow_up: Upgrade kubernetes version and Nixpkgs](https://github.com/openebs/rawfile-localpv/pull/367) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 day ago)
-- [TamaraNocentini/cnpg-headlamp-plugin](https://github.com/TamaraNocentini/cnpg-headlamp-plugin) - Headlamp plugin for CNPG (4 days ago)
-- [aradar46/reuse-before-generate](https://github.com/aradar46/reuse-before-generate) - Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold. (4 days ago)
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (5 days ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (2 days ago)
+- [TamaraNocentini/cnpg-headlamp-plugin](https://github.com/TamaraNocentini/cnpg-headlamp-plugin) - Headlamp plugin for CNPG (5 days ago)
+- [aradar46/reuse-before-generate](https://github.com/aradar46/reuse-before-generate) - Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold. (5 days ago)
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (6 days ago)
 - [frozenstate/FluentEmojiMagisk](https://github.com/frozenstate/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft. (1 week ago)
 - [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) - Distributed Linux user management using etcd (1 week ago)
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix. (1 week ago)
 - [cybozu-go/cke](https://github.com/cybozu-go/cke) - Cybozu Kubernetes Engine (1 week ago)
 - [cybozu-go/accurate](https://github.com/cybozu-go/accurate) - Kubernetes controller for multi-tenancy.  It propagates resources between namespaces accurately and allows tenant users to create/delete sub-namespaces. (1 week ago)
-- [pfnet/hierarchical-namespaces](https://github.com/pfnet/hierarchical-namespaces) - Home of the Hierarchical Namespace Controller (HNC). Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. (1 week ago)
+- [pfnet/hierarchical-namespaces](https://github.com/pfnet/hierarchical-namespaces) - Home of the Hierarchical Namespace Controller (HNC). Adds hierarchical policies and delegated creation to Kubernetes namespaces for improved in-cluster multitenancy. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
