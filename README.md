@@ -88,6 +88,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily. (today)
 - [deployah-dev/deployah](https://github.com/deployah-dev/deployah) - Spec-to-Release for Kubernetes: turn a short app spec into a real Helm release. Zero Helm knowledge, zero cluster-side setup, one binary. (today)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (2 days ago)
 - [TamaraNocentini/cnpg-headlamp-plugin](https://github.com/TamaraNocentini/cnpg-headlamp-plugin) - Headlamp plugin for CNPG (5 days ago)
@@ -97,7 +98,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) - Distributed Linux user management using etcd (1 week ago)
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix. (1 week ago)
 - [cybozu-go/cke](https://github.com/cybozu-go/cke) - Cybozu Kubernetes Engine (1 week ago)
-- [cybozu-go/accurate](https://github.com/cybozu-go/accurate) - Kubernetes controller for multi-tenancy.  It propagates resources between namespaces accurately and allows tenant users to create/delete sub-namespaces. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
