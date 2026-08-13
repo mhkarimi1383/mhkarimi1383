@@ -89,6 +89,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (today)
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily. (1 day ago)
 - [deployah-dev/deployah](https://github.com/deployah-dev/deployah) - Spec-to-Release for Kubernetes: turn a short app spec into a real Helm release. Zero Helm knowledge, zero cluster-side setup, one binary. (1 day ago)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (3 days ago)
@@ -98,7 +99,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [frozenstate/FluentEmojiMagisk](https://github.com/frozenstate/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft. (1 week ago)
 - [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) - Distributed Linux user management using etcd (1 week ago)
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix. (1 week ago)
-- [cybozu-go/cke](https://github.com/cybozu-go/cke) - Cybozu Kubernetes Engine (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
