@@ -48,8 +48,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (today)
 - [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (today)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (today)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (today)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (today)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (today)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (2 weeks ago)
 - [mhkarimi1383/mhkarimi1383.github.io](https://github.com/mhkarimi1383/mhkarimi1383.github.io) - My Personal Blog Powered By Hugo (2 weeks ago)
@@ -89,6 +89,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [drluckyspin/rose-pine-bat](https://github.com/drluckyspin/rose-pine-bat) - Soho vibes for Bat (today)
 - [maxstollmayer/rose-pine.omp](https://github.com/maxstollmayer/rose-pine.omp) - Soho vibes for Oh My Posh (today)
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (2 days ago)
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily. (3 days ago)
@@ -98,7 +99,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [aradar46/reuse-before-generate](https://github.com/aradar46/reuse-before-generate) - Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold. (1 week ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 week ago)
 - [frozenstate/FluentEmojiMagisk](https://github.com/frozenstate/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft. (1 week ago)
-- [cybozu-go/etcdpasswd](https://github.com/cybozu-go/etcdpasswd) - Distributed Linux user management using etcd (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
