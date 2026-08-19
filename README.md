@@ -76,6 +76,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:sparkles: Add support for setting compute resources on API Server](https://github.com/openebs/rawfile-localpv/pull/399) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:coffin: Removed deprecated configurations/features](https://github.com/openebs/rawfile-localpv/pull/387) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
 - [:memo: Initial DesignDoc for Resource Quota](https://github.com/cybozu-go/accurate/pull/238) on [cybozu-go/accurate](https://github.com/cybozu-go/accurate) (2 weeks ago)
 - [:rotating_light: Fix some linting errors](https://github.com/openebs/rawfile-localpv/pull/384) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
@@ -85,7 +86,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:arrow_up: Upgrade Infrastructure stuff](https://github.com/openebs/rawfile-localpv/pull/374) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:bug: Some API Server Fixes](https://github.com/openebs/rawfile-localpv/pull/373) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:green_heart: Remove multi-ecosystem group from dependabot](https://github.com/openebs/rawfile-localpv/pull/371) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:arrow_up: Upgrade kubernetes version and Nixpkgs](https://github.com/openebs/rawfile-localpv/pull/367) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
