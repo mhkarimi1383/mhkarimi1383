@@ -89,6 +89,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler (today)
 - [drluckyspin/rose-pine-bat](https://github.com/drluckyspin/rose-pine-bat) - Soho vibes for Bat (4 days ago)
 - [maxstollmayer/rose-pine.omp](https://github.com/maxstollmayer/rose-pine.omp) - Soho vibes for Oh My Posh (4 days ago)
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (6 days ago)
@@ -98,7 +99,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [TamaraNocentini/cnpg-headlamp-plugin](https://github.com/TamaraNocentini/cnpg-headlamp-plugin) - Headlamp plugin for CNPG (1 week ago)
 - [aradar46/reuse-before-generate](https://github.com/aradar46/reuse-before-generate) - Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold. (1 week ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 week ago)
-- [frozenstate/FluentEmojiMagisk](https://github.com/frozenstate/FluentEmojiMagisk) - A Magisk module that replaces Android system emojis with Fluent Emojis from Microsoft. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
