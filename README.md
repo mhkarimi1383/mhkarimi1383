@@ -43,15 +43,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (today)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 days ago)
-- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (3 days ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (3 days ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (3 days ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 days ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 days ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (3 days ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (5 days ago)
+- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 day ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (4 days ago)
+- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (4 days ago)
+- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (4 days ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (4 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (4 days ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (4 days ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (4 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (6 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 
 ### 🌱 My latest projects
@@ -69,8 +69,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.0), 1 day ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.0), 2 days ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 2 weeks ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 8 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 
@@ -89,11 +89,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [drluckyspin/rose-pine-bat](https://github.com/drluckyspin/rose-pine-bat) - Soho vibes for Bat (3 days ago)
-- [maxstollmayer/rose-pine.omp](https://github.com/maxstollmayer/rose-pine.omp) - Soho vibes for Oh My Posh (3 days ago)
-- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (5 days ago)
-- [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily. (6 days ago)
-- [deployah-dev/deployah](https://github.com/deployah-dev/deployah) - Spec-to-Release for Kubernetes: turn a short app spec into a real Helm release. Zero Helm knowledge, zero cluster-side setup, one binary. (6 days ago)
+- [drluckyspin/rose-pine-bat](https://github.com/drluckyspin/rose-pine-bat) - Soho vibes for Bat (4 days ago)
+- [maxstollmayer/rose-pine.omp](https://github.com/maxstollmayer/rose-pine.omp) - Soho vibes for Oh My Posh (4 days ago)
+- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (6 days ago)
+- [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily. (1 week ago)
+- [deployah-dev/deployah](https://github.com/deployah-dev/deployah) - Spec-to-Release for Kubernetes: turn a short app spec into a real Helm release. Zero Helm knowledge, zero cluster-side setup, one binary. (1 week ago)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 week ago)
 - [TamaraNocentini/cnpg-headlamp-plugin](https://github.com/TamaraNocentini/cnpg-headlamp-plugin) - Headlamp plugin for CNPG (1 week ago)
 - [aradar46/reuse-before-generate](https://github.com/aradar46/reuse-before-generate) - Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold. (1 week ago)
