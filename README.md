@@ -76,6 +76,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [Fix SSL Certificate to use fullchain](https://github.com/d3vpro/whm_ols/pull/1) on [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) (today)
 - [:tada: Add RawFile localpv integration with kubectl plugin](https://github.com/openebs/openebs/pull/4301) on [openebs/openebs](https://github.com/openebs/openebs) (1 week ago)
 - [:sparkles: Add support for setting compute resources on API Server](https://github.com/openebs/rawfile-localpv/pull/399) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:coffin: Removed deprecated configurations/features](https://github.com/openebs/rawfile-localpv/pull/387) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 weeks ago)
@@ -85,7 +86,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Update Resume](https://github.com/mhkarimi1383/mhkarimi1383.github.io/pull/1) on [mhkarimi1383/mhkarimi1383.github.io](https://github.com/mhkarimi1383/mhkarimi1383.github.io) (1 month ago)
 - [:bug: Use findmnt with more stable output instead of using mount](https://github.com/openebs/rawfile-localpv/pull/375) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:arrow_up: Upgrade Infrastructure stuff](https://github.com/openebs/rawfile-localpv/pull/374) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:bug: Some API Server Fixes](https://github.com/openebs/rawfile-localpv/pull/373) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
