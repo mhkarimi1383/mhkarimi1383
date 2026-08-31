@@ -2,7 +2,7 @@
 
 👋 My name is Muhammed Hussain Karimi
 ========================================
-DevOps Engineer | Programmer | Open Source Enthusiast
+Software & Platform Engineer | Co-Founder & CTO at @ParminCloud | Open Source Contributor
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkarimi1383" alt="mhkarimi1383" /> </p>
 
