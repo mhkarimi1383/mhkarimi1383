@@ -43,8 +43,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (6 days ago)
-- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (6 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
+- [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (1 week ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 week ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (2 weeks ago)
@@ -69,14 +69,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), 2 days ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.0), 1 week ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
-- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 3 weeks ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), 3 days ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.0](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.0), 2 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
+- [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 4 weeks ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([v1.0.0](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/v1.0.0), 9 months ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 
 ### 🔨 My recent Pull Requests
 
-- [Fix SSL Certificate to use fullchain](https://github.com/d3vpro/whm_ols/pull/1) on [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) (today)
+- [Fix SSL Certificate to use fullchain](https://github.com/d3vpro/whm_ols/pull/1) on [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) (1 day ago)
 - [:tada: Add RawFile localpv integration with kubectl plugin](https://github.com/openebs/openebs/pull/4301) on [openebs/openebs](https://github.com/openebs/openebs) (1 week ago)
 - [:sparkles: Add support for setting compute resources on API Server](https://github.com/openebs/rawfile-localpv/pull/399) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [:coffin: Removed deprecated configurations/features](https://github.com/openebs/rawfile-localpv/pull/387) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (4 weeks ago)
@@ -89,14 +89,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [gfhdhytghd/HyprCapture](https://github.com/gfhdhytghd/HyprCapture) - The best screenshot tool for Hyprland (6 days ago)
+- [gfhdhytghd/HyprCapture](https://github.com/gfhdhytghd/HyprCapture) - The best screenshot tool for Hyprland (1 week ago)
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler (1 week ago)
 - [drluckyspin/rose-pine-bat](https://github.com/drluckyspin/rose-pine-bat) - Soho vibes for Bat (2 weeks ago)
 - [maxstollmayer/rose-pine.omp](https://github.com/maxstollmayer/rose-pine.omp) - Soho vibes for Oh My Posh (2 weeks ago)
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (2 weeks ago)
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily. (2 weeks ago)
 - [deployah-dev/deployah](https://github.com/deployah-dev/deployah) - Spec-to-Release for Kubernetes: turn a short app spec into a real Helm release. Zero Helm knowledge, zero cluster-side setup, one binary. (2 weeks ago)
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (2 weeks ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (3 weeks ago)
 - [TamaraNocentini/cnpg-headlamp-plugin](https://github.com/TamaraNocentini/cnpg-headlamp-plugin) - Headlamp plugin for CNPG (3 weeks ago)
 - [aradar46/reuse-before-generate](https://github.com/aradar46/reuse-before-generate) - Stop your AI agent from rebuilding what already exists. An opinionated MCP server that checks GitHub, npm and Python repos for maintained alternatives before you scaffold. (3 weeks ago)
 
