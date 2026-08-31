@@ -10,7 +10,7 @@ Software & Platform Engineer | Co-Founder & CTO at @ParminCloud | Open Source Co
 
 Co-Founder / CTO @ [ParminCloud](https://github.com/ParminCloud)
 
-💻 DevOps Engineer and Programmer<br>
+💻 Software & Platform Engineer<br>
 😎 Geek<br>
 🎮 XBOX/PC (Linux) Player<br>
 🙏 Talk is cheep, Show me the code... Linus Torvalds<br>
