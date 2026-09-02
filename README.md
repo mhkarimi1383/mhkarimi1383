@@ -43,16 +43,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 day ago)
+- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (today)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 day ago)
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (1 day ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 day ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 day ago)
 - [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (1 day ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 day ago)
 - [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (1 week ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 week ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (2 weeks ago)
 - [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (2 weeks ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -76,6 +76,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:arrow_up: Upgrade go mods](https://github.com/mhkarimi1383/url-shortener/pull/42) on [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) (today)
 - [Fix SSL Certificate to use fullchain](https://github.com/d3vpro/whm_ols/pull/1) on [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) (3 days ago)
 - [:tada: Add RawFile localpv integration with kubectl plugin](https://github.com/openebs/openebs/pull/4301) on [openebs/openebs](https://github.com/openebs/openebs) (1 week ago)
 - [:sparkles: Add support for setting compute resources on API Server](https://github.com/openebs/rawfile-localpv/pull/399) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 weeks ago)
@@ -85,7 +86,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:rotating_light: Exclude blind-except (BLE001)](https://github.com/openebs/rawfile-localpv/pull/383) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [Update Resume](https://github.com/mhkarimi1383/mhkarimi1383.github.io/pull/1) on [mhkarimi1383/mhkarimi1383.github.io](https://github.com/mhkarimi1383/mhkarimi1383.github.io) (1 month ago)
 - [:bug: Use findmnt with more stable output instead of using mount](https://github.com/openebs/rawfile-localpv/pull/375) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:arrow_up: Upgrade Infrastructure stuff](https://github.com/openebs/rawfile-localpv/pull/374) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 
 ### ⭐ Recent Stars
 
