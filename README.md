@@ -52,7 +52,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (5 days ago)
 - [mhkarimi1383/kitty](https://github.com/mhkarimi1383/kitty) - Kitty Terminal Configuration (Based on catppuccin mocha theme) (1 week ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (2 weeks ago)
-- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (3 weeks ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 weeks ago)
 
 ### 🌱 My latest projects
 
