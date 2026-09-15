@@ -77,6 +77,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:green_heart: Ensure Version is correct in OpenAPI Export](https://github.com/openebs/rawfile-localpv/pull/427) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
+- [:zap: Add upgrade path inforcement infra in Helm Chart](https://github.com/openebs/rawfile-localpv/pull/426) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:loud_sound: Improve CoW test logs](https://github.com/openebs/rawfile-localpv/pull/425) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [:truck: Add img_file migration](https://github.com/openebs/rawfile-localpv/pull/422) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 days ago)
 - [:zap: Improve parameters parsing](https://github.com/openebs/rawfile-localpv/pull/413) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
@@ -85,8 +87,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Fix SSL Certificate to use fullchain](https://github.com/d3vpro/whm_ols/pull/1) on [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) (2 weeks ago)
 - [:tada: Add RawFile localpv integration with kubectl plugin](https://github.com/openebs/openebs/pull/4301) on [openebs/openebs](https://github.com/openebs/openebs) (3 weeks ago)
 - [:sparkles: Add support for setting compute resources on API Server](https://github.com/openebs/rawfile-localpv/pull/399) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (3 weeks ago)
-- [:coffin: Removed deprecated configurations/features](https://github.com/openebs/rawfile-localpv/pull/387) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
-- [:memo: Initial DesignDoc for Resource Quota](https://github.com/cybozu-go/accurate/pull/238) on [cybozu-go/accurate](https://github.com/cybozu-go/accurate) (1 month ago)
 
 ### ⭐ Recent Stars
 
