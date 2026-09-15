@@ -69,7 +69,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.2](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.2), 4 days ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.10.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.10.0), 2 weeks ago) - Progressive Delivery for Kubernetes
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 1 month ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
@@ -90,6 +90,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (today)
 - [andrsp/sentry-nodestore-elastic](https://github.com/andrsp/sentry-nodestore-elastic) - Sentry Nodestore based on Elasticsearch (1 day ago)
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation. (1 week ago)
 - [rostamlabs/rostam](https://github.com/rostamlabs/rostam) - Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standalone, or replicate it across a Raft cluster. HNSW/IVF/Vamana indexes, quantization, hybrid dense&#43;sparse and BM25 search, WASM stored procedures. Apache-2.0. (2 weeks ago)
@@ -99,7 +100,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [maxstollmayer/rose-pine.omp](https://github.com/maxstollmayer/rose-pine.omp) - Soho vibes for Oh My Posh (1 month ago)
 - [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (1 month ago)
 - [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily. (1 month ago)
-- [deployah-dev/deployah](https://github.com/deployah-dev/deployah) - Spec-to-Release for Kubernetes: turn a short app spec into a real Helm release. Zero Helm knowledge, zero cluster-side setup, one binary. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
