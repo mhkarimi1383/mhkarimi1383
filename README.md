@@ -69,7 +69,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.1-preview.1](https://github.com/rustfs/rustfs/releases/tag/1.0.1-preview.1), 1 day ago) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.1-preview.3](https://github.com/rustfs/rustfs/releases/tag/1.0.1-preview.3), today) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.3](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.3), 1 day ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) ([stable](https://github.com/n8n-io/n8n/releases/tag/stable), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.10.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.10.0), 3 weeks ago) - Progressive Delivery for Kubernetes
