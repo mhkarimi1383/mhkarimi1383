@@ -91,6 +91,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [valkey-io/valkey-helm](https://github.com/valkey-io/valkey-helm) - Valkey Helm Chart (today)
 - [teknologi-umum/captcha](https://github.com/teknologi-umum/captcha) - Self-hostable powerful yet lightweight Telegram captcha bot (3 days ago)
 - [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (3 days ago)
 - [andrsp/sentry-nodestore-elastic](https://github.com/andrsp/sentry-nodestore-elastic) - Sentry Nodestore based on Elasticsearch (4 days ago)
@@ -100,7 +101,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler (1 month ago)
 - [drluckyspin/rose-pine-bat](https://github.com/drluckyspin/rose-pine-bat) - Soho vibes for Bat (1 month ago)
 - [maxstollmayer/rose-pine.omp](https://github.com/maxstollmayer/rose-pine.omp) - Soho vibes for Oh My Posh (1 month ago)
-- [qemus/qemu](https://github.com/qemus/qemu) - QEMU in a Docker container. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
