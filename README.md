@@ -69,8 +69,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.82](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.82), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.1-preview.11](https://github.com/rustfs/rustfs/releases/tag/1.0.1-preview.11), 1 day ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.3](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.3), 1 week ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.10.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.10.0), 4 weeks ago) - Progressive Delivery for Kubernetes
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 1 month ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
@@ -104,11 +104,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
-- [sabahmax-inc](https://github.com/sabahmax-inc)
 - [adornetejr](https://github.com/adornetejr)
 - [poormikey80-create](https://github.com/poormikey80-create)
 - [Vadim-Matsul](https://github.com/Vadim-Matsul)
 - [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy)
+- [razavioo](https://github.com/razavioo)
 
 
 #### 🏆 GitHub Trophies
