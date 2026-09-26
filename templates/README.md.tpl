@@ -25,6 +25,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### Maintainer of
 
+* [cliphist-picker](https://mhkarimi1383/cliphist-picker)
 * [ParminCloud/haproxy-redis-sentinel](https://github.com/ParminCloud/haproxy-redis-sentinel)
 * [ParminCloud/Containers](https://github.com/ParminCloud/Containers)
 * [ParminCloud/Charts](https://github.com/ParminCloud/Charts)
