@@ -44,7 +44,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`. (1 day ago)
+- [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`. (today)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 week ago)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (3 weeks ago)
@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [tiagozip/metasearch](https://github.com/tiagozip/metasearch) - search the web without slop. pretty, fast, privacy-friendly metasearch engine. (today)
 - [h2non/go-is-svg](https://github.com/h2non/go-is-svg) - Check if a given buffer is a valid SVG image in Go (golang) (1 day ago)
 - [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY (2 days ago)
 - [valkey-io/valkey-helm](https://github.com/valkey-io/valkey-helm) - Valkey Helm Chart (1 week ago)
@@ -101,7 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation. (3 weeks ago)
 - [rostamlabs/rostam](https://github.com/rostamlabs/rostam) - Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standalone, or replicate it across a Raft cluster. HNSW/IVF/Vamana indexes, quantization, hybrid dense&#43;sparse and BM25 search, WASM stored procedures. Apache-2.0. (3 weeks ago)
 - [gfhdhytghd/HyprCapture](https://github.com/gfhdhytghd/HyprCapture) - The best screenshot tool for Hyprland (1 month ago)
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
