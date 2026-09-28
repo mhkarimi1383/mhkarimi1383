@@ -44,9 +44,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`. (today)
+- [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`. (1 day ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 week ago)
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (2 weeks ago)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (3 weeks ago)
 - [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations (3 weeks ago)
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (3 weeks ago)
@@ -70,8 +70,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.82](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.82), 2 days ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.1-preview.11](https://github.com/rustfs/rustfs/releases/tag/1.0.1-preview.11), 3 days ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.82](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.82), 3 days ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.1-preview.11](https://github.com/rustfs/rustfs/releases/tag/1.0.1-preview.11), 4 days ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.3](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.3), 1 week ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.10.0](https://github.com/argoproj/argo-rollouts/releases/tag/v1.10.0), 1 month ago) - Progressive Delivery for Kubernetes
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 1 month ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
@@ -92,15 +92,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [tiagozip/metasearch](https://github.com/tiagozip/metasearch) - search the web without slop. pretty, fast, privacy-friendly metasearch engine. (today)
-- [h2non/go-is-svg](https://github.com/h2non/go-is-svg) - Check if a given buffer is a valid SVG image in Go (golang) (1 day ago)
-- [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY (2 days ago)
+- [tiagozip/metasearch](https://github.com/tiagozip/metasearch) - search the web without slop. pretty, fast, privacy-friendly metasearch engine. (1 day ago)
+- [h2non/go-is-svg](https://github.com/h2non/go-is-svg) - Check if a given buffer is a valid SVG image in Go (golang) (2 days ago)
+- [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY (3 days ago)
 - [valkey-io/valkey-helm](https://github.com/valkey-io/valkey-helm) - Valkey Helm Chart (1 week ago)
 - [teknologi-umum/captcha](https://github.com/teknologi-umum/captcha) - Self-hostable powerful yet lightweight Telegram captcha bot (1 week ago)
 - [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (1 week ago)
-- [andrsp/sentry-nodestore-elastic](https://github.com/andrsp/sentry-nodestore-elastic) - Sentry Nodestore based on Elasticsearch (1 week ago)
+- [andrsp/sentry-nodestore-elastic](https://github.com/andrsp/sentry-nodestore-elastic) - Sentry Nodestore based on Elasticsearch (2 weeks ago)
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation. (3 weeks ago)
-- [rostamlabs/rostam](https://github.com/rostamlabs/rostam) - Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standalone, or replicate it across a Raft cluster. HNSW/IVF/Vamana indexes, quantization, hybrid dense&#43;sparse and BM25 search, WASM stored procedures. Apache-2.0. (3 weeks ago)
+- [rostamlabs/rostam](https://github.com/rostamlabs/rostam) - Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standalone, or replicate it across a Raft cluster. HNSW/IVF/Vamana indexes, quantization, hybrid dense&#43;sparse and BM25 search, WASM stored procedures. Apache-2.0. (4 weeks ago)
 - [gfhdhytghd/HyprCapture](https://github.com/gfhdhytghd/HyprCapture) - The best screenshot tool for Hyprland (1 month ago)
 
 ### 👯 Check out some of my recent followers
