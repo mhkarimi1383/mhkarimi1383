@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer: (today)
 - [middleapi/uncheck](https://github.com/middleapi/uncheck) - One command to lint, format check and type check your project, and keep a monorepo consistent. uncheck runs the oxlint, oxfmt, tsc and sherif you installed, so you, your git hooks and your coding agents all run the same check. (today)
 - [bradtraversy/skillpass](https://github.com/bradtraversy/skillpass) - A validated directory of AI skills to help your workflow. Post your skills and install others. (today)
 - [tiagozip/metasearch](https://github.com/tiagozip/metasearch) - search the web without slop. pretty, fast, privacy-friendly metasearch engine. (6 days ago)
@@ -101,7 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [teknologi-umum/captcha](https://github.com/teknologi-umum/captcha) - Self-hostable powerful yet lightweight Telegram captcha bot (2 weeks ago)
 - [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (2 weeks ago)
 - [andrsp/sentry-nodestore-elastic](https://github.com/andrsp/sentry-nodestore-elastic) - Sentry Nodestore based on Elasticsearch (2 weeks ago)
-- [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
