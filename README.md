@@ -92,6 +92,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [middleapi/uncheck](https://github.com/middleapi/uncheck) - One command to lint, format check and type check your project, and keep a monorepo consistent. uncheck runs the oxlint, oxfmt, tsc and sherif you installed, so you, your git hooks and your coding agents all run the same check. (today)
+- [bradtraversy/skillpass](https://github.com/bradtraversy/skillpass) - A validated directory of AI skills to help your workflow. Post your skills and install others. (today)
 - [tiagozip/metasearch](https://github.com/tiagozip/metasearch) - search the web without slop. pretty, fast, privacy-friendly metasearch engine. (6 days ago)
 - [h2non/go-is-svg](https://github.com/h2non/go-is-svg) - Check if a given buffer is a valid SVG image in Go (golang) (1 week ago)
 - [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY (1 week ago)
@@ -100,8 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (2 weeks ago)
 - [andrsp/sentry-nodestore-elastic](https://github.com/andrsp/sentry-nodestore-elastic) - Sentry Nodestore based on Elasticsearch (2 weeks ago)
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation. (1 month ago)
-- [rostamlabs/rostam](https://github.com/rostamlabs/rostam) - Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standalone, or replicate it across a Raft cluster. HNSW/IVF/Vamana indexes, quantization, hybrid dense&#43;sparse and BM25 search, WASM stored procedures. Apache-2.0. (1 month ago)
-- [gfhdhytghd/HyprCapture](https://github.com/gfhdhytghd/HyprCapture) - The best screenshot tool for Hyprland (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
