@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [RayElg/kafgres](https://github.com/RayElg/kafgres) - Kafka broker embedded in postgres (today)
 - [arsenalzp/whyreconcile](https://github.com/arsenalzp/whyreconcile) - whyreconcile: diagnostic helper for Kubernetes and OpenShift controllers built with kubebuilder and/or operator-sdk on top of controller-runtime (1 day ago)
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer: (1 day ago)
 - [middleapi/uncheck](https://github.com/middleapi/uncheck) - One command to lint, format check and type check your project, and keep a monorepo consistent. uncheck runs the oxlint, oxfmt, tsc and sherif you installed, so you, your git hooks and your coding agents all run the same check. (1 day ago)
@@ -101,7 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY (1 week ago)
 - [valkey-io/valkey-helm](https://github.com/valkey-io/valkey-helm) - Valkey Helm Chart (2 weeks ago)
 - [teknologi-umum/captcha](https://github.com/teknologi-umum/captcha) - Self-hostable powerful yet lightweight Telegram captcha bot (2 weeks ago)
-- [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
