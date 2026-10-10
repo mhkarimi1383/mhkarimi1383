@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (today)
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia (4 days ago)
 - [RayElg/kafgres](https://github.com/RayElg/kafgres) - Kafka broker embedded in postgres (6 days ago)
 - [arsenalzp/whyreconcile](https://github.com/arsenalzp/whyreconcile) - whyreconcile: diagnostic helper for Kubernetes and OpenShift controllers built with kubebuilder and/or operator-sdk on top of controller-runtime (1 week ago)
@@ -101,7 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [tiagozip/metasearch](https://github.com/tiagozip/metasearch) - search the web without slop. pretty, fast, privacy-friendly metasearch engine. (1 week ago)
 - [h2non/go-is-svg](https://github.com/h2non/go-is-svg) - Check if a given buffer is a valid SVG image in Go (golang) (2 weeks ago)
 - [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY (2 weeks ago)
-- [valkey-io/valkey-helm](https://github.com/valkey-io/valkey-helm) - Valkey Helm Chart (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
