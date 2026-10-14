@@ -45,18 +45,19 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 ### 👷 Check out what I'm currently working on
 
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (today)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 day ago)
-- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (1 day ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 day ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 day ago)
+- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (1 day ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 day ago)
+- [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (3 days ago)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`. (2 weeks ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
 - [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (1 month ago)
-- [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config (1 month ago)
 
 ### 🌱 My latest projects
 
+- [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions.
 - [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`.
 - [mhkarimi1383/wlogout](https://github.com/mhkarimi1383/wlogout) - wlogout Theme
 - [mhkarimi1383/windeploy-linux](https://github.com/mhkarimi1383/windeploy-linux) - Deploy windows to any device within linux Forked from https://codeberg.org/regnarg/deploy-win10-from-linux to make it cleaner and easier to work with
@@ -66,14 +67,13 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [mhkarimi1383/keywind-dracula](https://github.com/mhkarimi1383/keywind-dracula) - Dracula theme for keycloak (based on keywind and tailwind)
 - [mhkarimi1383/dunst](https://github.com/mhkarimi1383/dunst) - Dunst configurations
 - [mhkarimi1383/fuzzel](https://github.com/mhkarimi1383/fuzzel) - Fuzzel config
-- [mhkarimi1383/health-checker](https://github.com/mhkarimi1383/health-checker) - Health check your dependencies with ease
 
 ### 🔭 Latest releases I've contributed to
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.2-preview.1](https://github.com/rustfs/rustfs/releases/tag/1.0.2-preview.1), today) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.85](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.85), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.5](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.5), 2 days ago) - Progressive Delivery for Kubernetes
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 1 week ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.1](https://github.com/rustfs/rustfs/releases/tag/1.0.1), 1 week ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.3](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.3), 4 weeks ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 2 months ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 
@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (today)
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (4 days ago)
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia (1 week ago)
 - [RayElg/kafgres](https://github.com/RayElg/kafgres) - Kafka broker embedded in postgres (1 week ago)
@@ -101,7 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [bradtraversy/skillpass](https://github.com/bradtraversy/skillpass) - A validated directory of AI skills to help your workflow. Post your skills and install others. (1 week ago)
 - [tiagozip/metasearch](https://github.com/tiagozip/metasearch) - search the web without slop. pretty, fast, privacy-friendly metasearch engine. (2 weeks ago)
 - [h2non/go-is-svg](https://github.com/h2non/go-is-svg) - Check if a given buffer is a valid SVG image in Go (golang) (2 weeks ago)
-- [pgsty/silo](https://github.com/pgsty/silo) - S3-Compatible Object Storage. A MinIO fork maintained by PGSTY (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
