@@ -70,7 +70,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.2](https://github.com/rustfs/rustfs/releases/tag/1.0.2), 1 day ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.3-preview.1](https://github.com/rustfs/rustfs/releases/tag/1.0.3-preview.1), today) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) ([stable](https://github.com/n8n-io/n8n/releases/tag/stable), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.5](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.5), 5 days ago) - Progressive Delivery for Kubernetes
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 1 week ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (today)
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (3 days ago)
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (1 week ago)
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia (1 week ago)
@@ -101,7 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [middleapi/uncheck](https://github.com/middleapi/uncheck) - One command to lint, format check and type check your project, and keep a monorepo consistent. uncheck runs the oxlint, oxfmt, tsc and sherif you installed, so you, your git hooks and your coding agents all run the same check. (2 weeks ago)
 - [bradtraversy/skillpass](https://github.com/bradtraversy/skillpass) - A validated directory of AI skills to help your workflow. Post your skills and install others. (2 weeks ago)
 - [tiagozip/metasearch](https://github.com/tiagozip/metasearch) - search the web without slop. pretty, fast, privacy-friendly metasearch engine. (2 weeks ago)
-- [h2non/go-is-svg](https://github.com/h2non/go-is-svg) - Check if a given buffer is a valid SVG image in Go (golang) (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
