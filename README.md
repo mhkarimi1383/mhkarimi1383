@@ -70,7 +70,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([stable](https://github.com/n8n-io/n8n/releases/tag/stable), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.3](https://github.com/rustfs/rustfs/releases/tag/1.0.3), 4 days ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.5](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.5), 1 week ago) - Progressive Delivery for Kubernetes
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 2 weeks ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
@@ -92,6 +92,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived (today)
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs (today)
 - [PgCache/pgcache](https://github.com/PgCache/pgcache) - Drop-in PostgreSQL caching proxy and smart read replica. Caches your hottest reads, keeps them fresh with logical replication, and takes load off your primary. You change one connection string. (1 day ago)
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (4 days ago)
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (1 week ago)
@@ -100,8 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [RayElg/kafgres](https://github.com/RayElg/kafgres) - Kafka broker embedded in postgres (2 weeks ago)
 - [arsenalzp/whyreconcile](https://github.com/arsenalzp/whyreconcile) - whyreconcile: diagnostic helper for Kubernetes and OpenShift controllers built with kubebuilder and/or operator-sdk on top of controller-runtime (2 weeks ago)
 - [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer: (2 weeks ago)
-- [middleapi/uncheck](https://github.com/middleapi/uncheck) - One command to lint, format check and type check your project, and keep a monorepo consistent. uncheck runs the oxlint, oxfmt, tsc and sherif you installed, so you, your git hooks and your coding agents all run the same check. (2 weeks ago)
-- [bradtraversy/skillpass](https://github.com/bradtraversy/skillpass) - A validated directory of AI skills to help your workflow. Post your skills and install others. (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
