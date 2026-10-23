@@ -105,11 +105,11 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👯 Check out some of my recent followers
 
-- [coffsec](https://github.com/coffsec)
 - [kpopdev](https://github.com/kpopdev)
 - [adornetejr](https://github.com/adornetejr)
 - [poormikey80-create](https://github.com/poormikey80-create)
 - [Vadim-Matsul](https://github.com/Vadim-Matsul)
+- [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy)
 
 
 #### 🏆 GitHub Trophies
