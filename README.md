@@ -44,8 +44,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 day ago)
-- [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (6 days ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (2 days ago)
+- [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (1 week ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
 - [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (1 week ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 week ago)
@@ -70,8 +70,8 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.87](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.87), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.3](https://github.com/rustfs/rustfs/releases/tag/1.0.3), 6 days ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.87](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.87), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.3](https://github.com/rustfs/rustfs/releases/tag/1.0.3), 1 week ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.5](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.5), 1 week ago) - Progressive Delivery for Kubernetes
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 2 weeks ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.3](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.3), 1 month ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
@@ -92,16 +92,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived (2 days ago)
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs (2 days ago)
-- [PgCache/pgcache](https://github.com/PgCache/pgcache) - Drop-in PostgreSQL caching proxy and smart read replica. Caches your hottest reads, keeps them fresh with logical replication, and takes load off your primary. You change one connection string. (3 days ago)
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (6 days ago)
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived (3 days ago)
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs (3 days ago)
+- [PgCache/pgcache](https://github.com/PgCache/pgcache) - Drop-in PostgreSQL caching proxy and smart read replica. Caches your hottest reads, keeps them fresh with logical replication, and takes load off your primary. You change one connection string. (4 days ago)
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 week ago)
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (1 week ago)
-- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (1 week ago)
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (2 weeks ago)
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia (2 weeks ago)
 - [RayElg/kafgres](https://github.com/RayElg/kafgres) - Kafka broker embedded in postgres (2 weeks ago)
-- [arsenalzp/whyreconcile](https://github.com/arsenalzp/whyreconcile) - whyreconcile: diagnostic helper for Kubernetes and OpenShift controllers built with kubebuilder and/or operator-sdk on top of controller-runtime (2 weeks ago)
-- [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer: (2 weeks ago)
+- [arsenalzp/whyreconcile](https://github.com/arsenalzp/whyreconcile) - whyreconcile: diagnostic helper for Kubernetes and OpenShift controllers built with kubebuilder and/or operator-sdk on top of controller-runtime (3 weeks ago)
+- [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer: (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
