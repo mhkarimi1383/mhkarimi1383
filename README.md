@@ -44,16 +44,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (today)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (4 days ago)
 - [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (1 week ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
-- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (1 week ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 week ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 week ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
+- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (1 week ago)
 - [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`. (4 weeks ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
-- [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) -  (1 month ago)
 
 ### 🌱 My latest projects
 
@@ -79,6 +79,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [Replace pcre with pcre2 in default.nix](https://github.com/hyprwm/hyprpaper/pull/385) on [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) (today)
 - [:green_heart: Ensure Version is correct in OpenAPI Export](https://github.com/openebs/rawfile-localpv/pull/427) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:zap: Add upgrade path inforcement infra in Helm Chart](https://github.com/openebs/rawfile-localpv/pull/426) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:loud_sound: Improve CoW test logs](https://github.com/openebs/rawfile-localpv/pull/425) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -88,7 +89,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:arrow_up: Upgrade go mods](https://github.com/mhkarimi1383/url-shortener/pull/42) on [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) (1 month ago)
 - [Fix SSL Certificate to use fullchain](https://github.com/d3vpro/whm_ols/pull/1) on [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) (1 month ago)
 - [:tada: Add RawFile localpv integration with kubectl plugin](https://github.com/openebs/openebs/pull/4301) on [openebs/openebs](https://github.com/openebs/openebs) (2 months ago)
-- [:sparkles: Add support for setting compute resources on API Server](https://github.com/openebs/rawfile-localpv/pull/399) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 
 ### ⭐ Recent Stars
 
