@@ -44,15 +44,15 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (today)
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (4 days ago)
+- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (1 day ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (5 days ago)
 - [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (1 week ago)
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (1 week ago)
-- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (1 week ago)
-- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (1 week ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (1 week ago)
-- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (1 week ago)
-- [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`. (4 weeks ago)
+- [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (2 weeks ago)
+- [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (2 weeks ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 weeks ago)
+- [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (2 weeks ago)
+- [mhkarimi1383/cliphist-picker](https://github.com/mhkarimi1383/cliphist-picker) - A fast, minimal **TUI clipboard manager for Wayland**, built around [`cliphist`](https://github.com/sentriz/cliphist) and `fzf`. (1 month ago)
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes (1 month ago)
 
 ### 🌱 My latest projects
@@ -70,16 +70,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.88](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.88), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.4](https://github.com/rustfs/rustfs/releases/tag/1.0.4), 1 day ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@1.123.88](https://github.com/n8n-io/n8n/releases/tag/n8n%401.123.88), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.4](https://github.com/rustfs/rustfs/releases/tag/1.0.4), 2 days ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.5](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.5), 2 weeks ago) - Progressive Delivery for Kubernetes
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 2 weeks ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 3 weeks ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) ([v0.15.3](https://github.com/openebs/rawfile-localpv/releases/tag/v0.15.3), 1 month ago) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage.
 - [influxdata/docs-v2](https://github.com/influxdata/docs-v2) ([rust-markdown-converter-v0.1.0](https://github.com/influxdata/docs-v2/releases/tag/rust-markdown-converter-v0.1.0), 2 months ago) - InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.
 
 ### 🔨 My recent Pull Requests
 
-- [Replace pcre with pcre2 in default.nix](https://github.com/hyprwm/hyprpaper/pull/385) on [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) (today)
+- [Replace pcre with pcre2 in default.nix](https://github.com/hyprwm/hyprpaper/pull/385) on [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) (1 day ago)
 - [:green_heart: Ensure Version is correct in OpenAPI Export](https://github.com/openebs/rawfile-localpv/pull/427) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:zap: Add upgrade path inforcement infra in Helm Chart](https://github.com/openebs/rawfile-localpv/pull/426) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:loud_sound: Improve CoW test logs](https://github.com/openebs/rawfile-localpv/pull/425) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -92,16 +92,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived (5 days ago)
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs (5 days ago)
-- [PgCache/pgcache](https://github.com/PgCache/pgcache) - Drop-in PostgreSQL caching proxy and smart read replica. Caches your hottest reads, keeps them fresh with logical replication, and takes load off your primary. You change one connection string. (6 days ago)
+- [dtornow/pgs3](https://github.com/dtornow/pgs3) - S3 on Postgres  (1 day ago)
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived (6 days ago)
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs (6 days ago)
+- [PgCache/pgcache](https://github.com/PgCache/pgcache) - Drop-in PostgreSQL caching proxy and smart read replica. Caches your hottest reads, keeps them fresh with logical replication, and takes load off your primary. You change one connection string. (1 week ago)
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 week ago)
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (1 week ago)
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (2 weeks ago)
-- [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia (2 weeks ago)
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia (3 weeks ago)
 - [RayElg/kafgres](https://github.com/RayElg/kafgres) - Kafka broker embedded in postgres (3 weeks ago)
 - [arsenalzp/whyreconcile](https://github.com/arsenalzp/whyreconcile) - whyreconcile: diagnostic helper for Kubernetes and OpenShift controllers built with kubebuilder and/or operator-sdk on top of controller-runtime (3 weeks ago)
-- [georgmangold/console](https://github.com/georgmangold/console) - Console is a  Admin UI for MinIO® Object Storage Server :desktop_computer: (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
