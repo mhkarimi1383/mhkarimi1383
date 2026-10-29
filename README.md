@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer (today)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (today)
 - [truckersmp-cli/truckersmp-cli](https://github.com/truckersmp-cli/truckersmp-cli) - A simple launcher for truckersMP to be used with wine (1 day ago)
 - [dtornow/pgs3](https://github.com/dtornow/pgs3) - S3 on Postgres  (3 days ago)
@@ -101,7 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 week ago)
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (2 weeks ago)
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (2 weeks ago)
-- [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
