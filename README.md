@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) - Custom scripts for mirror jobs (today)
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer (2 days ago)
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (2 days ago)
 - [truckersmp-cli/truckersmp-cli](https://github.com/truckersmp-cli/truckersmp-cli) - A simple launcher for truckersMP to be used with wine (3 days ago)
@@ -101,7 +102,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [PgCache/pgcache](https://github.com/PgCache/pgcache) - Drop-in PostgreSQL caching proxy and smart read replica. Caches your hottest reads, keeps them fresh with logical replication, and takes load off your primary. You change one connection string. (1 week ago)
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (2 weeks ago)
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (2 weeks ago)
-- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository. (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
