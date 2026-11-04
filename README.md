@@ -44,12 +44,12 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
-- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (today)
-- [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (2 days ago)
-- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (2 days ago)
-- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (2 days ago)
-- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (2 days ago)
-- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (2 weeks ago)
+- [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 day ago)
+- [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (3 days ago)
+- [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (3 days ago)
+- [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 days ago)
+- [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 days ago)
+- [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) - A cert-manager ACME DNS01 solver webhook for ArvanCloud (3 weeks ago)
 - [mhkarimi1383/hypr](https://github.com/mhkarimi1383/hypr) - Hyprwm (Hyprland, Hyprlock and Hypridle) configurations (3 weeks ago)
 - [mhkarimi1383/tmux](https://github.com/mhkarimi1383/tmux) -  (3 weeks ago)
 - [mhkarimi1383/waybar](https://github.com/mhkarimi1383/waybar) - Waybar configuration (using Catppuccin Mocha colors and Hyprland) (3 weeks ago)
@@ -70,7 +70,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@3.1.0](https://github.com/n8n-io/n8n/releases/tag/n8n%403.1.0), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([n8n@3.1.0](https://github.com/n8n-io/n8n/releases/tag/n8n%403.1.0), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.4](https://github.com/rustfs/rustfs/releases/tag/1.0.4), 1 week ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.8.5](https://github.com/argoproj/argo-rollouts/releases/tag/v1.8.5), 3 weeks ago) - Progressive Delivery for Kubernetes
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 4 weeks ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
@@ -92,16 +92,16 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
-- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) - Custom scripts for mirror jobs (3 days ago)
-- [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer (5 days ago)
-- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (5 days ago)
-- [truckersmp-cli/truckersmp-cli](https://github.com/truckersmp-cli/truckersmp-cli) - A simple launcher for truckersMP to be used with wine (6 days ago)
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) - Custom scripts for mirror jobs (4 days ago)
+- [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer (6 days ago)
+- [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes (6 days ago)
+- [truckersmp-cli/truckersmp-cli](https://github.com/truckersmp-cli/truckersmp-cli) - A simple launcher for truckersMP to be used with wine (1 week ago)
 - [dtornow/pgs3](https://github.com/dtornow/pgs3) - S3 on Postgres  (1 week ago)
-- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived (1 week ago)
-- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs (1 week ago)
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived (2 weeks ago)
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs (2 weeks ago)
 - [PgCache/pgcache](https://github.com/PgCache/pgcache) - Drop-in PostgreSQL caching proxy and smart read replica. Caches your hottest reads, keeps them fresh with logical replication, and takes load off your primary. You change one connection string. (2 weeks ago)
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (2 weeks ago)
-- [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (2 weeks ago)
+- [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage. (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
