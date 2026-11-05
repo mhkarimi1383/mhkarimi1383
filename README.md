@@ -70,7 +70,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.10.2](https://github.com/argoproj/argo-rollouts/releases/tag/v1.10.2), 1 day ago) - Progressive Delivery for Kubernetes
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.11.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.11.0-rc1), today) - Progressive Delivery for Kubernetes
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), 1 day ago) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.4](https://github.com/rustfs/rustfs/releases/tag/1.0.4), 1 week ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 1 month ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
@@ -79,6 +79,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [:bug: Fix leak on cached gRPC connections between nodes](https://github.com/openebs/rawfile-localpv/pull/490) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (today)
 - [Replace pcre with pcre2 in default.nix](https://github.com/hyprwm/hyprpaper/pull/385) on [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) (1 week ago)
 - [:green_heart: Ensure Version is correct in OpenAPI Export](https://github.com/openebs/rawfile-localpv/pull/427) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
 - [:zap: Add upgrade path inforcement infra in Helm Chart](https://github.com/openebs/rawfile-localpv/pull/426) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -88,7 +89,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:bug: Fix apiServer cap kill switch](https://github.com/openebs/rawfile-localpv/pull/409) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 - [:arrow_up: Upgrade go mods](https://github.com/mhkarimi1383/url-shortener/pull/42) on [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) (2 months ago)
 - [Fix SSL Certificate to use fullchain](https://github.com/d3vpro/whm_ols/pull/1) on [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) (2 months ago)
-- [:tada: Add RawFile localpv integration with kubectl plugin](https://github.com/openebs/openebs/pull/4301) on [openebs/openebs](https://github.com/openebs/openebs) (2 months ago)
 
 ### ⭐ Recent Stars
 
