@@ -92,6 +92,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### ⭐ Recent Stars
 
+- [jonrad/lsp-mcp](https://github.com/jonrad/lsp-mcp) - An Model Context Protocol (MCP) server that provides LLMs/AI Agents with the capabilities of a language server protocol (LSP) server. This gives the AI the ability to get language aware context from the codebase. (today)
 - [hanwen/go-fuse](https://github.com/hanwen/go-fuse) - FUSE bindings for Go (1 day ago)
 - [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) - Custom scripts for mirror jobs (1 week ago)
 - [irontec/sngrep](https://github.com/irontec/sngrep) - Ncurses SIP Messages flow viewer (1 week ago)
@@ -101,15 +102,14 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived (2 weeks ago)
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs (2 weeks ago)
 - [PgCache/pgcache](https://github.com/PgCache/pgcache) - Drop-in PostgreSQL caching proxy and smart read replica. Caches your hottest reads, keeps them fresh with logical replication, and takes load off your primary. You change one connection string. (2 weeks ago)
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
+- [coffsec](https://github.com/coffsec)
 - [poormikey80-create](https://github.com/poormikey80-create)
 - [0vm](https://github.com/0vm)
 - [kpopdev](https://github.com/kpopdev)
 - [adornetejr](https://github.com/adornetejr)
-- [Vadim-Matsul](https://github.com/Vadim-Matsul)
 
 
 #### 🏆 GitHub Trophies
