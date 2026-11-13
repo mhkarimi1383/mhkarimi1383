@@ -79,6 +79,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔨 My recent Pull Requests
 
+- [Add ParminCloud Registry mirror](https://github.com/Linuxmaster14/iran-docker/pull/12) on [Linuxmaster14/iran-docker](https://github.com/Linuxmaster14/iran-docker) (today)
 - [:bug: Fix leak on cached gRPC connections between nodes](https://github.com/openebs/rawfile-localpv/pull/490) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 week ago)
 - [Replace pcre with pcre2 in default.nix](https://github.com/hyprwm/hyprpaper/pull/385) on [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) (2 weeks ago)
 - [:green_heart: Ensure Version is correct in OpenAPI Export](https://github.com/openebs/rawfile-localpv/pull/427) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (1 month ago)
@@ -88,7 +89,6 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 - [:zap: Improve parameters parsing](https://github.com/openebs/rawfile-localpv/pull/413) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 - [:bug: Fix apiServer cap kill switch](https://github.com/openebs/rawfile-localpv/pull/409) on [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) (2 months ago)
 - [:arrow_up: Upgrade go mods](https://github.com/mhkarimi1383/url-shortener/pull/42) on [mhkarimi1383/url-shortener](https://github.com/mhkarimi1383/url-shortener) (2 months ago)
-- [Fix SSL Certificate to use fullchain](https://github.com/d3vpro/whm_ols/pull/1) on [d3vpro/whm_ols](https://github.com/d3vpro/whm_ols) (2 months ago)
 
 ### ⭐ Recent Stars
 
