@@ -44,9 +44,9 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 👷 Check out what I'm currently working on
 
+- [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (today)
 - [openebs/rawfile-localpv](https://github.com/openebs/rawfile-localpv) - Dynamically deploy Stateful Persistent Node-Local Volumes &amp; Filesystems for Kubernetes that is provisioned from RAW-device file loop mounted Local-Hostpath storage. (1 week ago)
 - [Linuxmaster14/iran-docker](https://github.com/Linuxmaster14/iran-docker) - A simple and powerful Bash script to simplify Docker usage on Iranian servers. (1 week ago)
-- [mhkarimi1383/llm-assisted-predictive-autoscaling](https://github.com/mhkarimi1383/llm-assisted-predictive-autoscaling) - An intelligent autoscaling system that uses Large Language Models (LLMs) as a reasoning layer for Kubernetes workload prediction and cluster status to improve scaling decisions. (1 week ago)
 - [mhkarimi1383/nvim](https://github.com/mhkarimi1383/nvim) -  (3 weeks ago)
 - [ParminCloud/Containers](https://github.com/ParminCloud/Containers) - Publicly available Container Images (3 weeks ago)
 - [mhkarimi1383/nixos](https://github.com/mhkarimi1383/nixos) - NixOS Configurations using flake and home manager (and other dotfiles as submodules) (3 weeks ago)
@@ -70,7 +70,7 @@ Also check out my dotfiles/setups [here](https://github.com/search?q=user%3Amhka
 
 ### 🔭 Latest releases I've contributed to
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([stable](https://github.com/n8n-io/n8n/releases/tag/stable), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) ([beta](https://github.com/n8n-io/n8n/releases/tag/beta), today) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) ([1.0.6](https://github.com/rustfs/rustfs/releases/tag/1.0.6), 1 week ago) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) ([v1.11.0-rc1](https://github.com/argoproj/argo-rollouts/releases/tag/v1.11.0-rc1), 2 weeks ago) - Progressive Delivery for Kubernetes
 - [ParminCloud/arvancloud-certmanager-issuer](https://github.com/ParminCloud/arvancloud-certmanager-issuer) ([chart-1.0.1](https://github.com/ParminCloud/arvancloud-certmanager-issuer/releases/tag/chart-1.0.1), 1 month ago) - A cert-manager ACME DNS01 solver webhook for ArvanCloud
